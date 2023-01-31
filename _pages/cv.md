@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[CV PDF](/files/Mahmood_CV_Jan-23.pdf)  
+[Resume PDF](/files/Mahmood_Resume.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
