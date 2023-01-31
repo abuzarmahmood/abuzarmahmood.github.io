@@ -7,7 +7,7 @@ main:
     url: /teaching/    
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://medium.com/@abuzar_mahmood
     
   - title: "CV"
     url: /cv/
