@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Abuzar Mahmood"
-  avatar           : "/images/mahmood.png"
+  avatar           : "mahmood.png"
   bio              : "Investigating dynamics of sensory processing using electrophysiology and statistical modelling"
   location         : "Boston, USA"
   employer         :
