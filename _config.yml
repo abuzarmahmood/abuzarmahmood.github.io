@@ -84,10 +84,10 @@ author:
   avatar           : "mahmood.png"
   bio              : "Investigating dynamics of sensory processing using electrophysiology and statistical modelling"
   location         : "Boston, USA"
-  employer         :
+  employer         : "Brandeis University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Abuzar+Mahmood"
   googlescholar    : "https://scholar.google.com/citations?user=AR_Jp8kAAAAJ&hl=en"
-  email            :
+  email            : "abuzarmahmood@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/abuzarmahmood/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2448-4818"
   pinterest        :
   soundcloud       :
