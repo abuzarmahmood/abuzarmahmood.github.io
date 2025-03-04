@@ -9,5 +9,8 @@ main:
   - title: "Blog Posts"
     url: https://medium.com/@abuzar_mahmood
     
+  - title: "Projects"
+    url: /projects/
+    
   - title: "CV"
     url: /cv/
