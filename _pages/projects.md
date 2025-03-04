@@ -25,4 +25,5 @@ Welcome to my projects page. Here you'll find an overview of my research and dev
   <li><a href="https://github.com/abuzarmahmood/teachables">Teachables</a>: A platform for creating educational content.</li>
   <li><a href="https://github.com/abuzarmahmood/neuRecommend">NeuRecommend</a>: A recommendation system for neuroscience.</li>
   <li><a href="https://github.com/abuzarmahmood/KatzGPT">KatzGPT</a>: A GPT-based chatbot.</li>
+  <li><a href="https://github.com/pulakatlab/auto_slide">AutoSlide</a>: A semi-supervised machine vision pipeline for calculating interstitial fibrosis from histological samples</li>
 </ul>
