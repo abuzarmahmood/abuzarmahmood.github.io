@@ -6,7 +6,10 @@ main:
   - title: "Teaching and Mentorship"
     url: /teaching/    
         
-  - title: "Blog Posts"
+  - title: "Blog"
+    url: /blog/
+    
+  - title: "Medium Blog"
     url: https://medium.com/@abuzar_mahmood
     
   - title: "Projects"
