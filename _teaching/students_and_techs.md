@@ -21,3 +21,4 @@ Recruited, trained, and mentored 4 undergradate, 1 post-baccalaureate, and 3 PhD
 | Paige Beauparlant | Undergraduate Researcher; Worked on project investigating role of AT2R signalling in suppressing cardiac inflammation. Co-author on a manuscript.|   2017 |
 | Laura Perry | Undergraduate Researcher; Worked on project investigating role of AT2R signalling in suppressing cardiac inflammation.| 2017 |
 | Jamal Bajwa | Undergraduate Researcher; Contributed to project investigating differences in cardiovascular disease progression in diabetic and obese male vs. female rats| 2017 |
+| Vincent | PhD Rotation Student; [Add Vincent's activities here] | [Add year] |
