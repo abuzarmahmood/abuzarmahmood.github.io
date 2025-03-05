@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-# Projects
-
 Welcome to my projects page. Here you'll find an overview of my research and development work.
 
 ## GitHub Projects

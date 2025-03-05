@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-# Blogs
 Thanks for your interest in my work.
 
 Below, you can find links for changes I've contributed to our main neural data extraction and analysis pipeline (blech_clust), as well as my thoughts on other projects and musings (Medium).
