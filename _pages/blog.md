@@ -45,8 +45,6 @@ I'm excited to share my journey in neuroscience, data analysis, and various othe
 <p><a
 href="https://katzlabbrandeis.github.io/blech_clust/blogs/blogs_main.html" class="btn btn--primary">Blech_Clust Blog</a></p>
 
-      </div>
-    </div>
   </div>
 </div>
 
