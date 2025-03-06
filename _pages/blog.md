@@ -41,6 +41,8 @@ I'm excited to share my journey in neuroscience, data analysis, and various othe
           <p>Follow my contributions to the Blech_Clust neural data extraction and analysis pipeline, where I document improvements and new features.</p>
         </div>
         <p><a href="https://github.com/KatzLabBrandeis/blech_clust" class="btn btn--primary">View on GitHub</a></p>
+
+<p><a
 href="https://katzlabbrandeis.github.io/blech_clust/blogs/blogs_main.html" class="btn btn--primary">Blech_Clust Blog</a></p>
 
         <p><em>The documentation site is currently being updated. In the meantime, check out the GitHub repository for the latest updates.</em></p>
