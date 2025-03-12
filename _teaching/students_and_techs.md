@@ -14,6 +14,7 @@ Recruited, trained, and mentored 4 undergradate, 1 post-baccalaureate, and 3 PhD
 
 | Name          | Position; activities | Year  |
 | ------------- |:---------------------|:-----:|
+| Vincent Calia-Bogan| Undergraduate Researcher; Computational Modeling and Data Analysis, **Computational Neuroscience Training Fellowship**, Project: “Investigating intra-state dynamics in taste-evoked gustatory cortex response”, Manuscript in preparation| 2023-2025|
 | Hannah Germaine  | PhD Rotation Student; Developed and performed critical control analyses for changepoing modelling of gustatory cortex population activity. Co-author on a manuscript. | 2022 |
 | Victor Suarez| PhD Rotation Student; Worked on an off-shoot project investigating neural activity on trials where rats gape vs do not gape in response in quinine (bitter tastant) |2020 |
 | Jessica Steindler | Post-Baccalaureate Student/Research Technician; Performed surgery, data collection, and microdrive construction for investigating BLA-GC communication. Co-author on a manuscript | 2019-2021 |
