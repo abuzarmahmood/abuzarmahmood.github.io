@@ -57,7 +57,6 @@ Welcome to my digital laboratory notebook where science meets storytelling. Join
         <h2 class="archive__item-title">Personal Reflections</h2>
         <div class="archive__item-excerpt">
           <p>Explore my articles on Medium where I share insights on neuroscience, data analysis techniques, and occasional musings on technology and science.</p>
-          <p><strong>Popular Article:</strong> "Why Your Brain Loves That Song: The Neuroscience of Musical Preference"</p>
         </div>
         <p><a href="https://medium.com/@abuzar_mahmood" class="btn btn--primary">Read on Medium</a></p>
         <p><em>Note: I'm in the process of updating my Medium profile. Check back soon for new content!</em></p>
