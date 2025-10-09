@@ -9,66 +9,76 @@ author_profile: true
 
 # Latest Updates and Announcements
 
-Stay informed about my latest research developments, publications, presentations, and professional milestones. This page serves as a central hub for all recent activities and achievements.
+Stay informed about my latest research developments, publications, presentations, and professional milestones.
 
 ## Recent Highlights
 
-### March 2025
+### 2025
 
-**New Research Initiative**  
-Launched investigation into cortical feedback mechanisms in taste processing. This project explores how top-down signals from gustatory cortex modulate subcortical sensory representations.
+**Poster of Distinction**  
+Received Poster of Distinction award at MCRI Annual Retreat 2025
 
-### February 2025
+**ACCESS-CI Compute Grant**  
+Awarded ACCESS-CI Compute Grant MED250058 (CoPI) from NSF for computational research
 
-**Conference Presentation**  
-Presented findings on temporal dynamics of taste-responsive neurons at the annual neuroscience symposium. The work highlights novel patterns in neural population activity during taste discrimination tasks.
+**Invited Talks**  
+- Mathematical Biology Seminar, Brandeis University
+- Insights Team Meeting, Appcast Inc.
+- Systems Neuroscience Journal Club, Harvard Medical School
 
-### January 2025
+**Guest Lecturer**  
+Advanced Data Analysis course, Brandeis University - LLMs and AI Agent pipelines
 
-**Publication Update**  
-Manuscript on amygdala-thalamus interactions during taste processing submitted for peer review. Stay tuned for updates on the publication status.
+### 2024
 
-## Upcoming Events
+**Polak Young Investigator Award**  
+Received Polak Young Investigator Award from Association for Chemoreception Sciences, delivered award lecture at ACHEMS Annual Meeting
 
-### Spring 2025
+**Invited Presentations**  
+- Swartz Foundation Annual Meeting
+- Brandeis Neuro Postdoc Symposium
 
-- **Workshop**: Advanced spike sorting techniques for multi-electrode array recordings
-- **Seminar Series**: Guest lectures on computational neuroscience methods
-- **Lab Updates**: New equipment installation for optogenetic experiments
+**Computational Neuroscience Fellowship**  
+Awarded Computational Neuroscience Fellowship from Swartz Foundation (2023-present)
 
-## Professional Development
+### 2023
 
-### Recent Achievements
+**Ph.D. Completion**  
+Completed Ph.D. in Neuroscience at Brandeis University  
+Thesis: "Multi-region Coordination for Taste Processing in the Rodent Brain"  
+Advisor: Donald B. Katz
 
-- Completed advanced training in machine learning applications for neural data analysis
-- Contributed to open-source neural analysis pipeline (Blech_Clust)
-- Mentored undergraduate researchers in electrophysiology techniques
+**Postdoctoral Positions**  
+- Postdoctoral Research Fellow, Tufts Medical Center
+- Postdoctoral Fellow, Brandeis University
 
-## Research Milestones
+**Invited Talk**  
+PyMCon Web Series
 
-### Current Projects
+**ACCESS-CI Compute Grant**  
+Awarded ACCESS-CI Compute Grant BIO230103 as PI from NSF
 
-1. **Cortical Feedback in Taste Processing**  
-   Investigating how feedback projections influence sensory coding in subcortical structures
+**Trainee Professional Development Award**  
+Society for Neuroscience
 
-2. **Neural Population Dynamics**  
-   Analyzing ensemble activity patterns using dimensionality reduction and state-space methods
+**Publication**  
+Mahmood, A., Steindler, J., Germaine, H., Katz, D.B., "Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity," Journal of Neuroscience, vol. 43, no. 3, pp. 386–404
 
-3. **Computational Modeling**  
-   Developing recurrent network models to explain temporal dynamics in taste circuits
+## Publications in Review/Submission
 
-## Collaborations
+**In Review**  
+- Mukadam, N., Mahmood, A., et al., "Subjective Cognitive Concerns and Global Metacognitive Bias in Prodromal Parkinson's and Parkinson's Disease without Cognitive Impairment" (Neuropsychology)
+- Mahmood, A., "Pytau: A Python Package for Streamlined Changepoint Model Analysis in Neuroscience" (Journal of Open Source Software)
 
-Open to collaborations in:
-- Sensory neuroscience
-- Neural data analysis methods
-- Computational modeling of neural circuits
-- Machine learning applications in neuroscience
+**In Submission**  
+- Baas-Thomas, N., Mahmood, A., et al., "The Ingestive Response Reflects Gustatory Cortical Neural Dynamics" (Co-first author)  
+  BioRxiv: https://doi.org/10.1101/2025.10.01.
 
-[Contact me](/contact/) to discuss potential collaborations or research opportunities.
+**In Revision**  
+- Mahmood, A., Steindler, J., Katz, D.B., "Perceptual processing of tastes is performed by the amygdala-cortical loop"  
+  bioRxiv: https://doi.org/10.1101/2025.07.01.
 
-## Archive
-
-Looking for older updates? Browse through previous announcements and milestones in the archive section.
-
-**Note:** This page is regularly updated with new developments. Check back frequently or subscribe to receive notifications.
+**In Preparation**  
+- Calia-Bogan, V., Steindler, J., Katz, D.B., Mahmood, A., "Characterizing Intra-State Dynamics of Gustatory Cortical Taste-Evoked Activity"
+- Mahmood, A., Duong, K.A., Mansour, A., Pulakat, L., "CNN-assisted semi-automated histological evaluation of interstitial and perivascular fibrosis"
+- Mahmood, A., Mehm, A., et al., "Feeding Satiation-Resistant Rat Strain as a Model for Obesity, Diabetes, and Heart Failure" (Co-first author)
