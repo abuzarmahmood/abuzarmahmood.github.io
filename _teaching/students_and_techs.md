@@ -3,22 +3,39 @@ title: "Mentoring students and technicians (2013-Present)"
 collection: teaching
 type: "Mentorship"
 permalink: /teaching/students_and_techs
-venue: "Pulakat Lab (University of Missouri) and Katz Lab (Brandeis University)"
-date: 2023-01-01
-location: "Columbia, MO and Waltham, MA"
+venue: "MCRI (Tufts Medical Center), Katz Lab (Brandeis University), and Pulakat Lab (University of Missouri)"
+date: 2024-01-01
+location: "Boston, MA; Waltham, MA; and Columbia, MO"
 ---
 
-Recruited, trained, and mentored 4 undergradate, 1 post-baccalaureate, and 3 PhD rotation students to both support my projects and on independent projects.
+Recruited, trained, and mentored undergraduate, post-baccalaureate, MD, and PhD rotation students to both support my projects and on independent projects.
 
 ---
+
+## MCRI, Tufts Medical Center, MA
 
 | Name          | Position; activities | Year  |
 | ------------- |:---------------------|:-----:|
-| Vincent Calia-Bogan| Undergraduate Researcher; Computational Modeling and Data Analysis, **Computational Neuroscience Training Fellowship**, Project: “Investigating intra-state dynamics in taste-evoked gustatory cortex response”, Manuscript in preparation| 2023-2025|
-| Hannah Germaine  | PhD Rotation Student; Developed and performed critical control analyses for changepoing modelling of gustatory cortex population activity. Co-author on a manuscript. | 2022 |
-| Victor Suarez| PhD Rotation Student; Worked on an off-shoot project investigating neural activity on trials where rats gape vs do not gape in response in quinine (bitter tastant) |2020 |
-| Jessica Steindler | Post-Baccalaureate Student/Research Technician; Performed surgery, data collection, and microdrive construction for investigating BLA-GC communication. Co-author on a manuscript | 2019-2021 |
-| Thomas Murdy | Undergraduate Researcher; Investigated role of GC-->BLA projection in Conditioned Taste Aversion using optogenetics. Undergraduate thesis awarded High Honors|   2020-2021 |
-| Paige Beauparlant | Undergraduate Researcher; Worked on project investigating role of AT2R signalling in suppressing cardiac inflammation. Co-author on a manuscript.|   2017 |
-| Laura Perry | Undergraduate Researcher; Worked on project investigating role of AT2R signalling in suppressing cardiac inflammation.| 2017 |
-| Jamal Bajwa | Undergraduate Researcher; Contributed to project investigating differences in cardiovascular disease progression in diabetic and obese male vs. female rats| 2017 |
+| Charles Xu | MD Student; Data collection and Analysis | 2024 |
+| Alex Mansour | Undergraduate; Data Collection and Analysis. Co-author on manuscript (In Preparation) | 2024-2025 |
+| Kiet Duong | Undergraduate; Data Collection and Analysis. Co-author on manuscript (In Preparation) | 2024-2025 |
+| Abigail Wu | Summer Student, Research Science Institute; Data Analysis | 2024 |
+| Nancy Hassan | Summer Student, Research Science Institute; Data Analysis | 2024 |
+
+## Brandeis University, MA
+
+| Name          | Position; activities | Year  |
+| ------------- |:---------------------|:-----:|
+| Vincent Calia-Bogan| Undergraduate Researcher; Computational Modeling and Data Analysis, **Computational Neuroscience Training Grant awardee**, Project: "Investigating intra-state dynamics in gustatory cortex" (High Honors), First author in manuscript (In Preparation)| 2023-2025|
+| Hannah Germaine  | PhD Rotation Student; Modeling and Data Analysis. Co-author on 1 published article. | 2022 |
+| Victor Suarez| PhD Rotation Student; Data Analysis |2020 |
+| Jessica Steindler | Post-Baccalaureate Student/Research Technician; Hardware construction, surgery, and data collection. Co-author on 1 published article, and 1 submitted manuscript | 2019-2021 |
+| Thomas Murdy | Undergraduate Researcher; Surgery, data collection, and analysis. Project: "Investigating the BLA-GC interaction in CTA acquisition" (High Honors)|   2020-2021 |
+
+## University of Missouri, MO
+
+| Name          | Position; activities | Year  |
+| ------------- |:---------------------|:-----:|
+| Paige Beauparlant | Undergraduate; Data collection |   2017 |
+| Laura Perry | Undergraduate student; Data collection | 2017 |
+| Jamal Bajwa | Undergraduate; Data collection and analysis | 2016-2017 |
