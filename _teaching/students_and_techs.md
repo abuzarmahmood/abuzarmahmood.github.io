@@ -16,9 +16,8 @@ Recruited, trained, and mentored undergraduate, post-baccalaureate, MD, and PhD 
 
 | Name          | Position; activities | Year  |
 | ------------- |:---------------------|:-----:|
-| Charles Xu | MD Student; Data collection and Analysis | 2024 |
-| Alex Mansour | Undergraduate; Data Collection and Analysis. Co-author on manuscript (In Preparation) | 2024-2025 |
-| Kiet Duong | Undergraduate; Data Collection and Analysis. Co-author on manuscript (In Preparation) | 2024-2025 |
+| Charles Xu | MD student; Data collection and Analysis | 2024 |
+| Alex Mansour | Undergraduate; Data Collection and Analysis | 2024 |
 | Abigail Wu | Summer Student, Research Science Institute; Data Analysis | 2024 |
 | Nancy Hassan | Summer Student, Research Science Institute; Data Analysis | 2024 |
 
@@ -26,11 +25,11 @@ Recruited, trained, and mentored undergraduate, post-baccalaureate, MD, and PhD 
 
 | Name          | Position; activities | Year  |
 | ------------- |:---------------------|:-----:|
-| Vincent Calia-Bogan| Undergraduate Researcher; Computational Modeling and Data Analysis, **Computational Neuroscience Training Grant awardee**, Project: "Investigating intra-state dynamics in gustatory cortex" (High Honors), First author in manuscript (In Preparation)| 2023-2025|
+| Vincent Calia-Bogan| Undergraduate; Computational Modeling and Data Analysis, **Computational Neuroscience Training Grant awardee**, Project: "Investigating intra-state dynamics in gustatory cortex" (High Honors), First author in manuscript (In Preparation)| 2023-2025|
 | Hannah Germaine  | PhD Rotation Student; Modeling and Data Analysis. Co-author on 1 published article. | 2022 |
 | Victor Suarez| PhD Rotation Student; Data Analysis |2020 |
-| Jessica Steindler | Post-Baccalaureate Student/Research Technician; Hardware construction, surgery, and data collection. Co-author on 1 published article, and 1 submitted manuscript | 2019-2021 |
-| Thomas Murdy | Undergraduate Researcher; Surgery, data collection, and analysis. Project: "Investigating the BLA-GC interaction in CTA acquisition" (High Honors)|   2020-2021 |
+| Jessica Steindler | Post-Bac; Hardware construction, surgery, and data collection. Co-author on 1 published article, and 1 submitted manuscript | 2019-2021 |
+| Thomas Murdy | Undergraduate; Surgery, data collection, and analysis. Project: "Investigating the BLA-GC interaction in CTA acquisition" (High Honors)|   2020-2021 |
 
 ## University of Missouri, MO
 
