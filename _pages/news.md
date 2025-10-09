@@ -39,6 +39,10 @@ Advanced Data Analysis course, Brandeis University - LLMs and AI Agent pipelines
 **Polak Young Investigator Award**  
 Received Polak Young Investigator Award from Association for Chemoreception Sciences, delivered award lecture at ACHEMS Annual Meeting
 
+<div style="display: flex; gap: 15px; margin: 25px 0; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
+  <img src="/images/news/polak_award_2024/polak_award.jpg" alt="Polak Young Investigator Award 2024" style="height: 350px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
+
 **Invited Presentations**  
 - Swartz Foundation Annual Meeting
 - Brandeis Neuro Postdoc Symposium
