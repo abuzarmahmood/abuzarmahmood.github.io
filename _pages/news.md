@@ -18,6 +18,11 @@ Stay informed about my latest research developments, publications, presentations
 **Poster of Distinction**  
 Received Poster of Distinction award at MCRI Annual Retreat 2025
 
+<div style="display: flex; gap: 10px; margin: 20px 0; flex-wrap: wrap;">
+  <img src="/images/news/mcri_retreat_2025/WhatsApp Image 2025-10-09 at 5.05.40 PM.jpeg" alt="MCRI Retreat 2025 - Poster Presentation" style="width: 48%; max-width: 400px; height: auto;">
+  <img src="/images/news/mcri_retreat_2025/WhatsApp Image 2025-10-09 at 5.05.40 PM (1).jpeg" alt="MCRI Retreat 2025 - Award Recognition" style="width: 48%; max-width: 400px; height: auto;">
+</div>
+
 **ACCESS-CI Compute Grant**  
 Awarded ACCESS-CI Compute Grant MED250058 (CoPI) from NSF for computational research
 
