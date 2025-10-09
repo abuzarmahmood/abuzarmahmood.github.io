@@ -54,7 +54,7 @@ Awarded Computational Neuroscience Fellowship from Swartz Foundation (2023-prese
 
 **Ph.D. Completion**  
 Completed Ph.D. in Neuroscience at Brandeis University  
-Thesis: "Multi-region Coordination for Taste Processing in the Rodent Brain" [[PDF](https://github.com/user-attachments/files/22805586/Mahmood_Dissertation_Brandeis_2_10_23.pdf)]  
+Thesis: "Multi-region Coordination for Taste Processing in the Rodent Brain" [[PDF](/files/Mahmood_Dissertation_Brandeis_2_10_23.pdf)]  
 Advisor: Donald B. Katz
 
 **Postdoctoral Positions**  
