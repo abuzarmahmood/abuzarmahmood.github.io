@@ -54,7 +54,7 @@ Awarded Computational Neuroscience Fellowship from Swartz Foundation (2023-prese
 
 **Ph.D. Completion**  
 Completed Ph.D. in Neuroscience at Brandeis University  
-Thesis: "Multi-region Coordination for Taste Processing in the Rodent Brain"  
+Thesis: "Multi-region Coordination for Taste Processing in the Rodent Brain" [[PDF](https://github.com/user-attachments/files/22805586/Mahmood_Dissertation_Brandeis_2_10_23.pdf)]  
 Advisor: Donald B. Katz
 
 **Postdoctoral Positions**  
@@ -62,7 +62,7 @@ Advisor: Donald B. Katz
 - Postdoctoral Fellow, Brandeis University
 
 **Invited Talk**  
-PyMCon Web Series
+PyMCon Web Series - "The Only Constant is Change: Bespoke Changepoint Modelling in PyMC" [[Link](https://discourse.pymc.io/t/new-pymcon-talk-the-only-constant-is-change-bespoke-changepoint-modelling-in-pymc-by-abuzar-mahmood/13251)]
 
 **ACCESS-CI Compute Grant**  
 Awarded ACCESS-CI Compute Grant BIO230103 as PI from NSF
@@ -71,7 +71,7 @@ Awarded ACCESS-CI Compute Grant BIO230103 as PI from NSF
 Society for Neuroscience
 
 **Publication**  
-Mahmood, A., Steindler, J., Germaine, H., Katz, D.B., "Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity," Journal of Neuroscience, vol. 43, no. 3, pp. 386–404
+Mahmood, A., Steindler, J., Germaine, H., Katz, D.B., "Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity," Journal of Neuroscience, vol. 43, no. 3, pp. 386–404 [[Link](https://www.jneurosci.org/content/43/3/386.long)]
 
 ## Publications in Review/Submission
 
@@ -81,11 +81,11 @@ Mahmood, A., Steindler, J., Germaine, H., Katz, D.B., "Coupled Dynamics of Stimu
 
 **In Submission**  
 - Baas-Thomas, N., Mahmood, A., et al., "The Ingestive Response Reflects Gustatory Cortical Neural Dynamics" (Co-first author)  
-  BioRxiv: https://doi.org/10.1101/2025.10.01.
+  BioRxiv: https://doi.org/10.1101/2025.10.01.679845
 
 **In Revision**  
 - Mahmood, A., Steindler, J., Katz, D.B., "Perceptual processing of tastes is performed by the amygdala-cortical loop"  
-  bioRxiv: https://doi.org/10.1101/2025.07.01.
+  bioRxiv: https://doi.org/10.1101/2025.07.01.662567
 
 **In Preparation**  
 - Calia-Bogan, V., Steindler, J., Katz, D.B., Mahmood, A., "Characterizing Intra-State Dynamics of Gustatory Cortical Taste-Evoked Activity"
