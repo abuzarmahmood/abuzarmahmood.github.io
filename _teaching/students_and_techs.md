@@ -17,7 +17,8 @@ Recruited, trained, and mentored undergraduate, post-baccalaureate, MD, and PhD 
 | Name          | Position; activities | Year  |
 | ------------- |:---------------------|:-----:|
 | Charles Xu | MD Student; Data collection and Analysis | 2024 |
-| Alex Mansour | Undergraduate; Data Collection and Analysis | 2024 |
+| Alex Mansour | Undergraduate; Data Collection and Analysis. Co-author on manuscript (In Preparation) | 2024-2025 |
+| Kiet Duong | Undergraduate; Data Collection and Analysis. Co-author on manuscript (In Preparation) | 2024-2025 |
 | Abigail Wu | Summer Student, Research Science Institute; Data Analysis | 2024 |
 | Nancy Hassan | Summer Student, Research Science Institute; Data Analysis | 2024 |
 
