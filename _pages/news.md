@@ -19,8 +19,8 @@ Stay informed about my latest research developments, publications, presentations
 Received Poster of Distinction award at MCRI Annual Retreat 2025
 
 <div style="display: flex; gap: 15px; margin: 25px 0; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
-  <img src="/images/news/mcri_retreat_2025/WhatsApp Image 2025-10-09 at 5.05.40 PM.jpeg" alt="MCRI Retreat 2025 - Poster Presentation" style="max-height: 350px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <img src="/images/news/mcri_retreat_2025/WhatsApp Image 2025-10-09 at 5.05.40 PM (1).jpeg" alt="MCRI Retreat 2025 - Award Recognition" style="max-height: 350px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="/images/news/mcri_retreat_2025/WhatsApp Image 2025-10-09 at 5.05.40 PM.jpeg" alt="MCRI Retreat 2025 - Poster Presentation" style="max-height: 100px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="/images/news/mcri_retreat_2025/WhatsApp Image 2025-10-09 at 5.05.40 PM (1).jpeg" alt="MCRI Retreat 2025 - Award Recognition" style="max-height: 100px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
 **ACCESS-CI Compute Grant**  
