@@ -15,6 +15,9 @@ Stay informed about my latest research developments, publications, presentations
 
 ### 2025
 
+**Collaboration Featured in AChemS Career Networking Seminar**  
+Thomas Gray (Brandeis University) presented work from our collaboration on retronasal odor processing in gustatory cortex at the AChemS Career Networking Seminar Series. The talk, titled "Neural and behavioral correlates of flavor perception," explored how retronasal odor is processed in the gustatory cortex, its influence on taste responses, and how flavor experiences shape odor preferences. (May 14, 2025)
+
 **Poster of Distinction**  
 Received Poster of Distinction award at MCRI Annual Retreat 2025
 
