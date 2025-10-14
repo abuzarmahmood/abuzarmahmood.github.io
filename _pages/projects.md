@@ -17,6 +17,15 @@ Welcome to my projects portfolio. Here you'll discover how I'm leveraging techno
 
 ### Featured Development Tools
 
+#### [blech_clust](https://github.com/katzlabbrandeis/blech_clust)
+
+**Role:** Developer and Core Maintainer
+
+The primary data extraction and processing pipeline for the Katz Lab at Brandeis University. As a core maintainer, I contribute to the development and maintenance of this critical infrastructure used for neuroscience research data analysis.
+
+**Resources:**
+- [Blog and Documentation](https://github.com/katzlabbrandeis/katzlabbrandeis.github.io/blob/main/blech_clust%2Fblogs%2Fblogs_main.md)
+
 #### [AutoSlide](https://github.com/pulakatlab/auto_slide)
 
 A semi-supervised machine vision pipeline for calculating interstitial fibrosis from histological samples. This project has revolutionized our lab's analysis workflow, reducing processing time by 80% while maintaining high accuracy.
