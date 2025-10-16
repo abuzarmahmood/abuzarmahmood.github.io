@@ -13,6 +13,12 @@ I'm always eager to connect with fellow researchers, collaborators, or anyone in
 **Affiliation:** Brandeis University  
 **Email:** [abuzarmahmood@gmail.com](mailto:abuzarmahmood@gmail.com)
 
+## Schedule a Meeting
+
+Want to discuss research, collaboration opportunities, or have questions? Book a time that works for you:
+
+📅 [Schedule an Appointment](https://calendar.app.google/CDLQzyhk5AAdeGaZ7)
+
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/abuzarmahmood)
