@@ -23,4 +23,6 @@ I'm always eager to connect with fellow neuroscientists, data scientists, or any
 
 Research Interests
 ======
-Broadly, I'm interested in the mechanisms underlying the dynamics of processing and neural activity in the brain. This falls under the domain of studying the brain as a dynamical system, and studying the dynamics of interactions in the brain. 
+Broadly, I'm interested in the mechanisms underlying the dynamics of processing and neural activity in the brain. This falls under the domain of studying the brain as a dynamical system, and studying the dynamics of interactions in the brain.
+
+For a curated list of scientific articles related to my research interests, please visit my [reading](/reading/) page. 
