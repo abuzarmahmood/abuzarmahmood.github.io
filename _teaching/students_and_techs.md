@@ -27,6 +27,7 @@ Recruited, trained, and mentored undergraduate, post-baccalaureate, MD, and PhD 
 | Name          | Position; activities | Year  |
 | ------------- |:---------------------|:-----:|
 | Vincent Calia-Bogan| Undergraduate Researcher; Computational Modeling and Data Analysis, **Computational Neuroscience Training Grant awardee**, Project: "Investigating intra-state dynamics in gustatory cortex" (High Honors), First author in manuscript (In Preparation)| 2023-2025|
+| Vasudeva Krishnamurthy Bhat | PhD Rotation Student; Statistical modelling and data analysis. Project: "Detecting state changes in local field potential" | 2024 |
 | Hannah Germaine  | PhD Rotation Student; Modeling and Data Analysis. Co-author on 1 published article. | 2022 |
 | Victor Suarez| PhD Rotation Student; Data Analysis |2020 |
 | Jessica Steindler | Post-Baccalaureate Student/Research Technician; Hardware construction, surgery, and data collection. Co-author on 1 published article, and 1 submitted manuscript | 2019-2021 |
