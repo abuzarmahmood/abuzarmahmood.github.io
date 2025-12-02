@@ -15,6 +15,11 @@ Stay informed about my latest research developments, publications, presentations
 
 ### 2025
 
+**New Preprints**  
+Two new preprints posted on bioRxiv:
+- Mahmood A, Steindler JR, Katz DB (2025) "Sensory and palatability coding of taste stimuli in cortex involves dynamic and asymmetric cortico-amygdalar interactions" [[Link](https://doi.org/10.1101/2025.07.01.662567)]
+- Baas-Thomas N, Mahmood A, Mukherjee N, Maigler KC, Wang Y, Katz DB (2025) "The Ingestive Response Reflects Neural Dynamics in Gustatory Cortex" [[Link](https://doi.org/10.1101/2025.10.01.679845)]
+
 **Collaboration Featured in AChemS Career Networking Seminar**  
 Thomas Gray (Brandeis University) presented work from our collaboration on retronasal odor processing in gustatory cortex at the AChemS Career Networking Seminar Series. The talk, titled "Neural and behavioral correlates of flavor perception," explored how retronasal odor is processed in the gustatory cortex, its influence on taste responses, and how flavor experiences shape odor preferences. (May 14, 2025)
 
@@ -84,10 +89,10 @@ Mahmood, A., Steindler, J., Germaine, H., Katz, D.B., "Coupled Dynamics of Stimu
 
 **In Submission**  
 - Baas-Thomas, N., Mahmood, A., et al., "The Ingestive Response Reflects Gustatory Cortical Neural Dynamics" (Co-first author)  
-  BioRxiv: https://doi.org/10.1101/2025.10.01.679845
+  bioRxiv: https://doi.org/10.1101/2025.10.01.679845
 
 **In Revision**  
-- Mahmood, A., Steindler, J., Katz, D.B., "Perceptual processing of tastes is performed by the amygdala-cortical loop"  
+- Mahmood, A., Steindler, J., Katz, D.B., "Sensory and palatability coding of taste stimuli in cortex involves dynamic and asymmetric cortico-amygdalar interactions"  
   bioRxiv: https://doi.org/10.1101/2025.07.01.662567
 
 **In Preparation**  
