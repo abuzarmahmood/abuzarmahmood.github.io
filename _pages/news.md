@@ -23,6 +23,13 @@ Two new preprints posted on bioRxiv:
 **Collaboration Featured in AChemS Career Networking Seminar**  
 Thomas Gray (Brandeis University) presented work from our collaboration on retronasal odor processing in gustatory cortex at the AChemS Career Networking Seminar Series. The talk, titled "Neural and behavioral correlates of flavor perception," explored how retronasal odor is processed in the gustatory cortex, its influence on taste responses, and how flavor experiences shape odor preferences. (May 14, 2025)
 
+**Vincent Defense**  
+Vincent successfully defended his thesis and received High Honors for his defense work. He will be going on to do a post-bac in Angela Langdon's lab at the NIMH. [[NIMH Lab Link](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/angela-langdon-phd)] (May 1, 2025)
+
+<div style="display: flex; gap: 15px; margin: 25px 0; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
+  <img src="/images/news/vincent_defense_2025/vincent_defense.jpg" alt="Vincent Defense 2025" style="height: 350px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
+
 **Poster of Distinction**  
 Received Poster of Distinction award at MCRI Annual Retreat 2025
 
