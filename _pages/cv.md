@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV PDF](/files/Mahmood_CV_Jan-23.pdf)  
-[Resume PDF](/files/Mahmood_Resume.pdf)
+[CV PDF](/files/Mahmood_CV_1-12-26.pdf)
 
 Research Interests
 ======
