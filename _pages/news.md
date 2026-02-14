@@ -13,11 +13,17 @@ Stay informed about my latest research developments, publications, presentations
 
 ## Recent Highlights
 
-### 2026
+### 2026 🎉
 
 **Publications**  
+🚀 **Exciting news!** Two major publications released in 2026!
 - Mahmood, Abuzar, et al. “Sensory and Palatability Coding of Taste Stimuli in Cortex Involves Dynamic and Asymmetric Cortico-Amygdalar Interactions.” Journal of Neurophysiology, Jan. 2026, p. jn.00503.2025. [[Link](https://doi.org/10.1152/jn.00503.2025)]
 - Mahmood, A. (2026). pytau: A Python package for streamlined changepoint model analysis in neuroscience. Journal of Open Source Software, 11(117), 8509. [[Link](https://doi.org/10.21105/joss.08509)]
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white; margin: 20px 0; text-align: center;">
+  <strong style="font-size: 1.2em;">🌟 2026 is off to an amazing start!</strong><br>
+  Check out these groundbreaking publications in neuroscience and open source software!
+</div>
 
 ### 2025
 
