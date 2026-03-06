@@ -19,7 +19,7 @@ main:
     url: /news/
     
   - title: "CV"
-    url: /cv/
+    url: /detailed_cv/
     
   - title: "Contact"
     url: /contact/

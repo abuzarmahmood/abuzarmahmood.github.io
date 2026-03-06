@@ -20,7 +20,7 @@ My current work aims to further elucidate these interactions by investigating th
 
 I'm always eager to connect with fellow neuroscientists, data scientists, or anyone interested in the fascinating world of neural dynamics. Feel free to [reach out](/contact/) or explore my [projects](/projects/) and [publications](/publications/).
 
-You can also view my [detailed CV](/detailed_cv/) or download the [CV PDF](/files/Mahmood_CV_1-12-26.pdf).
+You can also view my [CV](/detailed_cv/) or download a (fairly recent) [PDF version](/files/Mahmood_CV_1-12-26.pdf).
 
 
 Research Interests
