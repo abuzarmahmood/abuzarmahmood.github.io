@@ -102,30 +102,31 @@ author_profile: true
 ## Poster Presentations
 
 1. Mahmood A., Mansour A., Duong K.A., Pulakat L. Machine learning-assisted semi-automation of interstitial fibrosis measurement in cardiac sections. *MCRI Retreat 2025*, Woods Hole — Honorable Mention
-2. Mahmood A., Steindler J., Katz D.B. Basolateral Amygdala and Gustatory Cortex interact bidirectionally during taste processing in rodents. *Society for Neuroscience Annual Meeting* (November 2024)
-3. Mahmood A., Mehm A., Liu P., Mooney B., Gavini M.P., Tang Y., and Pulakat L. Characterizing pathology and signaling in obese and diabetic female rats with heart disease as a model for HFpEF. *MCRI Annual Retreat*, Woods Hole, MA (September 2024)
-4. Mahmood A., Steindler J., Katz D.B. Basolateral Amygdala and Gustatory Cortex interact bidirectionally during taste processing in rodents. *Society for Neuroscience Annual Meeting* (November 2023) — Attendance supported by Society for Neuroscience Trainee Professional Development Award
-5. Mahmood A., Steindler J., Stone B.T., Katz D.B. Dynamic Coupling of Taste-Evoked Gustatory Cortical and Basolateral Amygdalar Activity. *ACHEMS XLV*, FL (April 2023)
-6. Mahmood A., Steindler J., Stone B.T., Katz D.B. Gustatory Cortex and Basolateral Amygdala Communication in Innate Taste Processing.
+2. Mahmood A., DeMarco V.G., Mehm A., Tang Y., Martin G.L., Agrawal S., Mooney B., Pulakat L. Impact of NP-6A4 on the pathology of heart-lung continuum in a female model for metabolic syndrome and heart failure with preserved ejection fraction. *2024 Angiotensin Conference GRC*, Lucca, Italy (2024)
+3. Mahmood A., Steindler J., Katz D.B. Basolateral Amygdala and Gustatory Cortex interact bidirectionally during taste processing in rodents. *Society for Neuroscience Annual Meeting* (November 2024)
+4. Mahmood A., Mehm A., Liu P., Mooney B., Gavini M.P., Tang Y., and Pulakat L. Characterizing pathology and signaling in obese and diabetic female rats with heart disease as a model for HFpEF. *MCRI Annual Retreat*, Woods Hole, MA (September 2024)
+5. Mahmood A., Steindler J., Katz D.B. Basolateral Amygdala and Gustatory Cortex interact bidirectionally during taste processing in rodents. *Society for Neuroscience Annual Meeting* (November 2023) — Attendance supported by Society for Neuroscience Trainee Professional Development Award
+6. Mahmood A., Steindler J., Stone B.T., Katz D.B. Dynamic Coupling of Taste-Evoked Gustatory Cortical and Basolateral Amygdalar Activity. *ACHEMS XLV*, FL (April 2023)
+7. Mahmood A., Steindler J., Stone B.T., Katz D.B. Gustatory Cortex and Basolateral Amygdala Communication in Innate Taste Processing.
    - *International Symposium on Olfaction and Taste*, Portland, WA (August 2020)
    - First Place, Graduate Poster Competition, Volen Center for Complex Systems Retreat (Sept 2021)
-7. Mahmood A., Luck C., DeMarco V.G., Gavini M., and Pulakat L. Differential Regulation of Cardiac Function and Intracardiac Cytokines by Rapamycin in healthy and diabetic rats. *University of Missouri Cardiovascular Day XXIV Poster Competition* (Feb 2017) — First Place, Undergraduate Competition
-8. Mahmood A., Gavini M., Senthilkumar A., Carmack T., DeMarco V., and Pulakat L. Investigating the role of the Angiotensin II Type 2 Receptor in Protective Cardiac Remodeling. *University of Missouri Summer Forum* (July 2016)
-9. Mahmood A., Raja A., Gavini M., and Pulakat L. Droplette — a Novel Method of Low-Pressure Transdermal Delivery to Chronic Wounds. *Missouri Life Sciences Week* (Apr 2016) — First Place, Undergraduate Competition, Life Science and Biomedical Engineering Technologies and Informatics category
-10. Mahmood A., and Pulakat L. Improved Survival of Nutrient-Starved Human and Mouse Cardiovascular Cells by A Novel AT2 Receptor Agonist NP-6A4.
+8. Mahmood A., Luck C., DeMarco V.G., Gavini M., and Pulakat L. Differential Regulation of Cardiac Function and Intracardiac Cytokines by Rapamycin in healthy and diabetic rats. *University of Missouri Cardiovascular Day XXIV Poster Competition* (Feb 2017) — First Place, Undergraduate Competition
+9. Mahmood A., Gavini M., Senthilkumar A., Carmack T., DeMarco V., and Pulakat L. Investigating the role of the Angiotensin II Type 2 Receptor in Protective Cardiac Remodeling. *University of Missouri Summer Forum* (July 2016)
+10. Mahmood A., Raja A., Gavini M., and Pulakat L. Droplette — a Novel Method of Low-Pressure Transdermal Delivery to Chronic Wounds. *Missouri Life Sciences Week* (Apr 2016) — First Place, Undergraduate Competition, Life Science and Biomedical Engineering Technologies and Informatics category
+11. Mahmood A., and Pulakat L. Improved Survival of Nutrient-Starved Human and Mouse Cardiovascular Cells by A Novel AT2 Receptor Agonist NP-6A4.
     - *Nutrition and Exercise Physiology Corporate Affiliate Board Meeting* (Nov 2015)
     - *University of Missouri Health Sciences Research Day* (Nov 2015)
-11. Mahmood A., and Pulakat L. Nutrient Stress Response of Cardiovascular Cells to β-Blockers, ARB and AT2R Agonists.
+12. Mahmood A., and Pulakat L. Nutrient Stress Response of Cardiovascular Cells to β-Blockers, ARB and AT2R Agonists.
     - *University of Missouri Undergraduate Research and Creative Achievements Summer Forum* (July 2015)
     - *Harry S. Truman VA Research Week Poster Competition* (Sept 2015)
     - *Hypertension 2015 Scientific Sessions* (Sept 2015)
-12. Mahmood A., Gul R., Luck C., and Pulakat L. Role of Cardiac mir-208a in Nebivolol-Mediated Signaling. *Experimental Biology*, Boston (March 2015)
-13. Mahmood A., and Pulakat L. Differential Effects of β-Blockers and a Novel AT2R Agonist on Cardiovascular Cells.
+13. Mahmood A., Gul R., Luck C., and Pulakat L. Role of Cardiac mir-208a in Nebivolol-Mediated Signaling. *Experimental Biology*, Boston (March 2015)
+14. Mahmood A., and Pulakat L. Differential Effects of β-Blockers and a Novel AT2R Agonist on Cardiovascular Cells.
     - Awarded Distinction, *University of Missouri Cardiovascular Day XXII Poster Competition* (Feb 2015)
     - *Missouri Life Sciences Week Poster Competition* (April 2015)
     - *University of Missouri Undergraduate Research and Creative Achievements Spring Forum* (April 2015)
-14. Mahmood A., and Pulakat L. Electrical Impedance-Based Measurement of Cardiomyocyte Response to Cardio-protective Drugs. *University of Missouri Health Sciences Research Day* (Nov 2014)
-15. Mahmood A., Gul R., and Pulakat L. Modulation of Electrical Impedance of cardiomyocytes by Nebivolol and novel AT2 Receptor Agonists.
+15. Mahmood A., and Pulakat L. Electrical Impedance-Based Measurement of Cardiomyocyte Response to Cardio-protective Drugs. *University of Missouri Health Sciences Research Day* (Nov 2014)
+16. Mahmood A., Gul R., and Pulakat L. Modulation of Electrical Impedance of cardiomyocytes by Nebivolol and novel AT2 Receptor Agonists.
     - *Harry S. Truman VA Research Week Poster Competition* (May 2014)
     - *Missouri Life Sciences Week Poster Competition* (April 2014)
 
