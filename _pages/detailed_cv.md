@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-[CV PDF](/files/Mahmood_CV_1-12-26.pdf)
-
 ---
 
 ## Education
@@ -60,8 +58,6 @@ author_profile: true
 1. Mazzio, C., Flashman, S., Baas-Thomas, N., Mahmood, A., Lin, J.Y., & Katz, D.B. (2026). Cortical Dynamics Underlying Learned and Non-Learned Aversive Behavior. *(In preparation)*
 2. Rohrer, D.M., Nobili, C.C.C.M, Jiang, W., Mahmood, A., Knight, R.A., Gutsell, J., Katz, D.B. Am I Disgust? Exploring Disgust Responses Across Stimuli. *(In preparation)*
 3. Calia-Bogan, V., Steindler, J., Katz, D.B., Mahmood, A. Characterizing Intra-State Dynamics of Gustatory Cortical Taste-Evoked Activity. *(In preparation)*
-4. Mahmood, A., Weissman, A., Katz, D.B. Nonlinear Dynamic Processing in Sensory Neural Populations. *(In preparation)*
-5. Mahmood, A., Steindler, J., Katz, D.B. Gustatory Cortical-Amygdalar Interaction Strength is Related to Single-Trial Taste Determination. *(In preparation)*
 6. Baas-Thomas, N.\*, Mahmood, A.\*, Wang, Y., Katz, D.B. The Ingestive Response Reflects Gustatory Cortical Neural Dynamics. *(In press)*, eLife. <https://doi.org/10.1101/2025.10.01.679845> \*Co-first authors
 7. Mukadam, N., Mahmood, A., Cronin-Golomb, A., DeGutis, J. Subjective Cognitive Concerns and Global Metacognitive Bias in Prodromal Parkinson's and Parkinson's Disease without Cognitive Impairment. *Neuropsychology* *(In press)*. <https://doi.org/10.1037/neu0001083>
 8. Mahmood, A., Steindler, J., Katz, D.B. (2026). Sensory and palatability coding of taste stimuli in cortex involves dynamic and asymmetric cortico-amygdalar interactions. *Journal of Neurophysiology*. <https://doi.org/10.1152/jn.00503.2025>
@@ -107,7 +103,7 @@ author_profile: true
 
 1. Mahmood A., Mansour A., Duong K.A., Pulakat L. Machine learning-assisted semi-automation of interstitial fibrosis measurement in cardiac sections. *MCRI Retreat 2025*, Woods Hole — Honorable Mention
 2. Mahmood A., Steindler J., Katz D.B. Basolateral Amygdala and Gustatory Cortex interact bidirectionally during taste processing in rodents. *Society for Neuroscience Annual Meeting* (November 2024)
-3. Mahmood A., Mehm A., Liu P., Mooney B., Gavini M.P., Tang Y., and Pulakat L. Characterizing pathology and signaling in obese and diabetic female rats with heart disease as a model for HFpEF. *Tufts Myocardial Research Institute Annual Retreat*, Woods Hole, MA (September 2024)
+3. Mahmood A., Mehm A., Liu P., Mooney B., Gavini M.P., Tang Y., and Pulakat L. Characterizing pathology and signaling in obese and diabetic female rats with heart disease as a model for HFpEF. *MCRI Annual Retreat*, Woods Hole, MA (September 2024)
 4. Mahmood A., Steindler J., Katz D.B. Basolateral Amygdala and Gustatory Cortex interact bidirectionally during taste processing in rodents. *Society for Neuroscience Annual Meeting* (November 2023) — Attendance supported by Society for Neuroscience Trainee Professional Development Award
 5. Mahmood A., Steindler J., Stone B.T., Katz D.B. Dynamic Coupling of Taste-Evoked Gustatory Cortical and Basolateral Amygdalar Activity. *ACHEMS XLV*, FL (April 2023)
 6. Mahmood A., Steindler J., Stone B.T., Katz D.B. Gustatory Cortex and Basolateral Amygdala Communication in Innate Taste Processing.
@@ -292,6 +288,7 @@ Full list at [github.com/abuzarmahmood](https://github.com/abuzarmahmood)
 **Formal Coursework**
 - Mathematical Statistics, University of Missouri (2017)
 - Statistical Machine Learning, Brandeis University (2018)
+- Computational Neuroscience, Brandeis University (2019)
 - Bayesian Inference and Computational Statistics, Brandeis University (2019)
 - Advanced Data Analysis and Modeling, Brandeis University (2020)
 
