@@ -165,11 +165,11 @@ author_profile: true
 
 | Title | Venue | Year |
 |-------|-------|------|
-| NIMH Computational Neuroscience Journal Club | | 2026 |
-| Hamilos Lab Meeting, Whitehead Institute, MIT | | 2026 |
+| | NIMH Computational Neuroscience Journal Club | 2026 |
+| | Hamilos Lab Meeting, Whitehead Institute, MIT | 2026 |
 | The Cortico-Amygdalar interaction dynamics underlying taste perception & action | MaTRIX Laboratory Meeting, Georgia Tech | Nov 2025 |
-| Mathematical Biology Seminar, Brandeis University | | 2025 |
-| Insights Team Meeting, Appcast Inc. | | 2025 |
+| | Mathematical Biology Seminar, Brandeis University | 2025 |
+| | Insights Team Meeting, Appcast Inc. | 2025 |
 | The Cortico-Amygdalar interaction dynamics underlying taste perception & action | Systems Neuroscience Journal Club, Harvard Medical School | April 2025 |
 | Basolateral Amygdala and Gustatory Cortex Interact Bidirectionally during Taste Processing in Rodents | Swartz Foundation Annual Meeting, WA | 2024 |
 | Basolateral Amygdala and Gustatory Cortex Interact Bidirectionally during Taste Processing in Rodents | Brandeis Neuro Postdoc Symposium, Waltham, MA | 2024 |
