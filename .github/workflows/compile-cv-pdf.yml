@@ -45,11 +45,10 @@ jobs:
           content = re.sub(r'\{%.*?%\}', '', content)
           content = re.sub(r'\{\{.*?\}\}', '', content)
 
-          # Strip inline HTML span tags used for right-aligned dates,
-          # replacing with a tab-like separator for LaTeX
+          # Convert right-aligned date spans to inline em-dash separator
           content = re.sub(
               r'<span[^>]*style="float:right;"[^>]*>(.*?)</span>',
-              r'\\hfill \1',
+              r' --- \1',
               content
           )
 
