@@ -25,7 +25,8 @@ jobs:
             texlive-latex-recommended \
             texlive-latex-extra \
             texlive-fonts-recommended \
-            texlive-fonts-extra
+            texlive-fonts-extra \
+            texlive-xetex
 
       - name: Strip Jekyll front matter and compile to PDF
         run: |
@@ -61,7 +62,7 @@ jobs:
 
           pandoc /tmp/detailed_cv_clean.md \
             --template=assets/cv_template.tex \
-            --pdf-engine=pdflatex \
+            --pdf-engine=xelatex \
             --variable title="Abuzar Mahmood — Curriculum Vitae" \
             --variable geometry="margin=1in" \
             --variable fontsize=11pt \
