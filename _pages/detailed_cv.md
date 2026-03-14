@@ -51,33 +51,43 @@ author_profile: true
 
 ---
 
+## Current Projects
+
+### Neuroscience
+
+1. Mazzio, C., Flashman, S., Baas-Thomas, N., Mahmood, A., Lin, J.Y., & Katz, D.B. (2026). Cortical Dynamics Underlying Learned and Non-Learned Aversive Behavior.
+2. Rohrer, D.M., Nobili, C.C.C.M, Jiang, W., Mahmood, A., Knight, R.A., Gutsell, J., Katz, D.B. Am I Disgust? Exploring Disgust Responses Across Stimuli.
+3. Calia-Bogan, V., Steindler, J., Katz, D.B., Mahmood, A. Characterizing Intra-State Dynamics of Gustatory Cortical Taste-Evoked Activity.
+
+### Cardiovascular Disease and Diabetes
+
+1. Chaudhary, P.K., Mahmood, A., Valencia, D., Reyelt, L., Hines, I., Zhang, Y., et al. Development of Stage-4 Pressure Ulcer Models in Rat.
+2. Mahmood, A., Kiet Duong A., Mansour, A., and Pulakat, L. CNN-assisted semi-automated histological evaluation of interstitial and perivascular fibrosis.
+3. Mahmood, A.\*, Mehm, A.\*, Mooney, B., DeMarco, V.G., Pulakat, L. Feeding Satiation-Resistant Rat Strain as a Model for Obesity, Diabetes, and Heart Failure. \*Co-first authors
+
+---
+
 ## Publications
 
 ### Neuroscience
 
-1. Mazzio, C., Flashman, S., Baas-Thomas, N., Mahmood, A., Lin, J.Y., & Katz, D.B. (2026). Cortical Dynamics Underlying Learned and Non-Learned Aversive Behavior. *(In preparation)*
-2. Rohrer, D.M., Nobili, C.C.C.M, Jiang, W., Mahmood, A., Knight, R.A., Gutsell, J., Katz, D.B. Am I Disgust? Exploring Disgust Responses Across Stimuli. *(In preparation)*
-3. Calia-Bogan, V., Steindler, J., Katz, D.B., Mahmood, A. Characterizing Intra-State Dynamics of Gustatory Cortical Taste-Evoked Activity. *(In preparation)*
-6. Baas-Thomas, N.\*, Mahmood, A.\*, Wang, Y., Katz, D.B. The Ingestive Response Reflects Gustatory Cortical Neural Dynamics. *(In press)*, eLife. <https://doi.org/10.1101/2025.10.01.679845> \*Co-first authors
-7. Mukadam, N., Mahmood, A., Cronin-Golomb, A., DeGutis, J. Subjective Cognitive Concerns and Global Metacognitive Bias in Prodromal Parkinson's and Parkinson's Disease without Cognitive Impairment. *Neuropsychology* *(In press)*. <https://doi.org/10.1037/neu0001083>
-8. Mahmood, A., Steindler, J., Katz, D.B. (2026). Sensory and palatability coding of taste stimuli in cortex involves dynamic and asymmetric cortico-amygdalar interactions. *Journal of Neurophysiology*. <https://doi.org/10.1152/jn.00503.2025>
-9. Mahmood, A. (2025). pytau: A Python package for streamlined changepoint model analysis in neuroscience. *Journal of Open Source Software*, 11(117), 8509. <https://doi.org/10.21105/joss.08509>
-10. Mahmood, A., Steindler, J., Germaine, H., Katz, D.B. (2023). Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity. *Journal of Neuroscience*, 43(3), 386–404. <https://doi.org/10.1523/JNEUROSCI.1412-22.2022>
-11. Stone, B.T., Lin, J.-Y., Mahmood, A., Sanford, A.J., and Katz, D.B. (2022). LiCl-induced sickness modulates rat gustatory cortical responses. *PLOS Biology* 20, e3001537. <https://doi.org/10.1371/journal.pbio.3001537>
-12. Lin, J.-Y., Stone, B.T., Herzog, L.E., Nanu, R., Mahmood, A., and Katz, D.B. (2021). The function of groups of neurons changes from moment to moment. *Current Opinion in Physiology* 20, 1–7. <https://doi.org/10.1016/j.cophys.2020.12.002>
+1. Baas-Thomas, N.\*, Mahmood, A.\*, Wang, Y., Katz, D.B. The Ingestive Response Reflects Gustatory Cortical Neural Dynamics. *(In press)*, eLife. <https://doi.org/10.1101/2025.10.01.679845> \*Co-first authors
+2. Mukadam, N., Mahmood, A., Cronin-Golomb, A., DeGutis, J. Subjective Cognitive Concerns and Global Metacognitive Bias in Prodromal Parkinson's and Parkinson's Disease without Cognitive Impairment. *Neuropsychology* *(In press)*. <https://doi.org/10.1037/neu0001083>
+3. Mahmood, A., Steindler, J., Katz, D.B. (2026). Sensory and palatability coding of taste stimuli in cortex involves dynamic and asymmetric cortico-amygdalar interactions. *Journal of Neurophysiology*. <https://doi.org/10.1152/jn.00503.2025>
+4. Mahmood, A. (2025). pytau: A Python package for streamlined changepoint model analysis in neuroscience. *Journal of Open Source Software*, 11(117), 8509. <https://doi.org/10.21105/joss.08509>
+5. Mahmood, A., Steindler, J., Germaine, H., Katz, D.B. (2023). Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity. *Journal of Neuroscience*, 43(3), 386–404. <https://doi.org/10.1523/JNEUROSCI.1412-22.2022>
+6. Stone, B.T., Lin, J.-Y., Mahmood, A., Sanford, A.J., and Katz, D.B. (2022). LiCl-induced sickness modulates rat gustatory cortical responses. *PLOS Biology* 20, e3001537. <https://doi.org/10.1371/journal.pbio.3001537>
+7. Lin, J.-Y., Stone, B.T., Herzog, L.E., Nanu, R., Mahmood, A., and Katz, D.B. (2021). The function of groups of neurons changes from moment to moment. *Current Opinion in Physiology* 20, 1–7. <https://doi.org/10.1016/j.cophys.2020.12.002>
 
 ### Cardiovascular Disease and Diabetes
 
-1. Chaudhary, P.K., Mahmood, A., Valencia, D., Reyelt, L., Hines, I., Zhang, Y., et al. Development of Stage-4 Pressure Ulcer Models in Rat. *(In preparation)*
-2. Mahmood, A., Kiet Duong A., Mansour, A., and Pulakat, L. CNN-assisted semi-automated histological evaluation of interstitial and perivascular fibrosis. *(In preparation)*
-3. Mahmood, A.\*, Mehm, A.\*, Mooney, B., DeMarco, V.G., Pulakat, L. Feeding Satiation-Resistant Rat Strain as a Model for Obesity, Diabetes, and Heart Failure. *(In preparation)* \*Co-first authors
-4. Belenchia AM, Boukhalfa A, DeMarco VG, Mehm A, Mahmood A, Liu P, et al. (2023). Cardiovascular Protective Effects of NP-6A4, a Drug with the FDA Designation for Pediatric Cardiomyopathy, in Female Rats with Obesity and Pre-Diabetes. *Cells* 12(10):1373.
-5. Gavini, M.P.\*, Mahmood, A.\*, Belenchia, A.M., Beauparlant, P., Kumar, S.A., Ardhanari, S., et al. (2021). Suppression of Inflammatory Cardiac Cytokine Network in Rats with Untreated Obesity and Pre-Diabetes by AT2 Receptor Agonist NP-6A4. *Frontiers in Pharmacology* 12. \*Co-first authors
-6. Lum-Naihe, K., Toedebusch, R., Mahmood, A., Bajwa, J., Carmack, T., Kumar, S.A., et al. (2017). Cardiovascular disease progression in female Zucker Diabetic Fatty rats occurs via unique mechanisms compared to males. *Sci Rep* 7, 17823. <https://doi.org/10.1038/s41598-017-18003-8>
-7. Luck, C., DeMarco, V.G., Mahmood, A., Gavini, M.P., and Pulakat, L. (2017). Differential Regulation of Cardiac Function and Intracardiac Cytokines by Rapamycin in Healthy and Diabetic Rats. *Oxidative Medicine and Cellular Longevity* 2017, 1–17. <https://doi.org/10.1155/2017/5724046>
-8. Arnold, N., Mahmood, A., Ramdas, M., Ehlinger, P.P., and Pulakat, L. (2017). Regulation of the cardioprotective adiponectin and its receptor AdipoR1 by salt. *Can. J. Physiol. Pharmacol.* 95, 305–309. <https://doi.org/10.1139/cjpp-2016-0570>
-9. Gul, R., Mahmood, A., Luck, C., Lum-Naihe, K., Alfadda, A.A., Speth, R.C., and Pulakat, L. (2015). Regulation of cardiac miR-208a, an inducer of obesity, by rapamycin and nebivolol. *Obesity* 23, 2251–2259. <https://doi.org/10.1002/oby.21227>
-10. Mahmood, A., and Pulakat, L. (2015). Differential Effects of β-Blockers, Angiotensin II Receptor Blockers, and a Novel AT2R Agonist NP-6A4 on Stress Response of Nutrient-Starved Cardiovascular Cells. *PLOS ONE* 10, e0144824. <https://doi.org/10.1371/journal.pone.0144824>
+1. Belenchia AM, Boukhalfa A, DeMarco VG, Mehm A, Mahmood A, Liu P, et al. (2023). Cardiovascular Protective Effects of NP-6A4, a Drug with the FDA Designation for Pediatric Cardiomyopathy, in Female Rats with Obesity and Pre-Diabetes. *Cells* 12(10):1373.
+2. Gavini, M.P.\*, Mahmood, A.\*, Belenchia, A.M., Beauparlant, P., Kumar, S.A., Ardhanari, S., et al. (2021). Suppression of Inflammatory Cardiac Cytokine Network in Rats with Untreated Obesity and Pre-Diabetes by AT2 Receptor Agonist NP-6A4. *Frontiers in Pharmacology* 12. \*Co-first authors
+3. Lum-Naihe, K., Toedebusch, R., Mahmood, A., Bajwa, J., Carmack, T., Kumar, S.A., et al. (2017). Cardiovascular disease progression in female Zucker Diabetic Fatty rats occurs via unique mechanisms compared to males. *Sci Rep* 7, 17823. <https://doi.org/10.1038/s41598-017-18003-8>
+4. Luck, C., DeMarco, V.G., Mahmood, A., Gavini, M.P., and Pulakat, L. (2017). Differential Regulation of Cardiac Function and Intracardiac Cytokines by Rapamycin in Healthy and Diabetic Rats. *Oxidative Medicine and Cellular Longevity* 2017, 1–17. <https://doi.org/10.1155/2017/5724046>
+5. Arnold, N., Mahmood, A., Ramdas, M., Ehlinger, P.P., and Pulakat, L. (2017). Regulation of the cardioprotective adiponectin and its receptor AdipoR1 by salt. *Can. J. Physiol. Pharmacol.* 95, 305–309. <https://doi.org/10.1139/cjpp-2016-0570>
+6. Gul, R., Mahmood, A., Luck, C., Lum-Naihe, K., Alfadda, A.A., Speth, R.C., and Pulakat, L. (2015). Regulation of cardiac miR-208a, an inducer of obesity, by rapamycin and nebivolol. *Obesity* 23, 2251–2259. <https://doi.org/10.1002/oby.21227>
+7. Mahmood, A., and Pulakat, L. (2015). Differential Effects of β-Blockers, Angiotensin II Receptor Blockers, and a Novel AT2R Agonist NP-6A4 on Stress Response of Nutrient-Starved Cardiovascular Cells. *PLOS ONE* 10, e0144824. <https://doi.org/10.1371/journal.pone.0144824>
 
 ---
 
