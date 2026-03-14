@@ -55,6 +55,11 @@ jobs:
           # Remove any remaining HTML tags
           content = re.sub(r'<[^>]+>', '', content)
 
+          # Replace escaped asterisks (\*) used as footnote markers with
+          # plain asterisks — \* is a LaTeX command that causes errors when
+          # Pandoc passes it through as raw LaTeX
+          content = content.replace(r'\*', '*')
+
           with open('/tmp/detailed_cv_clean.md', 'w') as f:
               f.write(content)
           EOF
