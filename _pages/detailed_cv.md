@@ -209,6 +209,18 @@ author_profile: true
 | Computational Neuroscience Training Fellowship, NIH | 2017–19 |
 | Academic Hardware Grant, NVIDIA | 2018 |
 | Award for Academic Distinction, University of Missouri | 2017 |
+| Clifford W. Tompson Scholarship, Department of Physics, University of Missouri | 2016–2017 |
+| Curator's Grant in Aid Award, International Center, University of Missouri | 2015–2017 |
+| Col. Arthur C. Allen Scholarship, College of Arts and Science, University of Missouri | 2015–2017 |
+| Dean's List, College of Arts and Science, University of Missouri | 2013–2017 |
+| International Merit Scholarship, International Center, University of Missouri | 2013–2017 |
+| Junior Scholarship Award, Honors College, University of Missouri | 2016 |
+| Life Sciences Undergraduate Research Opportunity, University of Missouri | 2016 |
+| Rosemary Dishman Scholarship, Department of Physics, University of Missouri | 2015 |
+| Sophomore Scholarship Award, Honors College, University of Missouri | 2015 |
+| Undergraduate Research Travel Award, Office of Undergraduate Research, University of Missouri | 2015 |
+| Newell S. Gingrich Undergraduate Scholarship, Department of Physics, University of Missouri | 2014 |
+| Paul E. Basye Scholarship, Department of Physics, University of Missouri | 2014 |
 | First Place, Undergraduate Poster Competition, Missouri LS Week | 2016, 2017 |
 | Summer Research Fellowship, University of Missouri | 2016 |
 | Distinction, University of Missouri Cardiovascular Day XXII Poster Competition | 2015 |
