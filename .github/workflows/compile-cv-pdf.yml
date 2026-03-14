@@ -64,6 +64,18 @@ jobs:
               f.write(content)
           EOF
 
+          # Generate intermediate .tex for debugging, then compile
+          pandoc /tmp/detailed_cv_clean.md \
+            --template=assets/cv_template.tex \
+            --variable title="Abuzar Mahmood — Curriculum Vitae" \
+            --variable geometry="margin=1in" \
+            --variable fontsize=11pt \
+            --variable colorlinks=true \
+            -o /tmp/detailed_cv.tex
+
+          echo "=== Lines 600-620 of generated .tex ==="
+          sed -n '600,620p' /tmp/detailed_cv.tex
+
           pandoc /tmp/detailed_cv_clean.md \
             --template=assets/cv_template.tex \
             --pdf-engine=xelatex \
