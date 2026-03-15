@@ -62,6 +62,21 @@ jobs:
           # Pandoc passes it through as raw LaTeX
           content = content.replace(r'\*', '*')
 
+          # Pandoc requires 4-space indent for nested list items; Jekyll
+          # renders 2-space fine. Normalise all 2-space-indented bullets.
+          lines = content.split('\n')
+          fixed = []
+          for line in lines:
+              # Count leading spaces before a list marker
+              stripped = line.lstrip(' ')
+              spaces = len(line) - len(stripped)
+              if spaces > 0 and stripped.startswith(('- ', '* ', '+ ')):
+                  # Round up to nearest multiple of 4
+                  new_indent = ((spaces + 1) // 2) * 4
+                  line = ' ' * new_indent + stripped
+              fixed.append(line)
+          content = '\n'.join(fixed)
+
           with open('/tmp/detailed_cv_clean.md', 'w') as f:
               f.write(content)
           EOF
