@@ -1,0 +1,110 @@
+name: Compile CV PDF
+
+on:
+  push:
+    paths:
+      - '_pages/detailed_cv.md'
+      - 'assets/cv_template.tex'
+      - '.github/workflows/compile-cv-pdf.yml'
+  workflow_dispatch:
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc and TeX Live
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends \
+            pandoc \
+            texlive-latex-base \
+            texlive-latex-recommended \
+            texlive-latex-extra \
+            texlive-fonts-recommended \
+            texlive-fonts-extra \
+            texlive-xetex
+
+      - name: Strip Jekyll front matter and compile to PDF
+        run: |
+          # Remove YAML front matter (--- ... ---) and Jekyll template tags
+          # before passing to Pandoc
+          python3 - <<'EOF'
+          import re
+
+          with open('_pages/detailed_cv.md', 'r') as f:
+              content = f.read()
+
+          # Strip YAML front matter
+          content = re.sub(r'^---\n.*?\n---\n', '', content, flags=re.DOTALL)
+
+          # Strip Jekyll/Liquid template tags
+          content = re.sub(r'\{%.*?%\}', '', content)
+          content = re.sub(r'\{\{.*?\}\}', '', content)
+
+          # Convert right-aligned date spans to inline em-dash separator
+          content = re.sub(
+              r'<span[^>]*style="float:right;"[^>]*>(.*?)</span>',
+              r' --- \1',
+              content
+          )
+
+          # Remove any remaining HTML tags
+          content = re.sub(r'<[^>]+>', '', content)
+
+          # Replace escaped asterisks (\*) used as footnote markers with
+          # plain asterisks — \* is a LaTeX command that causes errors when
+          # Pandoc passes it through as raw LaTeX
+          content = content.replace(r'\*', '*')
+
+          # Pandoc requires 4-space indent for nested list items; Jekyll
+          # renders 2-space fine. Normalise all 2-space-indented bullets.
+          lines = content.split('\n')
+          fixed = []
+          for line in lines:
+              # Count leading spaces before a list marker
+              stripped = line.lstrip(' ')
+              spaces = len(line) - len(stripped)
+              if spaces > 0 and stripped.startswith(('- ', '* ', '+ ')):
+                  # Round up to nearest multiple of 4
+                  new_indent = ((spaces + 1) // 2) * 4
+                  line = ' ' * new_indent + stripped
+              fixed.append(line)
+          content = '\n'.join(fixed)
+
+          with open('/tmp/detailed_cv_clean.md', 'w') as f:
+              f.write(content)
+          EOF
+
+          pandoc /tmp/detailed_cv_clean.md \
+            --template=assets/cv_template.tex \
+            --pdf-engine=xelatex \
+            --variable title="Abuzar Mahmood — Curriculum Vitae" \
+            --variable geometry="margin=1in" \
+            --variable fontsize=11pt \
+            --variable colorlinks=true \
+            -o files/Mahmood_detailed_CV.pdf
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Mahmood_detailed_CV
+          path: files/Mahmood_detailed_CV.pdf
+          retention-days: 90
+
+      - name: Commit updated PDF to repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add files/Mahmood_detailed_CV.pdf
+          if git diff --cached --quiet; then
+            echo "PDF unchanged, nothing to commit."
+          else
+            git commit -m "Auto-update detailed CV PDF from markdown source"
+            git push
+          fi
