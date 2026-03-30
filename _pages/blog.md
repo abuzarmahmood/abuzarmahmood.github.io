@@ -59,7 +59,8 @@ Stay tuned for these exciting topics:
 - **Neural Dynamics Visualized**: Interactive visualizations of taste-responsive neural populations
 - **Machine Learning in Neuroscience**: A practical guide to implementing deep learning models for neural data analysis
 - **The Attractor Network Hypothesis**: Evidence for and against attractor dynamics in sensory processing
-- **Tutorial Series**: Step-by-step guides to advanced spike sorting techniques
+- **Tutorial Series**: Step-by-step guides to Bayesian and time-series modelling techniques
+  - [View Tutorial Series on GitHub](https://github.com/abuzarmahmood/teachables)
 
 ## Join the Conversation
 
