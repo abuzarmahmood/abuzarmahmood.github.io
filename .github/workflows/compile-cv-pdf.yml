@@ -62,6 +62,75 @@ jobs:
           # Pandoc passes it through as raw LaTeX
           content = content.replace(r'\*', '*')
 
+          # In Teaching, Mentorship, and Skills sections the markdown uses a
+          # pattern where a bold paragraph header is immediately followed by
+          # list items at 0-indent, e.g.:
+          #
+          #   **Bold Header**
+          #   - item 1
+          #     - sub-item
+          #
+          # Pandoc treats the bold text as a paragraph block and the list as
+          # a sibling block, so the items never appear nested under the header
+          # in the PDF. Convert these to proper nested lists:
+          #
+          #   - **Bold Header**
+          #     - item 1
+          #       - sub-item
+          #
+          # Only apply this to lines that are *only* bold text (the whole line
+          # is **...**) and are followed by a list item, which is the pattern
+          # used in Teaching, Mentorship, and Skills. Role lines like
+          # "**Title**, Institution ..." contain extra text and are left alone.
+          import re as _re
+          lines = content.split('\n')
+          promoted = []
+          i = 0
+          while i < len(lines):
+              line = lines[i]
+              # Detect a standalone bold-only paragraph (after HTML stripping
+              # the span tags were already removed above, so check the raw line)
+              is_bold_header = bool(_re.match(r'^\*\*[^*]+\*\*\s*$', line.strip()))
+              # Look ahead: is the very next non-empty line a list item?
+              j = i + 1
+              while j < len(lines) and lines[j].strip() == '':
+                  j += 1
+              next_is_list = j < len(lines) and _re.match(r'^[ \t]*[-*+] ', lines[j])
+              if is_bold_header and next_is_list:
+                  # Emit the header as a list item
+                  promoted.append('- ' + line.strip())
+                  # Consume any blank lines between header and list
+                  i += 1
+                  while i < len(lines) and lines[i].strip() == '':
+                      i += 1
+                  # Indent all consecutive list items belonging to this block
+                  # by 2 spaces (they will be normalised to 4 below)
+                  while i < len(lines):
+                      l = lines[i]
+                      stripped_l = l.lstrip(' ')
+                      spaces_l = len(l) - len(stripped_l)
+                      if stripped_l == '' or _re.match(r'^[-*+] ', stripped_l) or spaces_l > 0:
+                          if stripped_l == '':
+                              # Blank line — keep but stop if next non-blank
+                              # line is not a list item
+                              k = i + 1
+                              while k < len(lines) and lines[k].strip() == '':
+                                  k += 1
+                              if k >= len(lines) or not _re.match(r'^[ \t]*[-*+] ', lines[k]):
+                                  promoted.append('')
+                                  i += 1
+                                  break
+                              promoted.append('')
+                          else:
+                              promoted.append('  ' + l)
+                          i += 1
+                      else:
+                          break
+              else:
+                  promoted.append(line)
+                  i += 1
+          content = '\n'.join(promoted)
+
           # Pandoc requires 4-space indent for nested list items; Jekyll
           # renders 2-space fine. Normalise all 2-space-indented bullets.
           lines = content.split('\n')
@@ -71,8 +140,8 @@ jobs:
               stripped = line.lstrip(' ')
               spaces = len(line) - len(stripped)
               if spaces > 0 and stripped.startswith(('- ', '* ', '+ ')):
-                  # Round up to nearest multiple of 4
-                  new_indent = ((spaces + 1) // 2) * 4
+                  # Each 2-space level maps to one 4-space Pandoc level
+                  new_indent = (spaces // 2) * 4
                   line = ' ' * new_indent + stripped
               fixed.append(line)
           content = '\n'.join(fixed)
