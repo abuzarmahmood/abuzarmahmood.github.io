@@ -144,7 +144,7 @@ author_profile: true
 
 ### Co-Authored Poster Presentations
 
-1. Pulakat L., Chaudhary P.K., Chen H.H., Mahmood A., Valencia D., Hines I., Reyelt L., Zhang Y., Gavini M.P. Effects of needle-free therapeutic micromist carrying Tumor Necrosis Factor silencer RNA on expediting chronic wound healing, repairing deep muscle damage and improving survival in a new rat model. Abstract ID: 4452. *MCRI Retreat 2026*, Woods Hole, MA (March 2026)
+1. Pulakat L., Chaudhary P.K., Chen H.H., Mahmood A., Valencia D., Hines I., Reyelt L., Zhang Y., Gavini M.P. Effects of needle-free therapeutic micromist carrying Tumor Necrosis Factor silencer RNA on expediting chronic wound healing, repairing deep muscle damage and improving survival in a new rat model. Abstract ID: 4452. *ASBMB Meeting 2026*, Washington DC (March 2026)
 2. Mansour A., Herlihy M., Mahmood A., Velasquez F., Duong K., Hines I., Martin G., Chaudhary P.K., Gavini M.P., Sun H., Pulakat L. Preventing colistin nephrotoxicity caused by systemic delivery via localized, needle-free transdermal delivery of colistin methanesulfonate micromist. *MCRI Retreat 2025*, Woods Hole, MA
 3. Chaudhary P.K., Mahmood A., Nasencia D., Reyelt L., Hines I., Zhang Y., Duong A., Martin G., Gavini M.P. A novel siRNA therapy delivered via needle-free therapeutic micromist to expedite chronic wound healing and improve survival. *MCRI Retreat 2025*, Woods Hole, MA
 4. Baas-Thomas N., Mahmood A., Maigler K., Wang Y., and Katz D.B. The Ingestive Response Reflects Neural Dynamics in the Gustatory Cortex. *ACHEMS*, FL (April 2025)
