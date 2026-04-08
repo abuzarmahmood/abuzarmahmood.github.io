@@ -95,7 +95,7 @@ author_profile: true
 
 ## Published Abstracts
 
-1. Mansour A, Herlihy M, Mahmood A, Mooney B, Gavini MP, Sun H, and Pulakat L. Preventing colistin nephrotoxicity caused by systemic delivery via localized, needle-free transdermal delivery of colistin methanesulfonate micromist. *Journal of Biological Chemistry*, ASBMB, Chicago, IL (May 2025)
+1. Mansour A, Herlihy M, Mahmood A, et al. Abstract 1880 Preventing Colistin Nephrotoxicity Caused by Systemic Delivery via Localized, Needle-Free Transdermal Delivery of Colistin Methanesulfonate Micromist: A Paradigm Shift in Antibiotic Treatment. *Journal of Biological Chemistry*, vol. 301, no. 5, May 2025, p. 109045. DOI.org (Crossref), https://doi.org/10.1016/j.jbc.2025.109045.
 2. Pulakat L, DeMarco VG, Mahmood A, Mehm A, Tang Y, Martin GL, et al. Proteomics of the cardiopulmonary pathology in an obese and diabetic female rat model – Evidence for a new female HFpEF rat model. *9th International Caparica Conference on Analytical Proteomics*, Lisbon, Portugal (2024)
 3. Pulakat L, Mahmood A, Belenchia A, Gavini M, Liu Pi, Mooney B, et al. Abstract 14318: Sex Differences in Treatment Responses to NP-6A4, a Cardiomyopathy Drug With the FDA Designation, in Heart Disease Induced by Untreated Obesity. *Circulation* 144(Suppl_1):A14318 (2021)
 4. Gavini MP, Mahmood A, Belenchia AM, Beauparlant P, Kumar S, Ardhanari S, et al. Abstract 16430: Activation of AT2 Receptor by NP-6A4 Improves Cardiac Function by Inducing a Novel Cardio-Reparative Protein-Micro RNA Network in Zucker Obese Rats With Untreated Obesity and Diabetes. *Circulation* 140(Suppl_1):A16430 (2019)
