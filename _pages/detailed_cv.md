@@ -144,18 +144,19 @@ author_profile: true
 
 ### Co-Authored Poster Presentations
 
-1. Mansour A., Herlihy M., Mahmood A., Velasquez F., Duong K., Hines I., Martin G., Chaudhary P.K., Gavini M.P., Sun H., Pulakat L. Preventing colistin nephrotoxicity caused by systemic delivery via localized, needle-free transdermal delivery of colistin methanesulfonate micromist. *MCRI Retreat 2025*, Woods Hole, MA
-2. Chaudhary P.K., Mahmood A., Nasencia D., Reyelt L., Hines I., Zhang Y., Duong A., Martin G., Gavini M.P. A novel siRNA therapy delivered via needle-free therapeutic micromist to expedite chronic wound healing and improve survival. *MCRI Retreat 2025*, Woods Hole, MA
-3. Baas-Thomas N., Mahmood A., Maigler K., Wang Y., and Katz D.B. The Ingestive Response Reflects Neural Dynamics in the Gustatory Cortex. *ACHEMS*, FL (April 2025)
-4. Gray T.R., Mahmood A., Craddock A.E., White A.S., Goldstein I., Katz D.B. Gustatory-Olfactory Cortical Interactions in Response to Multimodal Stimuli. *ACHEMS*, FL (April 2025)
-5. Pulakat L., Mahmood A., Mansour A., Chen H., Valencia D., Zhang Y., Gavini M. A Novel Preclinical Model for Obesity-Associated Stage 4 Pressure Ulcer and A Promising RNA-Based Therapeutic Approach. *Military Health System Research Symposium*, FL (Aug 2025)
-6. Xu C., Mahmood A., Mansour A., and Pulakat L. Evaluation of the effect of human mesenchymal stem cells on diabetic foot wound in a rat model with severe diabetes. *Tufts Myocardial Research Institute Annual Retreat*, Woods Hole, MA (September 2024)
-7. Calia-Bogan V., Mahmood A., Steindler J.R., Katz D.B. Taste-Evoked Intra-Epoch Dynamics in Gustatory Cortex.
+1. Pulakat L., Chaudhary P.K., Chen H.H., Mahmood A., Valencia D., Hines I., Reyelt L., Zhang Y., Gavini M.P. Effects of needle-free therapeutic micromist carrying Tumor Necrosis Factor silencer RNA on expediting chronic wound healing, repairing deep muscle damage and improving survival in a new rat model. Abstract ID: 4452. *MCRI Retreat 2026*, Woods Hole, MA (March 2026)
+2. Mansour A., Herlihy M., Mahmood A., Velasquez F., Duong K., Hines I., Martin G., Chaudhary P.K., Gavini M.P., Sun H., Pulakat L. Preventing colistin nephrotoxicity caused by systemic delivery via localized, needle-free transdermal delivery of colistin methanesulfonate micromist. *MCRI Retreat 2025*, Woods Hole, MA
+3. Chaudhary P.K., Mahmood A., Nasencia D., Reyelt L., Hines I., Zhang Y., Duong A., Martin G., Gavini M.P. A novel siRNA therapy delivered via needle-free therapeutic micromist to expedite chronic wound healing and improve survival. *MCRI Retreat 2025*, Woods Hole, MA
+4. Baas-Thomas N., Mahmood A., Maigler K., Wang Y., and Katz D.B. The Ingestive Response Reflects Neural Dynamics in the Gustatory Cortex. *ACHEMS*, FL (April 2025)
+5. Gray T.R., Mahmood A., Craddock A.E., White A.S., Goldstein I., Katz D.B. Gustatory-Olfactory Cortical Interactions in Response to Multimodal Stimuli. *ACHEMS*, FL (April 2025)
+6. Pulakat L., Mahmood A., Mansour A., Chen H., Valencia D., Zhang Y., Gavini M. A Novel Preclinical Model for Obesity-Associated Stage 4 Pressure Ulcer and A Promising RNA-Based Therapeutic Approach. *Military Health System Research Symposium*, FL (Aug 2025)
+7. Xu C., Mahmood A., Mansour A., and Pulakat L. Evaluation of the effect of human mesenchymal stem cells on diabetic foot wound in a rat model with severe diabetes. *Tufts Myocardial Research Institute Annual Retreat*, Woods Hole, MA (September 2024)
+8. Calia-Bogan V., Mahmood A., Steindler J.R., Katz D.B. Taste-Evoked Intra-Epoch Dynamics in Gustatory Cortex.
    - *ACHEMS*, FL (April 2025)
    - *Society for Neuroscience Annual Meeting* (November 2024)
    - *Brandeis Sci-Fest*, Waltham, MA (Aug 2024)
-8. Pulakat L., DeMarco V.G., Mahmood A., et al. Cardiac and extracardiac pathology of a preclinical model for female-specific HFpEF syndrome. *AHA Hypertension Scientific Session*, Chicago, IL (Sept 2024)
-9. Baas-Thomas N., Mahmood A., Wang Y., Katz D.B. Investigating the Neural Signals Driving the Consummatory Response in Rats.
+9. Pulakat L., DeMarco V.G., Mahmood A., et al. Cardiac and extracardiac pathology of a preclinical model for female-specific HFpEF syndrome. *AHA Hypertension Scientific Session*, Chicago, IL (Sept 2024)
+10. Baas-Thomas N., Mahmood A., Wang Y., Katz D.B. Investigating the Neural Signals Driving the Consummatory Response in Rats.
    - *Society for Neuroscience Annual Meeting* (November 2024)
    - *International Symposium on Olfaction and Taste* (June 2024)
 10. Mazzio C., Lin J.Y., Germaine H., Mahmood A., Katz D.B. Cortical Population Dynamics Underlying Learned And Unlearned Aversive Behavior. *ACHEMS XLV*, FL (April 2023)
