@@ -32,9 +32,11 @@ author_profile: true
 **Postdoctoral Research Fellow**, Tufts Medical Center, MA <span style="float:right;">July 2023 – Present</span>
 - Project: Bioinformatics analysis of the effect of AT2R activation on cardiomyopathy in obesity and diabetes
 
-**Postdoctoral Fellow**, Brandeis University, MA <span style="float:right;">Nov 2023 – Present</span>
+**Postdoctoral Fellow**, Brandeis University, MA <span style="float:right;">Nov 2023 – Mar 2026</span>
 - Swartz Foundation Computational Neuroscience Postdoctoral Fellow (2023–25)
 - Project: Dynamics of information flow during the evoked taste response
+
+**Visiting Research Scholar**, Brandeis University, MA <span style="float:right;">Mar 2026 – Present</span>
 
 **Postdoctoral Associate**, Brandeis University, MA <span style="float:right;">Mar 2023 – Nov 2023</span>
 - Project: Dynamics of information flow during the evoked taste response
