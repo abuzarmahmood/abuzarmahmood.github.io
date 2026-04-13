@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-[Download PDF version](/files/Mahmood_detailed_CV.pdf)
-
 ---
 
 ## Education
