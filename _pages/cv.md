@@ -28,9 +28,10 @@ Education
 
 Research experience
 ======
-* <b>Postdoctoral Researcher</b>, Brandeis University, MA	<span style="float:right;">Starting April 2023</span>
+* <b>Postdoctoral Researcher</b>, Brandeis University, MA	<span style="float:right;">Apr 2023 – Mar 2026</span>
   * <u>Project</u>: Dynamics of information flow during the evoked taste response
   * <u>Research Summary</u> : My doctoral research showed that cortical and amygdalar activity is coordinated for taste processing, however, the dynamics of directionality of this influence are not known. Furthermore, cortex receives simultaneous input from both amygdalar and thalamic pathways, however neither the dynamics of thalamo-cortical interaction, nor the interplay between limbic and thalamic input on cortex have not been investigated. This project proposes to investigate the dynamics of influence of the limbic and thalamic pathways on activity in the gustatory cortex and investigate the role of feedback projections from the gustatory cortex to the basolateral amygdala and gustatory thalamus. 
+* <b>Visiting Research Scholar</b>, Brandeis University, MA	<span style="float:right;">Mar 2026 – Present</span> 
 * <b>Ph.D. Researcher</b>, Brandeis University, MA	<span style="float:right;">2017 – Feb 2023</span>
   * <u>Thesis Advisor:</u> Donald B. Katz
   * <u>Thesis Title:</u> Multi-region Coordination for Taste Processing in the Rodent Brain
