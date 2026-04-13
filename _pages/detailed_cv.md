@@ -55,22 +55,6 @@ author_profile: true
 
 ---
 
-## Current Projects
-
-### Neuroscience
-
-1. Mazzio, C., Flashman, S., Baas-Thomas, N., Mahmood, A., Lin, J.Y., & Katz, D.B. (2026). Cortical Dynamics Underlying Learned and Non-Learned Aversive Behavior.
-2. Rohrer, D.M., Nobili, C.C.C.M, Jiang, W., Mahmood, A., Knight, R.A., Gutsell, J., Katz, D.B. Am I Disgust? Exploring Disgust Responses Across Stimuli.
-3. Calia-Bogan, V., Steindler, J., Katz, D.B., Mahmood, A. Characterizing Intra-State Dynamics of Gustatory Cortical Taste-Evoked Activity.
-
-### Cardiovascular Disease and Diabetes
-
-1. Chaudhary, P.K., Mahmood, A., Valencia, D., Reyelt, L., Hines, I., Zhang, Y., et al. Development of Stage-4 Pressure Ulcer Models in Rat.
-2. Mahmood, A., Kiet Duong A., Mansour, A., and Pulakat, L. CNN-assisted semi-automated histological evaluation of interstitial and perivascular fibrosis.
-3. Mahmood, A.\*, Mehm, A.\*, Mooney, B., DeMarco, V.G., Pulakat, L. Feeding Satiation-Resistant Rat Strain as a Model for Obesity, Diabetes, and Heart Failure. \*Co-first authors
-
----
-
 ## Publications
 
 ### Neuroscience
@@ -92,6 +76,22 @@ author_profile: true
 5. Arnold, N., Mahmood, A., Ramdas, M., Ehlinger, P.P., and Pulakat, L. (2017). Regulation of the cardioprotective adiponectin and its receptor AdipoR1 by salt. *Can. J. Physiol. Pharmacol.* 95, 305–309. <https://doi.org/10.1139/cjpp-2016-0570>
 6. Gul, R., Mahmood, A., Luck, C., Lum-Naihe, K., Alfadda, A.A., Speth, R.C., and Pulakat, L. (2015). Regulation of cardiac miR-208a, an inducer of obesity, by rapamycin and nebivolol. *Obesity* 23, 2251–2259. <https://doi.org/10.1002/oby.21227>
 7. Mahmood, A., and Pulakat, L. (2015). Differential Effects of β-Blockers, Angiotensin II Receptor Blockers, and a Novel AT2R Agonist NP-6A4 on Stress Response of Nutrient-Starved Cardiovascular Cells. *PLOS ONE* 10, e0144824. <https://doi.org/10.1371/journal.pone.0144824>
+
+---
+
+## In-Progress Manuscripts
+
+### Neuroscience
+
+1. Mazzio, C., Flashman, S., Baas-Thomas, N., Mahmood, A., Lin, J.Y., & Katz, D.B. (2026). Cortical Dynamics Underlying Learned and Non-Learned Aversive Behavior.
+2. Rohrer, D.M., Nobili, C.C.C.M, Jiang, W., Mahmood, A., Knight, R.A., Gutsell, J., Katz, D.B. Am I Disgust? Exploring Disgust Responses Across Stimuli.
+3. Calia-Bogan, V., Steindler, J., Katz, D.B., Mahmood, A. Characterizing Intra-State Dynamics of Gustatory Cortical Taste-Evoked Activity.
+
+### Cardiovascular Disease and Diabetes
+
+1. Chaudhary, P.K., Mahmood, A., Valencia, D., Reyelt, L., Hines, I., Zhang, Y., et al. Development of Stage-4 Pressure Ulcer Models in Rat.
+2. Mahmood, A., Kiet Duong A., Mansour, A., and Pulakat, L. CNN-assisted semi-automated histological evaluation of interstitial and perivascular fibrosis.
+3. Mahmood, A.\*, Mehm, A.\*, Mooney, B., DeMarco, V.G., Pulakat, L. Feeding Satiation-Resistant Rat Strain as a Model for Obesity, Diabetes, and Heart Failure. \*Co-first authors
 
 ---
 
