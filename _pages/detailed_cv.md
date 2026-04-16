@@ -183,18 +183,18 @@ author_profile: true
 |-------|-------|------|
 | | NIMH Computational Neuroscience Journal Club | 2026 |
 | | Hamilos Lab Meeting, Whitehead Institute, MIT | 2026 |
-| The Cortico-Amygdalar interaction dynamics underlying taste perception & action | MaTRIX Laboratory Meeting, Georgia Tech | Nov 2025 |
+| The Cortico-Amygdalar Interaction Dynamics Underlying Taste Perception & Action | MaTRIX Laboratory Meeting, Georgia Tech | Nov 2025 |
 | | Mathematical Biology Seminar, Brandeis University | 2025 |
 | | Insights Team Meeting, Appcast Inc. | 2025 |
-| The Cortico-Amygdalar interaction dynamics underlying taste perception & action | Systems Neuroscience Journal Club, Harvard Medical School | April 2025 |
-| Basolateral Amygdala and Gustatory Cortex Interact Bidirectionally during Taste Processing in Rodents | Swartz Foundation Annual Meeting, WA | 2024 |
-| Basolateral Amygdala and Gustatory Cortex Interact Bidirectionally during Taste Processing in Rodents | Brandeis Neuro Postdoc Symposium, Waltham, MA | 2024 |
+| The Cortico-Amygdalar Interaction Dynamics Underlying Taste Perception & Action | Systems Neuroscience Journal Club, Harvard Medical School | April 2025 |
+| Basolateral Amygdala and Gustatory Cortex Interact Bidirectionally During Taste Processing in Rodents | Swartz Foundation Annual Meeting, WA | 2024 |
+| Basolateral Amygdala and Gustatory Cortex Interact Bidirectionally During Taste Processing in Rodents | Brandeis Neuro Postdoc Symposium, Waltham, MA | 2024 |
 | Polak Young Investigator Award Lecture | Association for Chemoreception Sciences Annual Meeting, FL | 2024 |
-| The only constant is change: Bespoke changepoint modelling in PyMC | PyMCon Web Series | 2023 |
+| The Only Constant Is Change: Bespoke Changepoint Modelling in PyMC | PyMCon Web Series | 2023 |
 | An Intro to Bayesian Modelling and Probabilistic Programming | Brandeis University, MA | 2022 |
-| Gustatory Cortex And Basolateral Amygdala Coordination In Taste Processing | Brandeis University | Mar 2021, Oct 2021 |
+| Gustatory Cortex and Basolateral Amygdala Coordination in Taste Processing | Brandeis University | Mar 2021, Oct 2021 |
 | Gustatory Cortex and Basolateral Amygdala Communication in Innate Taste Processing | NIH Blueprint Joint Symposium on Computational Neuroscience | 2021 |
-| Role Of Gustatory Cortex And Basolateral Amygdala Communication In Taste Processing | Brandeis University | 2020 |
+| Role of Gustatory Cortex and Basolateral Amygdala Communication in Taste Processing | Brandeis University | 2020 |
 | The Nonlinear Population Dynamics of Cortical Taste Processing | Systems/Computational Neuroscience Journal Club, Brandeis University, MA | 2019 |
 
 ---
