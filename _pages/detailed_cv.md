@@ -315,7 +315,7 @@ Paul E. Basye Scholarship, Department of Physics, University of Missouri <span s
   - Undergraduate Thesis: *Investigating Intra-State Dynamics in Gustatory Cortex* (High Honors)
   - Co-first author on manuscript (In Preparation)
 - Vasudeva Krishnamurthy Bhat, PhD Rotation Student — Statistical Modelling and Data Analysis (2025)
-  - Project: *Detecting State Changes in Local Field Potential*
+  - Project: *Detecting changepoints in electrophysiological spectra*
 - Hannah Germaine, PhD Rotation Student — Modeling and Data Analysis (2022)
   - Project: *Statistical Validation of Transition Alignment in Multiple Neural Population*
   - Co-author on 1 published article
