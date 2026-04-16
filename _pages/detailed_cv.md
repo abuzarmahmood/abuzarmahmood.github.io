@@ -16,7 +16,7 @@ author_profile: true
 **Ph.D., Neuroscience**, Brandeis University, Waltham, MA <span style="float:right;">2023</span>
 - GPA: 3.98
 - Thesis Advisor: Donald B. Katz
-- Thesis Title: *Multi-region Coordination for Taste Processing in the Rodent Brain*
+- Thesis Title: *Dynamic Neural Responses and Network Interactions during Taste Processing*
 
 **M.S., Neuroscience**, Brandeis University, Waltham, MA <span style="float:right;">2019</span>
 - GPA: 3.96
@@ -32,7 +32,7 @@ author_profile: true
 **Postdoctoral Research Fellow**, Tufts Medical Center, MA <span style="float:right;">July 2023 – Present</span>
 - Project: Bioinformatics analysis of the effect of AT2R activation on cardiomyopathy in obesity and diabetes
 
-**Visiting Research Scholar**, Brandeis University, MA <span style="float:right;">Mar 2026 – Present</span>
+**Visiting Research Scientist**, Brandeis University, MA <span style="float:right;">Mar 2026 – Present</span>
 
 **Postdoctoral Fellow**, Brandeis University, MA <span style="float:right;">Nov 2023 – Mar 2026</span>
 - Swartz Foundation Computational Neuroscience Postdoctoral Fellow (2023–25)
@@ -59,7 +59,7 @@ author_profile: true
 
 ### Neuroscience
 
-1. Baas-Thomas, N.\*, Mahmood, A.\*, Wang, Y., Katz, D.B. The Ingestive Response Reflects Gustatory Cortical Neural Dynamics. *(In press)*, eLife. <https://doi.org/10.1101/2025.10.01.679845> \*Co-first authors
+1. Baas-Thomas, N.\*, Mahmood, A.\*, Mukherjee, N., Maigler, K.C., Wang, Y., Katz, D.B. The Ingestive Response Reflects Gustatory Cortical Neural Dynamics. *(In press)*, eLife. <https://doi.org/10.1101/2025.10.01.679845> \*Co-first authors
 2. Mukadam, N., Mahmood, A., Cronin-Golomb, A., DeGutis, J. Subjective Cognitive Concerns and Global Metacognitive Bias in Prodromal Parkinson's and Parkinson's Disease without Cognitive Impairment. *Neuropsychology* *(In press)*. <https://doi.org/10.1037/neu0001083>
 3. Mahmood, A., Steindler, J., Katz, D.B. (2026). Sensory and Palatability Coding of Taste Stimuli in Cortex Involves Dynamic and Asymmetric Cortico-Amygdalar Interactions. *Journal of Neurophysiology*. <https://doi.org/10.1152/jn.00503.2025>
 4. Mahmood, A. (2025). pytau: A Python Package for Streamlined Changepoint Model Analysis in Neuroscience. *Journal of Open Source Software*, 11(117), 8509. <https://doi.org/10.21105/joss.08509>
@@ -83,15 +83,15 @@ author_profile: true
 
 ### Neuroscience
 
-1. Mazzio, C., Flashman, S., Baas-Thomas, N., Mahmood, A., Lin, J.Y., & Katz, D.B. (2026). Cortical Dynamics Underlying Learned and Non-Learned Aversive Behavior.
+1. Mazzio, C., Flashman, S., Mahmood, A., Baas-Thomas, N., Lin, J.Y., Katz, D.B. Cortical Dynamics Underlying Learned and Non-Learned Aversive Behavior.
 2. Rohrer, D.M., Nobili, C.C.C.M, Jiang, W., Mahmood, A., Knight, R.A., Gutsell, J., Katz, D.B. Am I Disgust? Exploring Disgust Responses Across Stimuli.
-3. Calia-Bogan, V., Steindler, J., Katz, D.B., Mahmood, A. Characterizing Intra-State Dynamics of Gustatory Cortical Taste-Evoked Activity.
+3. Mahmood, A.\*, Calia-Bogan, V.\*, Steindler, J., Katz, D.B., Miller, P. Characterizing Intra-State Dynamics of Gustatory Cortical Taste-Evoked Activity. \*Equal contributors
 
 ### Cardiovascular Disease and Diabetes
 
-1. Chaudhary, P.K., Mahmood, A., Valencia, D., Reyelt, L., Hines, I., Zhang, Y., et al. Development of Stage-4 Pressure Ulcer Models in Rat.
-2. Mahmood, A., Kiet Duong A., Mansour, A., and Pulakat, L. CNN-Assisted Semi-Automated Histological Evaluation of Interstitial and Perivascular Fibrosis.
-3. Mahmood, A.\*, Mehm, A.\*, Mooney, B., DeMarco, V.G., Pulakat, L. Feeding Satiation-Resistant Rat Strain as a Model for Obesity, Diabetes, and Heart Failure. \*Co-first authors
+1. Mahmood, A.\*, Mehm, A.\*, Mooney, B., DeMarco, V.G., Pulakat, L. Pathology and Signaling networks of cardio-pulmonary axis in a new female model for HFpEF syndrome: Uncovering new drug targets. \*Equal contributors
+2. Chaudhary, P.K., Mahmood, A., Valencia, D., Reyelt, L., Hines, I., Zhang, Y., et al. Development of a Rodent Stage-4 Pressure Ulcer Model.
+3. Mahmood, A., Kiet Duong A., Mansour, A., Pulakat, L. CNN-assisted semi-automated histological evaluation of interstitial and perivascular fibrosis.
 
 ---
 
@@ -199,36 +199,74 @@ author_profile: true
 
 ---
 
-## Support, Fellowships, and Awards
+## Support
 
-| Award | Year |
-|-------|------|
-| Poster of Distinction, MCRI Annual Retreat | 2025 |
-| ACCESS-CI Compute Grant, MED250058 NSF (Co-PI) | 2025 |
-| Polak Young Investigator Award, Association for Chemoreception Sciences | 2024 |
-| Computational Neuroscience Postdoctoral Fellowship, Swartz Foundation | 2023–25 |
-| Trainee Professional Development Award, Society for Neuroscience | 2023 |
-| ACCESS-CI Compute Grant, BIO230103 NSF (PI: Mahmood) | 2023–25 |
-| XSEDE Compute Research Award, NSF | 2019–22 |
-| First Place, Poster Competition, Volen Center for Complex Systems Retreat | 2021 |
-| Computational Neuroscience Training Fellowship, NIH | 2017–19 |
-| Academic Hardware Grant, NVIDIA | 2018 |
-| Award for Academic Distinction, University of Missouri | 2017 |
-| Clifford W. Tompson Scholarship, Department of Physics, University of Missouri | 2016–2017 |
-| Curator's Grant in Aid Award, International Center, University of Missouri | 2015–2017 |
-| Col. Arthur C. Allen Scholarship, College of Arts and Science, University of Missouri | 2015–2017 |
-| Dean's List, College of Arts and Science, University of Missouri | 2013–2017 |
-| International Merit Scholarship, International Center, University of Missouri | 2013–2017 |
-| Junior Scholarship Award, Honors College, University of Missouri | 2016 |
-| Life Sciences Undergraduate Research Opportunity, University of Missouri | 2016 |
-| Rosemary Dishman Scholarship, Department of Physics, University of Missouri | 2015 |
-| Sophomore Scholarship Award, Honors College, University of Missouri | 2015 |
-| Undergraduate Research Travel Award, Office of Undergraduate Research, University of Missouri | 2015 |
-| Newell S. Gingrich Undergraduate Scholarship, Department of Physics, University of Missouri | 2014 |
-| Paul E. Basye Scholarship, Department of Physics, University of Missouri | 2014 |
-| First Place, Undergraduate Poster Competition, Missouri LS Week | 2016, 2017 |
-| Summer Research Fellowship, University of Missouri | 2016 |
-| Distinction, University of Missouri Cardiovascular Day XXII Poster Competition | 2015 |
+ACCESS-CI Compute Grant, MED250058 NSF (Co-PI) <span style="float:right;">2025</span>
+- Project Title: "CNN-based semi-automated evaluation of fibrosis in histological cardiac sections"
+- In-kind support of compute allocation valued at approx. $40,000
+
+Computational Neuroscience Postdoctoral Fellowship, Swartz Foundation <span style="float:right;">2023–25</span>
+
+ACCESS-CI Compute Grant, BIO230103 NSF (PI) <span style="float:right;">2023–25</span>
+- Project Title: "Computational Processing and Modeling of Neural Ensembles in Identifying the Nonlinear Dynamics of Taste Perception"
+- In-kind support of compute allocation valued at approx. $40,000
+
+XSEDE Compute Research Award, NSF <span style="float:right;">2019–22</span>
+
+Computational Neuroscience Training Fellowship, NIH <span style="float:right;">2017–19</span>
+
+Academic Hardware Grant, NVIDIA <span style="float:right;">2018</span>
+- Project Title: "Open-Source Neuro-Technology: Democratizing High-Performance Hardware and Analysis Pipelines for Systems Neuroscience"
+
+Life Sciences Undergraduate Research Opportunity, University of Missouri <span style="float:right;">2016</span>
+- Project Title: "Investigating the Role of the Angiotensin II Type 2 Receptor in Protective Cardiac Remodeling"
+- Project Advisor: Lakshmi Pulakat
+
+Undergraduate Research Travel Award, Office of Undergraduate Research, University of Missouri <span style="float:right;">2015</span>
+- Awarded to present at Experimental Biology, Boston
+
+---
+
+## Awards
+
+Poster of Distinction, Honorary Mention, MCRI Annual Retreat Poster Competition <span style="float:right;">2025</span>
+
+Polak Young Investigator Award, Association for Chemoreception Sciences <span style="float:right;">2024</span>
+
+Trainee Professional Development Award, Society for Neuroscience <span style="float:right;">2023</span>
+
+First Place, Poster Competition, Volen Center for Complex Systems Retreat <span style="float:right;">2021</span>
+
+First Place, Undergraduate Poster Competition, Missouri LS Week <span style="float:right;">2016, 2017</span>
+
+Distinction, University of Missouri Cardiovascular Day XXII Poster Competition <span style="float:right;">2015</span>
+
+### Academic Awards
+
+Award for Academic Distinction, University of Missouri <span style="float:right;">2017</span>
+- Awarded to 10 students out of approx. 23,000 every year
+
+Summer Research Fellowship, University of Missouri <span style="float:right;">2016</span>
+
+Clifford W. Tompson Scholarship, Department of Physics, University of Missouri <span style="float:right;">2016–2017</span>
+
+Junior Scholarship Award, Honors College, University of Missouri <span style="float:right;">2016</span>
+
+Curator's Grant in Aid Award, International Center, University of Missouri <span style="float:right;">2015–2017</span>
+
+Col. Arthur C. Allen Scholarship, College of Arts and Science, University of Missouri <span style="float:right;">2015–2017</span>
+
+Dean's List, College of Arts and Science, University of Missouri <span style="float:right;">2013–2017</span>
+
+International Merit Scholarship, International Center, University of Missouri <span style="float:right;">2013–2017</span>
+
+Rosemary Dishman Scholarship, Department of Physics, University of Missouri <span style="float:right;">2015</span>
+
+Sophomore Scholarship Award, Honors College, University of Missouri <span style="float:right;">2015</span>
+
+Newell S. Gingrich Undergraduate Scholarship, Department of Physics, University of Missouri <span style="float:right;">2014</span>
+
+Paul E. Basye Scholarship, Department of Physics, University of Missouri <span style="float:right;">2014</span>
 
 ---
 
@@ -243,7 +281,7 @@ author_profile: true
 - Probabilistic Programming and Bayesian Modeling
 - LLM agent pipelines
 
-**Teaching Assistant**, Applied Statistical Computing in R (with Prof. Xiaodong Liu), Brandeis University <span style="float:right;">2021</span>
+**Teaching Assistant**, Applied Statistical Computing in R (with Prof. Xiaodong Liu), Brandeis University <span style="float:right;">2019</span>
 
 **Guest Lecturer and Teaching Assistant**, Computational Neuroscience (with Dr. Leandro Alonso), Brandeis University <span style="float:right;">2019</span>
 - Detecting circuit structure and non-random features in a connectivity matrix
@@ -293,6 +331,16 @@ author_profile: true
 - Laura Perry, Undergraduate — Data collection (2017)
 - Jamal Bajwa, Undergraduate — Data collection and analysis (2016–17)
   - Project: *Regulation of Neuroprotective MCL1 by Rapamycin and AT2R Agonists in Dopaminergic Neurons*
+
+---
+
+## Leadership and Service
+
+**Executive Committee**, Brandeis University Postdocs Association <span style="float:right;">2023–26</span>
+
+**Selection Committee**, Invited Postdoc Research Colloquium, Brandeis University <span style="float:right;">2023–26</span>
+
+**Ad-hoc Reviewer** (with Prof. Donald Katz): Journal of Neuroscience Methods, Journal of Neuroscience, Applied Physics Reviews
 
 ---
 
