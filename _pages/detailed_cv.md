@@ -259,28 +259,40 @@ author_profile: true
 
 **MCRI, Tufts Medical Center, MA**
 - Alex Mansour, Undergraduate — Data Collection and Analysis (2024–25)
+  - Project: *Preventing systemic colistin nephrotoxicity using localized, needle-free transdermal delivery*
+  - Co-author on manuscript (In Preparation)
 - Kiet Duong, Undergraduate — Data Collection and Analysis (2024–25)
+  - Project: *Assessment of Cardiac Function and Microvascular Structure in a Rat Model of Pressure Ulcer Injury*
+  - Co-author on manuscript (In Preparation)
 - Charles Xu, MD student — Data Collection and Analysis (2024)
+  - Project: *Effect of human mesenchymal stem cells on foot wound in a rat model with severe diabetes*
 - Abigail Wu, Summer Student (Research Science Institute) — Data Analysis (2024)
+  - Summer Project Thesis: *Effects of rapamycin on cardiac health and signaling in rats fed a cafeteria diet*
 - Nancy Hassan, Summer Student (Research Science Institute) — Data Analysis (2024)
+  - Summer Project Thesis: *Effects of chemo-toxicity on iCell cardiomyocytes*
 
 **Brandeis University, MA**
 - Vincent Calia-Bogan, Undergraduate — Computational Modeling and Analysis (2023–25)
   - Computational Neuroscience Training Grant Awardee
-  - Thesis: *Investigating intra-state dynamics in gustatory cortex* (High Honors)
-  - First author on manuscript (In Preparation)
+  - Undergraduate Thesis: *Investigating Intra-State Dynamics in Gustatory Cortex* (High Honors)
+  - Co-first author on manuscript (In Preparation)
 - Hannah Germaine, PhD Rotation Student — Modeling and Data Analysis (2022)
+  - Project: *Statistical validation of transition alignment in multiple neural population*
   - Co-author on 1 published article
 - Victor Suarez, PhD Rotation Student — Data Analysis (2020)
+  - Project: *Neural correlates of variable behavioral output to aversive tastants*
 - Jessica Steindler, Post-Bac — Hardware construction, surgery, and data collection (2019–21)
+  - Project: *Dynamics of the BLA-GC interaction during taste processing*
   - Co-author on 2 published articles and 1 manuscript (In Preparation)
 - Thomas Murdy, Undergraduate — Surgery, data collection, and analysis (2020–21)
-  - Thesis: *Investigating the BLA-GC interaction in CTA acquisition* (High Honors)
+  - Undergraduate Thesis: *Investigating the BLA-GC interaction in CTA acquisition* (High Honors)
 
 **University of Missouri, MO**
 - Paige Beauparlant, Undergraduate — Data collection (2017)
+  - Project: *Cardiovascular Protective Effects of AT2R Activation by Peptide Drug NP-6A4*
 - Laura Perry, Undergraduate — Data collection (2017)
 - Jamal Bajwa, Undergraduate — Data collection and analysis (2016–17)
+  - Project: *Regulation of Neuroprotective MCL1 by Rapamycin and AT2R Agonists in Dopaminergic Neurons*
 
 ---
 
