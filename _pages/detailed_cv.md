@@ -201,71 +201,72 @@ author_profile: true
 
 ## Support
 
-**ACCESS-CI Compute Grant, MED250058 NSF (Co-PI)** <span style="float:right;">2025</span>
+ACCESS-CI Compute Grant, MED250058 NSF (Co-PI) <span style="float:right;">2025</span>
 - Project Title: "CNN-based semi-automated evaluation of fibrosis in histological cardiac sections"
 - In-kind support of compute allocation valued at approx. $40,000
 
-**Computational Neuroscience Postdoctoral Fellowship, Swartz Foundation** <span style="float:right;">2023–25</span>
+Computational Neuroscience Postdoctoral Fellowship, Swartz Foundation <span style="float:right;">2023–25</span>
 
-**ACCESS-CI Compute Grant, BIO230103 NSF (PI)** <span style="float:right;">2023–25</span>
+ACCESS-CI Compute Grant, BIO230103 NSF (PI) <span style="float:right;">2023–25</span>
 - Project Title: "Computational Processing and Modeling of Neural Ensembles in Identifying the Nonlinear Dynamics of Taste Perception"
 - In-kind support of compute allocation valued at approx. $40,000
 
-**XSEDE Compute Research Award, NSF** <span style="float:right;">2019–22</span>
+XSEDE Compute Research Award, NSF <span style="float:right;">2019–22</span>
 
-**Computational Neuroscience Training Fellowship, NIH** <span style="float:right;">2017–19</span>
+Computational Neuroscience Training Fellowship, NIH <span style="float:right;">2017–19</span>
 
-**Academic Hardware Grant, NVIDIA** <span style="float:right;">2018</span>
+Academic Hardware Grant, NVIDIA <span style="float:right;">2018</span>
 - Project Title: "Open-Source Neuro-Technology: Democratizing High-Performance Hardware and Analysis Pipelines for Systems Neuroscience"
 
-**Life Sciences Undergraduate Research Opportunity, University of Missouri** <span style="float:right;">2016</span>
+Life Sciences Undergraduate Research Opportunity, University of Missouri <span style="float:right;">2016</span>
 - Project Title: "Investigating the Role of the Angiotensin II Type 2 Receptor in Protective Cardiac Remodeling"
 - Project Advisor: Lakshmi Pulakat
 
-**Undergraduate Research Travel Award, Office of Undergraduate Research, University of Missouri** <span style="float:right;">2015</span>
+Undergraduate Research Travel Award, Office of Undergraduate Research, University of Missouri <span style="float:right;">2015</span>
 - Awarded to present at Experimental Biology, Boston
 
 ---
 
 ## Awards
 
-**Poster of Distinction, Honorary Mention, MCRI Annual Retreat Poster Competition** <span style="float:right;">2025</span>
+Poster of Distinction, Honorary Mention, MCRI Annual Retreat Poster Competition <span style="float:right;">2025</span>
 
-**Polak Young Investigator Award, Association for Chemoreception Sciences** <span style="float:right;">2024</span>
+Polak Young Investigator Award, Association for Chemoreception Sciences <span style="float:right;">2024</span>
 
-**Trainee Professional Development Award, Society for Neuroscience** <span style="float:right;">2023</span>
+Trainee Professional Development Award, Society for Neuroscience <span style="float:right;">2023</span>
 
-**First Place, Poster Competition, Volen Center for Complex Systems Retreat** <span style="float:right;">2021</span>
+First Place, Poster Competition, Volen Center for Complex Systems Retreat <span style="float:right;">2021</span>
 
-**First Place, Undergraduate Poster Competition, Missouri LS Week** <span style="float:right;">2016, 2017</span>
+First Place, Undergraduate Poster Competition, Missouri LS Week <span style="float:right;">2016, 2017</span>
 
-**Distinction, University of Missouri Cardiovascular Day XXII Poster Competition** <span style="float:right;">2015</span>
+Distinction, University of Missouri Cardiovascular Day XXII Poster Competition <span style="float:right;">2015</span>
 
 ### Academic Awards
 
-**Award for Academic Distinction, University of Missouri** <span style="float:right;">2017</span>
+Award for Academic Distinction, University of Missouri <span style="float:right;">2017</span>
+- Awarded to 10 students out of approx. 23,000 every year
 
-**Summer Research Fellowship, University of Missouri** <span style="float:right;">2016</span>
+Summer Research Fellowship, University of Missouri <span style="float:right;">2016</span>
 
-**Clifford W. Tompson Scholarship, Department of Physics, University of Missouri** <span style="float:right;">2016–2017</span>
+Clifford W. Tompson Scholarship, Department of Physics, University of Missouri <span style="float:right;">2016–2017</span>
 
-**Junior Scholarship Award, Honors College, University of Missouri** <span style="float:right;">2016</span>
+Junior Scholarship Award, Honors College, University of Missouri <span style="float:right;">2016</span>
 
-**Curator's Grant in Aid Award, International Center, University of Missouri** <span style="float:right;">2015–2017</span>
+Curator's Grant in Aid Award, International Center, University of Missouri <span style="float:right;">2015–2017</span>
 
-**Col. Arthur C. Allen Scholarship, College of Arts and Science, University of Missouri** <span style="float:right;">2015–2017</span>
+Col. Arthur C. Allen Scholarship, College of Arts and Science, University of Missouri <span style="float:right;">2015–2017</span>
 
-**Dean's List, College of Arts and Science, University of Missouri** <span style="float:right;">2013–2017</span>
+Dean's List, College of Arts and Science, University of Missouri <span style="float:right;">2013–2017</span>
 
-**International Merit Scholarship, International Center, University of Missouri** <span style="float:right;">2013–2017</span>
+International Merit Scholarship, International Center, University of Missouri <span style="float:right;">2013–2017</span>
 
-**Rosemary Dishman Scholarship, Department of Physics, University of Missouri** <span style="float:right;">2015</span>
+Rosemary Dishman Scholarship, Department of Physics, University of Missouri <span style="float:right;">2015</span>
 
-**Sophomore Scholarship Award, Honors College, University of Missouri** <span style="float:right;">2015</span>
+Sophomore Scholarship Award, Honors College, University of Missouri <span style="float:right;">2015</span>
 
-**Newell S. Gingrich Undergraduate Scholarship, Department of Physics, University of Missouri** <span style="float:right;">2014</span>
+Newell S. Gingrich Undergraduate Scholarship, Department of Physics, University of Missouri <span style="float:right;">2014</span>
 
-**Paul E. Basye Scholarship, Department of Physics, University of Missouri** <span style="float:right;">2014</span>
+Paul E. Basye Scholarship, Department of Physics, University of Missouri <span style="float:right;">2014</span>
 
 ---
 
