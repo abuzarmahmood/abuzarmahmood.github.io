@@ -61,20 +61,20 @@ author_profile: true
 
 1. Baas-Thomas, N.\*, Mahmood, A.\*, Wang, Y., Katz, D.B. The Ingestive Response Reflects Gustatory Cortical Neural Dynamics. *(In press)*, eLife. <https://doi.org/10.1101/2025.10.01.679845> \*Co-first authors
 2. Mukadam, N., Mahmood, A., Cronin-Golomb, A., DeGutis, J. Subjective Cognitive Concerns and Global Metacognitive Bias in Prodromal Parkinson's and Parkinson's Disease without Cognitive Impairment. *Neuropsychology* *(In press)*. <https://doi.org/10.1037/neu0001083>
-3. Mahmood, A., Steindler, J., Katz, D.B. (2026). Sensory and palatability coding of taste stimuli in cortex involves dynamic and asymmetric cortico-amygdalar interactions. *Journal of Neurophysiology*. <https://doi.org/10.1152/jn.00503.2025>
-4. Mahmood, A. (2025). pytau: A Python package for streamlined changepoint model analysis in neuroscience. *Journal of Open Source Software*, 11(117), 8509. <https://doi.org/10.21105/joss.08509>
+3. Mahmood, A., Steindler, J., Katz, D.B. (2026). Sensory and Palatability Coding of Taste Stimuli in Cortex Involves Dynamic and Asymmetric Cortico-Amygdalar Interactions. *Journal of Neurophysiology*. <https://doi.org/10.1152/jn.00503.2025>
+4. Mahmood, A. (2025). pytau: A Python Package for Streamlined Changepoint Model Analysis in Neuroscience. *Journal of Open Source Software*, 11(117), 8509. <https://doi.org/10.21105/joss.08509>
 5. Mahmood, A., Steindler, J., Germaine, H., Katz, D.B. (2023). Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity. *Journal of Neuroscience*, 43(3), 386–404. <https://doi.org/10.1523/JNEUROSCI.1412-22.2022>
-6. Stone, B.T., Lin, J.-Y., Mahmood, A., Sanford, A.J., and Katz, D.B. (2022). LiCl-induced sickness modulates rat gustatory cortical responses. *PLOS Biology* 20, e3001537. <https://doi.org/10.1371/journal.pbio.3001537>
-7. Lin, J.-Y., Stone, B.T., Herzog, L.E., Nanu, R., Mahmood, A., and Katz, D.B. (2021). The function of groups of neurons changes from moment to moment. *Current Opinion in Physiology* 20, 1–7. <https://doi.org/10.1016/j.cophys.2020.12.002>
+6. Stone, B.T., Lin, J.-Y., Mahmood, A., Sanford, A.J., and Katz, D.B. (2022). LiCl-Induced Sickness Modulates Rat Gustatory Cortical Responses. *PLOS Biology* 20, e3001537. <https://doi.org/10.1371/journal.pbio.3001537>
+7. Lin, J.-Y., Stone, B.T., Herzog, L.E., Nanu, R., Mahmood, A., and Katz, D.B. (2021). The Function of Groups of Neurons Changes from Moment to Moment. *Current Opinion in Physiology* 20, 1–7. <https://doi.org/10.1016/j.cophys.2020.12.002>
 
 ### Cardiovascular Disease and Diabetes
 
 1. Belenchia AM, Boukhalfa A, DeMarco VG, Mehm A, Mahmood A, Liu P, et al. (2023). Cardiovascular Protective Effects of NP-6A4, a Drug with the FDA Designation for Pediatric Cardiomyopathy, in Female Rats with Obesity and Pre-Diabetes. *Cells* 12(10):1373.
 2. Gavini, M.P.\*, Mahmood, A.\*, Belenchia, A.M., Beauparlant, P., Kumar, S.A., Ardhanari, S., et al. (2021). Suppression of Inflammatory Cardiac Cytokine Network in Rats with Untreated Obesity and Pre-Diabetes by AT2 Receptor Agonist NP-6A4. *Frontiers in Pharmacology* 12. \*Co-first authors
-3. Lum-Naihe, K., Toedebusch, R., Mahmood, A., Bajwa, J., Carmack, T., Kumar, S.A., et al. (2017). Cardiovascular disease progression in female Zucker Diabetic Fatty rats occurs via unique mechanisms compared to males. *Sci Rep* 7, 17823. <https://doi.org/10.1038/s41598-017-18003-8>
+3. Lum-Naihe, K., Toedebusch, R., Mahmood, A., Bajwa, J., Carmack, T., Kumar, S.A., et al. (2017). Cardiovascular Disease Progression in Female Zucker Diabetic Fatty Rats Occurs via Unique Mechanisms Compared to Males. *Sci Rep* 7, 17823. <https://doi.org/10.1038/s41598-017-18003-8>
 4. Luck, C., DeMarco, V.G., Mahmood, A., Gavini, M.P., and Pulakat, L. (2017). Differential Regulation of Cardiac Function and Intracardiac Cytokines by Rapamycin in Healthy and Diabetic Rats. *Oxidative Medicine and Cellular Longevity* 2017, 1–17. <https://doi.org/10.1155/2017/5724046>
-5. Arnold, N., Mahmood, A., Ramdas, M., Ehlinger, P.P., and Pulakat, L. (2017). Regulation of the cardioprotective adiponectin and its receptor AdipoR1 by salt. *Can. J. Physiol. Pharmacol.* 95, 305–309. <https://doi.org/10.1139/cjpp-2016-0570>
-6. Gul, R., Mahmood, A., Luck, C., Lum-Naihe, K., Alfadda, A.A., Speth, R.C., and Pulakat, L. (2015). Regulation of cardiac miR-208a, an inducer of obesity, by rapamycin and nebivolol. *Obesity* 23, 2251–2259. <https://doi.org/10.1002/oby.21227>
+5. Arnold, N., Mahmood, A., Ramdas, M., Ehlinger, P.P., and Pulakat, L. (2017). Regulation of the Cardioprotective Adiponectin and Its Receptor AdipoR1 by Salt. *Can. J. Physiol. Pharmacol.* 95, 305–309. <https://doi.org/10.1139/cjpp-2016-0570>
+6. Gul, R., Mahmood, A., Luck, C., Lum-Naihe, K., Alfadda, A.A., Speth, R.C., and Pulakat, L. (2015). Regulation of Cardiac miR-208a, an Inducer of Obesity, by Rapamycin and Nebivolol. *Obesity* 23, 2251–2259. <https://doi.org/10.1002/oby.21227>
 7. Mahmood, A., and Pulakat, L. (2015). Differential Effects of β-Blockers, Angiotensin II Receptor Blockers, and a Novel AT2R Agonist NP-6A4 on Stress Response of Nutrient-Starved Cardiovascular Cells. *PLOS ONE* 10, e0144824. <https://doi.org/10.1371/journal.pone.0144824>
 
 ---
@@ -90,7 +90,7 @@ author_profile: true
 ### Cardiovascular Disease and Diabetes
 
 1. Chaudhary, P.K., Mahmood, A., Valencia, D., Reyelt, L., Hines, I., Zhang, Y., et al. Development of Stage-4 Pressure Ulcer Models in Rat.
-2. Mahmood, A., Kiet Duong A., Mansour, A., and Pulakat, L. CNN-assisted semi-automated histological evaluation of interstitial and perivascular fibrosis.
+2. Mahmood, A., Kiet Duong A., Mansour, A., and Pulakat, L. CNN-Assisted Semi-Automated Histological Evaluation of Interstitial and Perivascular Fibrosis.
 3. Mahmood, A.\*, Mehm, A.\*, Mooney, B., DeMarco, V.G., Pulakat, L. Feeding Satiation-Resistant Rat Strain as a Model for Obesity, Diabetes, and Heart Failure. \*Co-first authors
 
 ---
@@ -98,35 +98,35 @@ author_profile: true
 ## Published Abstracts
 
 1. Mansour A, Herlihy M, Mahmood A, et al. Abstract 1880 Preventing Colistin Nephrotoxicity Caused by Systemic Delivery via Localized, Needle-Free Transdermal Delivery of Colistin Methanesulfonate Micromist: A Paradigm Shift in Antibiotic Treatment. *Journal of Biological Chemistry*, vol. 301, no. 5, May 2025, p. 109045. DOI.org (Crossref), https://doi.org/10.1016/j.jbc.2025.109045.
-2. Pulakat L, DeMarco VG, Mahmood A, Mehm A, Tang Y, Martin GL, et al. Proteomics of the cardiopulmonary pathology in an obese and diabetic female rat model – Evidence for a new female HFpEF rat model. *9th International Caparica Conference on Analytical Proteomics*, Lisbon, Portugal (2024)
+2. Pulakat L, DeMarco VG, Mahmood A, Mehm A, Tang Y, Martin GL, et al. Proteomics of the Cardiopulmonary Pathology in an Obese and Diabetic Female Rat Model – Evidence for a New Female HFpEF Rat Model. *9th International Caparica Conference on Analytical Proteomics*, Lisbon, Portugal (2024)
 3. Pulakat L, Mahmood A, Belenchia A, Gavini M, Liu Pi, Mooney B, et al. Abstract 14318: Sex Differences in Treatment Responses to NP-6A4, a Cardiomyopathy Drug With the FDA Designation, in Heart Disease Induced by Untreated Obesity. *Circulation* 144(Suppl_1):A14318 (2021)
 4. Gavini MP, Mahmood A, Belenchia AM, Beauparlant P, Kumar S, Ardhanari S, et al. Abstract 16430: Activation of AT2 Receptor by NP-6A4 Improves Cardiac Function by Inducing a Novel Cardio-Reparative Protein-Micro RNA Network in Zucker Obese Rats With Untreated Obesity and Diabetes. *Circulation* 140(Suppl_1):A16430 (2019)
-5. Toedebusch R, Lum-Naihe K, Mahmood A, Bajwa J, Kumar S, Ardhanari S, et al. Mechanistic insights into diabetes and the progression of cardiovascular disease in female rats. *The FASEB Journal* 31(S1):1014.17 (2017)
+5. Toedebusch R, Lum-Naihe K, Mahmood A, Bajwa J, Kumar S, Ardhanari S, et al. Mechanistic Insights into Diabetes and the Progression of Cardiovascular Disease in Female Rats. *The FASEB Journal* 31(S1):1014.17 (2017)
 6. Pulakat L, Gavini M, Mahmood A, Belechia A, Toedebusch R, Beauparlant P, et al. Abstract P353: Attenuation of Cardiac Fibrosis, Hypertrophy and Myopathy by AT2R Agonist NP-6A4. *Hypertension* 70(suppl_1):AP353 (2017)
 7. Mahmood A, Raja A, Pulakat L. Droplette – A Fluid Dynamics Driven Platform for Transdermal and Intra-Cellular Delivery of Large Molecules. *The FASEB Journal* 31(S1):924.7 (2017)
 8. Belenchia AM, Beauparlant P, Mahmood A, Bajwa J, Zhang Q, Khare S, et al. Cardiovascular Protective vs. Anti-Cancer Properties: Novel Actions of the AT2R Agonist, NP-6A4. *The FASEB Journal* 31(S1):lb680 (2017)
 9. Beauparlant P, Mahmood A, Toedebusch R, DeMarco V, Ardhanari S, Kumar S, et al. Cardiovascular Protective Effects of AT2R Activation by Peptide Drug NP-6A4. *The FASEB Journal* 31(S1):688.10 (2017)
 10. Mahmood A, Pulakat L. Abstract P623: Nutrient Stress Response of Cardiovascular Cells to β-Blockers, ARB and AT2R Agonists. *Hypertension* 66(suppl_1):AP623 (2015)
 11. Mahmood A, Gul R, Luck C, Pulakat L. Role of Cardiac mir-208a in Nebivolol-Mediated Signaling. *The FASEB Journal* 29(S1):716.15 (2015)
-12. Lum-Naihe K, Raja A, Bajwa J, Mahmood A, Luck C, Emter C, et al. Sex Differences in the Progression of Diabetes-associated Cardiac Pathology. *The FASEB Journal* 29(S1):964.9 (2015)
+12. Lum-Naihe K, Raja A, Bajwa J, Mahmood A, Luck C, Emter C, et al. Sex Differences in the Progression of Diabetes-Associated Cardiac Pathology. *The FASEB Journal* 29(S1):964.9 (2015)
 13. Lum-Naihe K, Mahmood A, Bajwa J, Emter CA, Pulakat L. Abstract P636: Sex Differences in Cardioprotective AT2R Expression in Diabetic Rats and Its Correlation with Myocardial Damage. *Hypertension* 66(suppl_1):AP636 (2015)
 
 ---
 
 ## Poster Presentations
 
-1. Mahmood A., Mansour A., Duong K.A., Pulakat L. Machine learning-assisted semi-automation of interstitial fibrosis measurement in cardiac sections. *MCRI Retreat 2025*, Woods Hole — Honorable Mention
+1. Mahmood A., Mansour A., Duong K.A., Pulakat L. Machine Learning-Assisted Semi-Automation of Interstitial Fibrosis Measurement in Cardiac Sections. *MCRI Retreat 2025*, Woods Hole — Honorable Mention
 2. Mahmood A., DeMarco V.G., Mehm A., Tang Y., Martin G.L., Agrawal S., Mooney B., Pulakat L. Impact of NP-6A4 on the pathology of heart-lung continuum in a female model for metabolic syndrome and heart failure with preserved ejection fraction. *2024 Angiotensin Conference GRC*, Lucca, Italy (2024)
-3. Mahmood A., Steindler J., Katz D.B. Basolateral Amygdala and Gustatory Cortex interact bidirectionally during taste processing in rodents. *Society for Neuroscience Annual Meeting* (November 2024)
-4. Mahmood A., Mehm A., Liu P., Mooney B., Gavini M.P., Tang Y., and Pulakat L. Characterizing pathology and signaling in obese and diabetic female rats with heart disease as a model for HFpEF. *MCRI Annual Retreat*, Woods Hole, MA (September 2024)
-5. Mahmood A., Steindler J., Katz D.B. Basolateral Amygdala and Gustatory Cortex interact bidirectionally during taste processing in rodents. *Society for Neuroscience Annual Meeting* (November 2023) — Attendance supported by Society for Neuroscience Trainee Professional Development Award
+3. Mahmood A., Steindler J., Katz D.B. Basolateral Amygdala and Gustatory Cortex Interact Bidirectionally During Taste Processing in Rodents. *Society for Neuroscience Annual Meeting* (November 2024)
+4. Mahmood A., Mehm A., Liu P., Mooney B., Gavini M.P., Tang Y., and Pulakat L. Characterizing Pathology and Signaling in Obese and Diabetic Female Rats with Heart Disease as a Model for HFpEF. *MCRI Annual Retreat*, Woods Hole, MA (September 2024)
+5. Mahmood A., Steindler J., Katz D.B. Basolateral Amygdala and Gustatory Cortex Interact Bidirectionally During Taste Processing in Rodents. *Society for Neuroscience Annual Meeting* (November 2023) — Attendance supported by Society for Neuroscience Trainee Professional Development Award
 6. Mahmood A., Steindler J., Stone B.T., Katz D.B. Dynamic Coupling of Taste-Evoked Gustatory Cortical and Basolateral Amygdalar Activity. *ACHEMS XLV*, FL (April 2023)
 7. Mahmood A., Steindler J., Stone B.T., Katz D.B. Gustatory Cortex and Basolateral Amygdala Communication in Innate Taste Processing.
    - *International Symposium on Olfaction and Taste*, Portland, WA (August 2020)
    - First Place, Graduate Poster Competition, Volen Center for Complex Systems Retreat (Sept 2021)
-8. Mahmood A., Luck C., DeMarco V.G., Gavini M., and Pulakat L. Differential Regulation of Cardiac Function and Intracardiac Cytokines by Rapamycin in healthy and diabetic rats. *University of Missouri Cardiovascular Day XXIV Poster Competition* (Feb 2017) — First Place, Undergraduate Competition
+8. Mahmood A., Luck C., DeMarco V.G., Gavini M., and Pulakat L. Differential Regulation of Cardiac Function and Intracardiac Cytokines by Rapamycin in Healthy and Diabetic Rats. *University of Missouri Cardiovascular Day XXIV Poster Competition* (Feb 2017) — First Place, Undergraduate Competition
 9. Mahmood A., Gavini M., Senthilkumar A., Carmack T., DeMarco V., and Pulakat L. Investigating the role of the Angiotensin II Type 2 Receptor in Protective Cardiac Remodeling. *University of Missouri Summer Forum* (July 2016)
-10. Mahmood A., Raja A., Gavini M., and Pulakat L. Droplette — a Novel Method of Low-Pressure Transdermal Delivery to Chronic Wounds. *Missouri Life Sciences Week* (Apr 2016) — First Place, Undergraduate Competition, Life Science and Biomedical Engineering Technologies and Informatics category
+10. Mahmood A., Raja A., Gavini M., and Pulakat L. Droplette — A Novel Method of Low-Pressure Transdermal Delivery to Chronic Wounds. *Missouri Life Sciences Week* (Apr 2016) — First Place, Undergraduate Competition, Life Science and Biomedical Engineering Technologies and Informatics category
 11. Mahmood A., and Pulakat L. Improved Survival of Nutrient-Starved Human and Mouse Cardiovascular Cells by A Novel AT2 Receptor Agonist NP-6A4.
     - *Nutrition and Exercise Physiology Corporate Affiliate Board Meeting* (Nov 2015)
     - *University of Missouri Health Sciences Research Day* (Nov 2015)
@@ -140,15 +140,15 @@ author_profile: true
     - *Missouri Life Sciences Week Poster Competition* (April 2015)
     - *University of Missouri Undergraduate Research and Creative Achievements Spring Forum* (April 2015)
 15. Mahmood A., and Pulakat L. Electrical Impedance-Based Measurement of Cardiomyocyte Response to Cardio-protective Drugs. *University of Missouri Health Sciences Research Day* (Nov 2014)
-16. Mahmood A., Gul R., and Pulakat L. Modulation of Electrical Impedance of cardiomyocytes by Nebivolol and novel AT2 Receptor Agonists.
+16. Mahmood A., Gul R., and Pulakat L. Modulation of Electrical Impedance of Cardiomyocytes by Nebivolol and Novel AT2 Receptor Agonists.
     - *Harry S. Truman VA Research Week Poster Competition* (May 2014)
     - *Missouri Life Sciences Week Poster Competition* (April 2014)
 
 ### Co-Authored Poster Presentations
 
 1. Pulakat L., Chaudhary P.K., Chen H.H., Mahmood A., Valencia D., Hines I., Reyelt L., Zhang Y., Gavini M.P. Effects of needle-free therapeutic micromist carrying Tumor Necrosis Factor silencer RNA on expediting chronic wound healing, repairing deep muscle damage and improving survival in a new rat model. Abstract ID: 4452. *ASBMB Meeting 2026*, Washington DC (March 2026)
-2. Mansour A., Herlihy M., Mahmood A., Velasquez F., Duong K., Hines I., Martin G., Chaudhary P.K., Gavini M.P., Sun H., Pulakat L. Preventing colistin nephrotoxicity caused by systemic delivery via localized, needle-free transdermal delivery of colistin methanesulfonate micromist. *MCRI Retreat 2025*, Woods Hole, MA
-3. Chaudhary P.K., Mahmood A., Nasencia D., Reyelt L., Hines I., Zhang Y., Duong A., Martin G., Gavini M.P. A novel siRNA therapy delivered via needle-free therapeutic micromist to expedite chronic wound healing and improve survival. *MCRI Retreat 2025*, Woods Hole, MA
+2. Mansour A., Herlihy M., Mahmood A., Velasquez F., Duong K., Hines I., Martin G., Chaudhary P.K., Gavini M.P., Sun H., Pulakat L. Preventing Colistin Nephrotoxicity Caused by Systemic Delivery via Localized, Needle-Free Transdermal Delivery of Colistin Methanesulfonate Micromist. *MCRI Retreat 2025*, Woods Hole, MA
+3. Chaudhary P.K., Mahmood A., Nasencia D., Reyelt L., Hines I., Zhang Y., Duong A., Martin G., Gavini M.P. A Novel siRNA Therapy Delivered via Needle-Free Therapeutic Micromist to Expedite Chronic Wound Healing and Improve Survival. *MCRI Retreat 2025*, Woods Hole, MA
 4. Baas-Thomas N., Mahmood A., Maigler K., Wang Y., and Katz D.B. The Ingestive Response Reflects Neural Dynamics in the Gustatory Cortex. *ACHEMS*, FL (April 2025)
 5. Gray T.R., Mahmood A., Craddock A.E., White A.S., Goldstein I., Katz D.B. Gustatory-Olfactory Cortical Interactions in Response to Multimodal Stimuli. *ACHEMS*, FL (April 2025)
 6. Pulakat L., Mahmood A., Mansour A., Chen H., Valencia D., Zhang Y., Gavini M. A Novel Preclinical Model for Obesity-Associated Stage 4 Pressure Ulcer and A Promising RNA-Based Therapeutic Approach. *Military Health System Research Symposium*, FL (Aug 2025)
@@ -157,20 +157,20 @@ author_profile: true
    - *ACHEMS*, FL (April 2025)
    - *Society for Neuroscience Annual Meeting* (November 2024)
    - *Brandeis Sci-Fest*, Waltham, MA (Aug 2024)
-9. Pulakat L., DeMarco V.G., Mahmood A., et al. Cardiac and extracardiac pathology of a preclinical model for female-specific HFpEF syndrome. *AHA Hypertension Scientific Session*, Chicago, IL (Sept 2024)
+9. Pulakat L., DeMarco V.G., Mahmood A., et al. Cardiac and Extracardiac Pathology of a Preclinical Model for Female-Specific HFpEF Syndrome. *AHA Hypertension Scientific Session*, Chicago, IL (Sept 2024)
 10. Baas-Thomas N., Mahmood A., Wang Y., Katz D.B. Investigating the Neural Signals Driving the Consummatory Response in Rats.
    - *Society for Neuroscience Annual Meeting* (November 2024)
    - *International Symposium on Olfaction and Taste* (June 2024)
-10. Mazzio C., Lin J.Y., Germaine H., Mahmood A., Katz D.B. Cortical Population Dynamics Underlying Learned And Unlearned Aversive Behavior. *ACHEMS XLV*, FL (April 2023)
+10. Mazzio C., Lin J.Y., Germaine H., Mahmood A., Katz D.B. Cortical Population Dynamics Underlying Learned and Unlearned Aversive Behavior. *ACHEMS XLV*, FL (April 2023)
 11. Pulakat L., Mahmood A., Belenchia A., Gavini M., Liu P., Mooney B., Tang Y., Mehm A., and Demarco V.G. Sex Differences in Treatment Responses to NP-6A4, a Cardiomyopathy Drug With the FDA Designation, in Heart Disease Induced by Untreated Obesity. *American Heart Association Meeting* (Nov 2021)
 12. Maigler K.M., Stone B.T., Mahmood A., Lin J.Y., and Katz D.B. The Contribution of Lateral Hypothalamus to Cortical Palatability Coding. *Association for Chemoreception Science Meeting* (April 2021)
-13. Stone B.T., Mahmood A., Lin J.Y., and Katz D.B. Representation of Illness and its Functional Impact on Gustatory Processing. *International Symposium on Olfaction and Taste*, Portland (August 2020)
+13. Stone B.T., Mahmood A., Lin J.Y., and Katz D.B. Representation of Illness and Its Functional Impact on Gustatory Processing. *International Symposium on Olfaction and Taste*, Portland (August 2020)
 14. Gavini M.P., Mahmood A., Belenchia A.M., Beauparlant P., Kumar S.A., Ardhanari S., DeMarco V.G., and Pulakat L. Activation of AT2 Receptor by NP-6A4 Improves Cardiac Function by Inducing a Novel Cardio-Reparative Protein-Micro RNA Network in Zucker Obese Rats With Untreated Obesity and Diabetes. *American Heart Association Meeting* (Nov 2019)
 15. Pulakat L., Gavini M.P., Mahmood A., Belenchia A.M., Beauparlant P., Kumar S.A., Ardhanari S., and DeMarco V.G. Attenuation of Cardiac Fibrosis, Hypertrophy and Myopathy by AT2R Agonist NP-6A4. *AHA Hypertension Meeting* (Sept 2017)
 16. Belenchia A.M., Beauparlant P., Mahmood A., Bajwa J., Zhang Q., Khare S., and Pulakat L. Cardiovascular Protective vs. Anti-Cancer Properties: Novel Actions of the AT2R Agonist, NP-6A4. *Experimental Biology Meeting* (April 2017)
-17. Toedebusch R., Lum-Naihe K., Mahmood A., Bajwa J., Kumar S., Ardhanari S., Demarco V., and Pulakat L. Mechanistic insights into diabetes and the progression of cardiovascular disease in female rats. *Experimental Biology Meeting* (April 2017)
+17. Toedebusch R., Lum-Naihe K., Mahmood A., Bajwa J., Kumar S., Ardhanari S., Demarco V., and Pulakat L. Mechanistic Insights into Diabetes and the Progression of Cardiovascular Disease in Female Rats. *Experimental Biology Meeting* (April 2017)
 18. Beauparlant P., Mahmood A., Toedebusch R., Kumar S., Ardhanari S., Demarco V., and Pulakat L. Cardiovascular Protective Effects of AT2R Activation by Peptide Drug NP-6A4. *Experimental Biology Meeting* (April 2017)
-19. Lum-Naihe K., Toedebusch R., Mahmood A., Bajwa J., Carmack T., Kumar S.A., Ardhanari S., DeMarco V.G., Emter C.A., and Pulakat L. Sex Differences in the Expression of Cardiac miR-29 Family microRNAs in Diabetic Male and Female Rats and its Correlation with Increased Risk for Cardiac Damage in Diabetic Females. *Missouri Life Sciences Week* (April 2016) — Honorable Mention, Graduate Competition, Molecular and Cellular Biology
+19. Lum-Naihe K., Toedebusch R., Mahmood A., Bajwa J., Carmack T., Kumar S.A., Ardhanari S., DeMarco V.G., Emter C.A., and Pulakat L. Sex Differences in the Expression of Cardiac miR-29 Family microRNAs in Diabetic Male and Female Rats and Its Correlation with Increased Risk for Cardiac Damage in Diabetic Females. *Missouri Life Sciences Week* (April 2016) — Honorable Mention, Graduate Competition, Molecular and Cellular Biology
 20. Bajwa J., Mahmood A., Gavini M., Pulakat L. Regulation of Neuroprotective Myeloid Cell Leukemia 1 by Rapamycin and AT2R Agonists in Dopaminergic Neuronal Cell Line. *Hypertension 2015 Scientific Sessions*, Washington DC (Sept 2015)
 21. Lum-Naihe K., Raja A., Bajwa J., Mahmood A., Luck C., Emter C., Pulakat L. Sex Differences in the Progression of Diabetes-associated Cardiac Pathology. *Experimental Biology*, Boston (March 2015)
 22. Arnold N., Mahmood A., Ramdas M., and Pulakat L. Suppression of the Cardio-protective molecule Adiponectin via a High-Salt Diet: A Potentially Pivotal Mechanism of Atherosclerosis in Salt-Induced Hypertension & Heart Disease. *University of Missouri Health Sciences Research Day* (Nov 2014)
@@ -183,18 +183,18 @@ author_profile: true
 |-------|-------|------|
 | | NIMH Computational Neuroscience Journal Club | 2026 |
 | | Hamilos Lab Meeting, Whitehead Institute, MIT | 2026 |
-| The Cortico-Amygdalar interaction dynamics underlying taste perception & action | MaTRIX Laboratory Meeting, Georgia Tech | Nov 2025 |
+| The Cortico-Amygdalar Interaction Dynamics Underlying Taste Perception & Action | MaTRIX Laboratory Meeting, Georgia Tech | Nov 2025 |
 | | Mathematical Biology Seminar, Brandeis University | 2025 |
 | | Insights Team Meeting, Appcast Inc. | 2025 |
-| The Cortico-Amygdalar interaction dynamics underlying taste perception & action | Systems Neuroscience Journal Club, Harvard Medical School | April 2025 |
-| Basolateral Amygdala and Gustatory Cortex Interact Bidirectionally during Taste Processing in Rodents | Swartz Foundation Annual Meeting, WA | 2024 |
-| Basolateral Amygdala and Gustatory Cortex Interact Bidirectionally during Taste Processing in Rodents | Brandeis Neuro Postdoc Symposium, Waltham, MA | 2024 |
+| The Cortico-Amygdalar Interaction Dynamics Underlying Taste Perception & Action | Systems Neuroscience Journal Club, Harvard Medical School | April 2025 |
+| Basolateral Amygdala and Gustatory Cortex Interact Bidirectionally During Taste Processing in Rodents | Swartz Foundation Annual Meeting, WA | 2024 |
+| Basolateral Amygdala and Gustatory Cortex Interact Bidirectionally During Taste Processing in Rodents | Brandeis Neuro Postdoc Symposium, Waltham, MA | 2024 |
 | Polak Young Investigator Award Lecture | Association for Chemoreception Sciences Annual Meeting, FL | 2024 |
-| The only constant is change: Bespoke changepoint modelling in PyMC | PyMCon Web Series | 2023 |
+| The Only Constant Is Change: Bespoke Changepoint Modelling in PyMC | PyMCon Web Series | 2023 |
 | An Intro to Bayesian Modelling and Probabilistic Programming | Brandeis University, MA | 2022 |
-| Gustatory Cortex And Basolateral Amygdala Coordination In Taste Processing | Brandeis University | Mar 2021, Oct 2021 |
+| Gustatory Cortex and Basolateral Amygdala Coordination in Taste Processing | Brandeis University | Mar 2021, Oct 2021 |
 | Gustatory Cortex and Basolateral Amygdala Communication in Innate Taste Processing | NIH Blueprint Joint Symposium on Computational Neuroscience | 2021 |
-| Role Of Gustatory Cortex And Basolateral Amygdala Communication In Taste Processing | Brandeis University | 2020 |
+| Role of Gustatory Cortex and Basolateral Amygdala Communication in Taste Processing | Brandeis University | 2020 |
 | The Nonlinear Population Dynamics of Cortical Taste Processing | Systems/Computational Neuroscience Journal Club, Brandeis University, MA | 2019 |
 
 ---
@@ -277,12 +277,12 @@ author_profile: true
   - Undergraduate Thesis: *Investigating Intra-State Dynamics in Gustatory Cortex* (High Honors)
   - Co-first author on manuscript (In Preparation)
 - Hannah Germaine, PhD Rotation Student — Modeling and Data Analysis (2022)
-  - Project: *Statistical validation of transition alignment in multiple neural population*
+  - Project: *Statistical Validation of Transition Alignment in Multiple Neural Population*
   - Co-author on 1 published article
 - Victor Suarez, PhD Rotation Student — Data Analysis (2020)
-  - Project: *Neural correlates of variable behavioral output to aversive tastants*
+  - Project: *Neural Correlates of Variable Behavioral Output to Aversive Tastants*
 - Jessica Steindler, Post-Bac — Hardware construction, surgery, and data collection (2019–21)
-  - Project: *Dynamics of the BLA-GC interaction during taste processing*
+  - Project: *Dynamics of the BLA-GC Interaction During Taste Processing*
   - Co-author on 2 published articles and 1 manuscript (In Preparation)
 - Thomas Murdy, Undergraduate — Surgery, data collection, and analysis (2020–21)
   - Undergraduate Thesis: *Investigating the BLA-GC interaction in CTA acquisition* (High Honors)
