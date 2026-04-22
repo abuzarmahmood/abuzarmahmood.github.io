@@ -87,7 +87,7 @@ Vincent absolutely crushed his thesis defense and earned High Honors — what an
 ---
 
 **2024** — 🏅 **Polak Young Investigator Award**  
-Honored to receive the Polak Young Investigator Award from the Association for Chemoreception Sciences and to deliver the award lecture at the ACHEMS Annual Meeting!
+Honored to receive the Polak Young Investigator Award from the Association for Chemoreception Sciences and to deliver the award lecture at the ACHEMS Annual Meeting! And doubly honored to have been presented the award by none other that Dr. Alfredo Fontanini!
 
 <div style="display: flex; gap: 15px; margin: 25px 0; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
   <img src="/images/news/polak_award_2024/polak_award.jpg" alt="Polak Young Investigator Award 2024" style="height: 350px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
