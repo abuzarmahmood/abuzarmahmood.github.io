@@ -1,0 +1,79 @@
+/* Custom CSS for reveal.js presentation */
+
+/* Overall theme customization */
+.reveal {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* Slide backgrounds */
+.reveal .slides {
+    background-color: #f8f9fa;
+}
+
+/* Headings */
+.reveal h1 {
+    color: #2c3e50;
+    font-size: 2.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 0.5em;
+}
+
+.reveal h2 {
+    color: #34495e;
+    font-size: 1.8em;
+    margin-bottom: 0.5em;
+}
+
+/* Lists */
+.reveal ul, .reveal ol {
+    margin-left: 1em;
+}
+
+.reveal li {
+    margin-bottom: 0.5em;
+}
+
+/* Code blocks */
+.reveal pre {
+    background-color: #282c34;
+    border-radius: 8px;
+    padding: 1em;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.reveal code {
+    color: #e06c75;
+    font-family: 'Courier New', monospace;
+}
+
+.reveal pre code {
+    color: #abb2bf;
+}
+
+/* Links */
+.reveal a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+.reveal a:hover {
+    color: #2980b9;
+    text-decoration: underline;
+}
+
+/* Emphasis */
+.reveal strong {
+    color: #e74c3c;
+    font-weight: bold;
+}
+
+.reveal em {
+    color: #9b59b6;
+    font-style: italic;
+}
+
+/* Slide transitions */
+.reveal .slides section {
+    padding: 2em;
+}
