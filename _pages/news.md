@@ -16,7 +16,8 @@ Stay informed about my latest research developments, publications, presentations
 ### 2026 🎉
 
 **Publications**  
-🚀 **Exciting news!** Two major publications released in 2026!
+🚀 **Exciting news!** Three publications released in 2026!
+- Mukadam, N., Mahmood, A., Cronin-Golomb, A., DeGutis, J. (2026). Subjective Cognitive Concerns and Global Metacognitive Bias in Prodromal Parkinson’s and Parkinson’s Disease without Cognitive Impairment. Neuropsychology. Epub ahead of print. [[Link](https://doi.org/10.1037/neu0001083)]
 - Mahmood, Abuzar, et al. “Sensory and Palatability Coding of Taste Stimuli in Cortex Involves Dynamic and Asymmetric Cortico-Amygdalar Interactions.” Journal of Neurophysiology, Jan. 2026, p. jn.00503.2025. [[Link](https://doi.org/10.1152/jn.00503.2025)]
 - Mahmood, A. (2026). pytau: A Python package for streamlined changepoint model analysis in neuroscience. Journal of Open Source Software, 11(117), 8509. [[Link](https://doi.org/10.21105/joss.08509)]
 
@@ -103,7 +104,6 @@ Mahmood, A., Steindler, J., Germaine, H., Katz, D.B., "Coupled Dynamics of Stimu
 ## Publications in Review/Submission
 
 **In Review**  
-- Mukadam, N., Mahmood, A., et al., "Subjective Cognitive Concerns and Global Metacognitive Bias in Prodromal Parkinson's and Parkinson's Disease without Cognitive Impairment" (Neuropsychology)
 - Mahmood, A., "Pytau: A Python Package for Streamlined Changepoint Model Analysis in Neuroscience" (Journal of Open Source Software)
 
 **In Submission**  
