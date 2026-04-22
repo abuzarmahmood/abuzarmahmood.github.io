@@ -18,7 +18,7 @@ Exciting things are happening! Follow along for the latest on publications, awar
 ---
 
 **April 22, 2026** — 🎉 **New Publication!**  
-Another one! Mukadam, N., Mahmood, A., Cronin-Golomb, A., DeGutis, J. (2026). Subjective Cognitive Concerns and Global Metacognitive Bias in Prodromal Parkinson's and Parkinson's Disease without Cognitive Impairment. *Neuropsychology*. Epub ahead of print. [[Link](https://doi.org/10.1037/neu0001083)]
+Another one! Mukadam, N., Mahmood, A., Cronin-Golomb, A., DeGutis, J. (2026). Subjective Cognitive Concerns and Global Metacognitive Bias in Prodromal Parkinson's and Parkinson's Disease without Cognitive Impairment. *Neuropsychology*. Epub ahead of print. [[Link](https://doi.org/10.1037/neu0001083)] [[Press Release](https://www.eurekalert.org/news-releases/1125174)]
 
 ---
 

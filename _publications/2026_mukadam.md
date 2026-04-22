@@ -21,3 +21,5 @@ Authors: N. Mukadam, A. Mahmood, A. Cronin-Golomb, J. DeGutis
 doi: https://doi.org/10.1037/neu0001083
 
 [Download paper here](https://doi.org/10.1037/neu0001083)
+
+[Press Release — EurekAlert!](https://www.eurekalert.org/news-releases/1125174)

@@ -60,7 +60,7 @@ author_profile: true
 ### Neuroscience
 
 1. Baas-Thomas, N.\*, Mahmood, A.\*, Mukherjee, N., Maigler, K.C., Wang, Y., Katz, D.B. The Ingestive Response Reflects Gustatory Cortical Neural Dynamics. *(In press)*, eLife. <https://doi.org/10.1101/2025.10.01.679845> \*Co-first authors
-2. Mukadam, N., Mahmood, A., Cronin-Golomb, A., DeGutis, J. (2026). Subjective Cognitive Concerns and Global Metacognitive Bias in Prodromal Parkinson's and Parkinson's Disease without Cognitive Impairment. *Neuropsychology*. Epub ahead of print. <https://doi.org/10.1037/neu0001083> PMID: 41989436.
+2. Mukadam, N., Mahmood, A., Cronin-Golomb, A., DeGutis, J. (2026). Subjective Cognitive Concerns and Global Metacognitive Bias in Prodromal Parkinson's and Parkinson's Disease without Cognitive Impairment. *Neuropsychology*. Epub ahead of print. <https://doi.org/10.1037/neu0001083> PMID: 41989436. [[Press Release](https://www.eurekalert.org/news-releases/1125174)]
 3. Mahmood, A., Steindler, J., Katz, D.B. (2026). Sensory and Palatability Coding of Taste Stimuli in Cortex Involves Dynamic and Asymmetric Cortico-Amygdalar Interactions. *Journal of Neurophysiology*. <https://doi.org/10.1152/jn.00503.2025>
 4. Mahmood, A. (2025). pytau: A Python Package for Streamlined Changepoint Model Analysis in Neuroscience. *Journal of Open Source Software*, 11(117), 8509. <https://doi.org/10.21105/joss.08509>
 5. Mahmood, A., Steindler, J., Germaine, H., Katz, D.B. (2023). Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity. *Journal of Neuroscience*, 43(3), 386–404. <https://doi.org/10.1523/JNEUROSCI.1412-22.2022>
