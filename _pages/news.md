@@ -13,37 +13,48 @@ Stay informed about my latest research developments, publications, presentations
 
 ## Recent Highlights
 
-### 2026 🎉
+### 2026
 
-**Publications**  
-🚀 **Exciting news!** Three publications released in 2026!
-- Mukadam, N., Mahmood, A., Cronin-Golomb, A., DeGutis, J. (2026). Subjective Cognitive Concerns and Global Metacognitive Bias in Prodromal Parkinson’s and Parkinson’s Disease without Cognitive Impairment. Neuropsychology. Epub ahead of print. [[Link](https://doi.org/10.1037/neu0001083)]
-- Mahmood, Abuzar, et al. “Sensory and Palatability Coding of Taste Stimuli in Cortex Involves Dynamic and Asymmetric Cortico-Amygdalar Interactions.” Journal of Neurophysiology, Jan. 2026, p. jn.00503.2025. [[Link](https://doi.org/10.1152/jn.00503.2025)]
-- Mahmood, A. (2026). pytau: A Python package for streamlined changepoint model analysis in neuroscience. Journal of Open Source Software, 11(117), 8509. [[Link](https://doi.org/10.21105/joss.08509)]
+---
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white; margin: 20px 0; text-align: center;">
-  <strong style="font-size: 1.2em;">🌟 2026 is off to an amazing start!</strong><br>
-  Check out these groundbreaking publications in neuroscience and open source software!
-</div>
+**April 22, 2026** — **Publication**  
+Mukadam, N., Mahmood, A., Cronin-Golomb, A., DeGutis, J. (2026). Subjective Cognitive Concerns and Global Metacognitive Bias in Prodromal Parkinson's and Parkinson's Disease without Cognitive Impairment. *Neuropsychology*. Epub ahead of print. [[Link](https://doi.org/10.1037/neu0001083)]
 
-### 2025
+---
 
-**New Preprints**  
-Two new preprints posted on bioRxiv:
-- Mahmood A, Steindler JR, Katz DB (2025) "Sensory and palatability coding of taste stimuli in cortex involves dynamic and asymmetric cortico-amygdalar interactions" [[Link](https://doi.org/10.1101/2025.07.01.662567)]
-- Baas-Thomas N, Mahmood A, Mukherjee N, Maigler KC, Wang Y, Katz DB (2025) "The Ingestive Response Reflects Neural Dynamics in Gustatory Cortex" [[Link](https://doi.org/10.1101/2025.10.01.679845)]
+**February 11, 2026** — **Publications**  
+Two additional publications released in 2026:
+- Mahmood, Abuzar, et al. "Sensory and Palatability Coding of Taste Stimuli in Cortex Involves Dynamic and Asymmetric Cortico-Amygdalar Interactions." *Journal of Neurophysiology*, Jan. 2026, p. jn.00503.2025. [[Link](https://doi.org/10.1152/jn.00503.2025)]
+- Mahmood, A. (2026). pytau: A Python package for streamlined changepoint model analysis in neuroscience. *Journal of Open Source Software*, 11(117), 8509. [[Link](https://doi.org/10.21105/joss.08509)]
 
-**Collaboration Featured in AChemS Career Networking Seminar**  
-Thomas Gray (Brandeis University) presented work from our collaboration on retronasal odor processing in gustatory cortex at the AChemS Career Networking Seminar Series. The talk, titled "Neural and behavioral correlates of flavor perception," explored how retronasal odor is processed in the gustatory cortex, its influence on taste responses, and how flavor experiences shape odor preferences. (May 14, 2025)
+---
 
-**Vincent Defense**  
-Vincent successfully defended his thesis and received High Honors for his defense work. He will be going on to do a post-bac in Angela Langdon's lab at the NIMH. [[NIMH Lab Link](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/angela-langdon-phd)] (May 1, 2025) Congrats Vincent!!
+**January 18, 2026** — **Vincent Defense**  
+Vincent successfully defended his thesis and received High Honors for his defense work. He will be going on to do a post-bac in Angela Langdon's lab at the NIMH. [[NIMH Lab Link](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/angela-langdon-phd)] Congrats Vincent!!
 
 <div style="display: flex; gap: 15px; margin: 25px 0; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
   <img src="/images/news/vincent_defense_2025/vincent_defense.jpg" alt="Vincent Defense 2025" style="height: 350px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
-**Poster of Distinction**  
+---
+
+### 2025
+
+---
+
+**December 2, 2025** — **New Preprints**  
+Two new preprints posted on bioRxiv:
+- Mahmood A, Steindler JR, Katz DB (2025) "Sensory and palatability coding of taste stimuli in cortex involves dynamic and asymmetric cortico-amygdalar interactions" [[Link](https://doi.org/10.1101/2025.07.01.662567)]
+- Baas-Thomas N, Mahmood A, Mukherjee N, Maigler KC, Wang Y, Katz DB (2025) "The Ingestive Response Reflects Neural Dynamics in Gustatory Cortex" [[Link](https://doi.org/10.1101/2025.10.01.679845)]
+
+---
+
+**October 14, 2025** — **Collaboration Featured in AChemS Career Networking Seminar**  
+Thomas Gray (Brandeis University) presented work from our collaboration on retronasal odor processing in gustatory cortex at the AChemS Career Networking Seminar Series. The talk, titled "Neural and behavioral correlates of flavor perception," explored how retronasal odor is processed in the gustatory cortex, its influence on taste responses, and how flavor experiences shape odor preferences.
+
+---
+
+**October 9, 2025** — **Poster of Distinction**  
 Received Poster of Distinction award at MCRI Annual Retreat 2025
 
 <div style="display: flex; gap: 15px; margin: 25px 0; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
@@ -51,55 +62,85 @@ Received Poster of Distinction award at MCRI Annual Retreat 2025
   <img src="/images/news/mcri_retreat_2025/WhatsApp Image 2025-10-09 at 5.05.40 PM (1).jpeg" alt="MCRI Retreat 2025 - Award Recognition" style="height: 350px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
-**ACCESS-CI Compute Grant**  
+---
+
+**October 9, 2025** — **ACCESS-CI Compute Grant**  
 Awarded ACCESS-CI Compute Grant MED250058 (CoPI) from NSF for computational research
 
-**Invited Talks**  
+---
+
+**October 9, 2025** — **Invited Talks**  
 - Mathematical Biology Seminar, Brandeis University
 - Insights Team Meeting, Appcast Inc.
 - Systems Neuroscience Journal Club, Harvard Medical School
 
-**Guest Lecturer**  
-Advanced Data Analysis course, Brandeis University - LLMs and AI Agent pipelines
+---
+
+**October 9, 2025** — **Guest Lecturer**  
+Advanced Data Analysis course, Brandeis University — LLMs and AI Agent pipelines
+
+---
 
 ### 2024
 
-**Polak Young Investigator Award**  
+---
+
+**2024** — **Polak Young Investigator Award**  
 Received Polak Young Investigator Award from Association for Chemoreception Sciences, delivered award lecture at ACHEMS Annual Meeting
 
 <div style="display: flex; gap: 15px; margin: 25px 0; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
   <img src="/images/news/polak_award_2024/polak_award.jpg" alt="Polak Young Investigator Award 2024" style="height: 350px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
-**Invited Presentations**  
+---
+
+**2024** — **Invited Presentations**  
 - Swartz Foundation Annual Meeting
 - Brandeis Neuro Postdoc Symposium
 
-**Computational Neuroscience Fellowship**  
-Awarded Computational Neuroscience Fellowship from Swartz Foundation (2023-present)
+---
+
+**2024** — **Computational Neuroscience Fellowship**  
+Awarded Computational Neuroscience Fellowship from Swartz Foundation (2023–present)
+
+---
 
 ### 2023
 
-**Ph.D. Completion**  
+---
+
+**2023** — **Ph.D. Completion**  
 Completed Ph.D. in Neuroscience at Brandeis University  
 Thesis: "Multi-region Coordination for Taste Processing in the Rodent Brain" [[PDF](/files/Mahmood_Dissertation_Brandeis_2_10_23.pdf)]  
 Advisor: Donald B. Katz
 
-**Postdoctoral Positions**  
+---
+
+**2023** — **Postdoctoral Positions**  
 - Postdoctoral Research Fellow, Tufts Medical Center
 - Postdoctoral Fellow, Brandeis University
 
-**Invited Talk**  
-PyMCon Web Series - "The Only Constant is Change: Bespoke Changepoint Modelling in PyMC" [[Link](https://discourse.pymc.io/t/new-pymcon-talk-the-only-constant-is-change-bespoke-changepoint-modelling-in-pymc-by-abuzar-mahmood/13251)]
+---
 
-**ACCESS-CI Compute Grant**  
+**2023** — **Invited Talk**  
+PyMCon Web Series — "The Only Constant is Change: Bespoke Changepoint Modelling in PyMC" [[Link](https://discourse.pymc.io/t/new-pymcon-talk-the-only-constant-is-change-bespoke-changepoint-modelling-in-pymc-by-abuzar-mahmood/13251)]
+
+---
+
+**2023** — **ACCESS-CI Compute Grant**  
 Awarded ACCESS-CI Compute Grant BIO230103 as PI from NSF
 
-**Trainee Professional Development Award**  
+---
+
+**2023** — **Trainee Professional Development Award**  
 Society for Neuroscience
 
-**Publication**  
-Mahmood, A., Steindler, J., Germaine, H., Katz, D.B., "Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity," Journal of Neuroscience, vol. 43, no. 3, pp. 386–404 [[Link](https://www.jneurosci.org/content/43/3/386.long)]
+---
+
+**2023** — **Publication**  
+Mahmood, A., Steindler, J., Germaine, H., Katz, D.B., "Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity," *Journal of Neuroscience*, vol. 43, no. 3, pp. 386–404 [[Link](https://www.jneurosci.org/content/43/3/386.long)]
+
+---
 
 ## Publications in Review/Submission
 
