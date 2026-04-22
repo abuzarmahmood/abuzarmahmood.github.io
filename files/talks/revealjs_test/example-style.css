@@ -75,5 +75,27 @@
 
 /* Slide transitions */
 .reveal .slides section {
-    padding: 2em;
+    padding: 1em;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+/* Ensure text doesn't overflow */
+.reveal .slides section h1,
+.reveal .slides section h2,
+.reveal .slides section h3,
+.reveal .slides section p,
+.reveal .slides section li {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    max-width: 100%;
+}
+
+/* Adjust heading sizes for smaller screens */
+.reveal h1 {
+    font-size: 2em;
+}
+
+.reveal h2 {
+    font-size: 1.5em;
 }
