@@ -54,23 +54,23 @@
 
 /* Links */
 .reveal a {
-    color: #ffffff;
+    color: #0066cc;
     text-decoration: none;
 }
 
 .reveal a:hover {
-    color: #ffffff;
+    color: #0066cc;
     text-decoration: underline;
 }
 
 /* Emphasis */
 .reveal strong {
-    color: #ffffff;
+    color: #000000;
     font-weight: bold;
 }
 
 .reveal em {
-    color: #ffffff;
+    color: #000000;
     font-style: italic;
 }
 
@@ -79,6 +79,8 @@
     padding: 1em;
     word-wrap: break-word;
     overflow-wrap: break-word;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 /* Ensure text doesn't overflow */
@@ -89,7 +91,9 @@
 .reveal .slides section li {
     word-wrap: break-word;
     overflow-wrap: break-word;
-    max-width: 100%;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Adjust heading sizes for smaller screens */
