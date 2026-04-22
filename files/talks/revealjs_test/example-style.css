@@ -12,7 +12,7 @@
 
 /* Headings */
 .reveal h1 {
-    color: #2c3e50;
+    color: #000000;
     font-size: 2.5em;
     font-weight: bold;
     text-transform: uppercase;
@@ -20,7 +20,7 @@
 }
 
 .reveal h2 {
-    color: #34495e;
+    color: #000000;
     font-size: 1.8em;
     margin-bottom: 0.5em;
 }
@@ -43,33 +43,33 @@
 }
 
 .reveal code {
-    color: #e06c75;
+    color: #000000;
     font-family: 'Courier New', monospace;
 }
 
 .reveal pre code {
-    color: #abb2bf;
+    color: #000000;
 }
 
 /* Links */
 .reveal a {
-    color: #3498db;
+    color: #000000;
     text-decoration: none;
 }
 
 .reveal a:hover {
-    color: #2980b9;
+    color: #000000;
     text-decoration: underline;
 }
 
 /* Emphasis */
 .reveal strong {
-    color: #e74c3c;
+    color: #000000;
     font-weight: bold;
 }
 
 .reveal em {
-    color: #9b59b6;
+    color: #000000;
     font-style: italic;
 }
 
