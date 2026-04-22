@@ -3,6 +3,7 @@
 /* Overall theme customization */
 .reveal {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #ffffff;
 }
 
 /* Slide backgrounds */
@@ -43,33 +44,33 @@
 }
 
 .reveal code {
-    color: #000000;
+    color: #ffffff;
     font-family: 'Courier New', monospace;
 }
 
 .reveal pre code {
-    color: #000000;
+    color: #ffffff;
 }
 
 /* Links */
 .reveal a {
-    color: #000000;
+    color: #ffffff;
     text-decoration: none;
 }
 
 .reveal a:hover {
-    color: #000000;
+    color: #ffffff;
     text-decoration: underline;
 }
 
 /* Emphasis */
 .reveal strong {
-    color: #000000;
+    color: #ffffff;
     font-weight: bold;
 }
 
 .reveal em {
-    color: #000000;
+    color: #ffffff;
     font-style: italic;
 }
 
