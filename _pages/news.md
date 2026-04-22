@@ -141,23 +141,3 @@ Received the Trainee Professional Development Award from the Society for Neurosc
 
 **2023** — 📄 **Publication**  
 Mahmood, A., Steindler, J., Germaine, H., Katz, D.B., "Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity," *Journal of Neuroscience*, vol. 43, no. 3, pp. 386–404 [[Link](https://www.jneurosci.org/content/43/3/386.long)]
-
----
-
-## Publications in Review/Submission
-
-**In Review**  
-- Mahmood, A., "Pytau: A Python Package for Streamlined Changepoint Model Analysis in Neuroscience" (Journal of Open Source Software)
-
-**In Submission**  
-- Baas-Thomas, N., Mahmood, A., et al., "The Ingestive Response Reflects Gustatory Cortical Neural Dynamics" (Co-first author)  
-  bioRxiv: https://doi.org/10.1101/2025.10.01.679845
-
-**In Revision**  
-- Mahmood, A., Steindler, J., Katz, D.B., "Sensory and palatability coding of taste stimuli in cortex involves dynamic and asymmetric cortico-amygdalar interactions"  
-  bioRxiv: https://doi.org/10.1101/2025.07.01.662567
-
-**In Preparation**  
-- Calia-Bogan, V., Steindler, J., Katz, D.B., Mahmood, A., "Characterizing Intra-State Dynamics of Gustatory Cortical Taste-Evoked Activity"
-- Mahmood, A., Duong, K.A., Mansour, A., Pulakat, L., "CNN-assisted semi-automated histological evaluation of interstitial and perivascular fibrosis"
-- Mahmood, A., Mehm, A., et al., "Feeding Satiation-Resistant Rat Strain as a Model for Obesity, Diabetes, and Heart Failure" (Co-first author)
