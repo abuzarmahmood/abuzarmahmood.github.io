@@ -17,17 +17,17 @@ Exciting things are happening! Follow along for the latest on publications, awar
 
 ---
 
-**April 22, 2026** — 🎉 **New Publication!**  
-Another one! Mukadam, N., Mahmood, A., Cronin-Golomb, A., DeGutis, J. (2026). Subjective Cognitive Concerns and Global Metacognitive Bias in Prodromal Parkinson's and Parkinson's Disease without Cognitive Impairment. *Neuropsychology*. Epub ahead of print. [[Link](https://doi.org/10.1037/neu0001083)] [[Press Release](https://www.eurekalert.org/news-releases/1125174)]
-
----
-
 **April 29, 2026** — 📄 **New eLife Publication!**  
 Baas-Thomas, N., Mahmood, A., Wang, Y., Maigler, K.C., Mukherjee, N., & Katz, D.B. (2026). The ingestive response reflects neural dynamics in gustatory cortex. *eLife*. [[Link](https://elifesciences.org/reviewed-preprints/110977)]
 
 <div style="display: flex; gap: 15px; margin: 25px 0; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
   <img src="/images/news/elife_paper_2026/elife_paper.png" alt="eLife Publication - Baas-Thomas et al." style="height: 350px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
+
+---
+
+**April 22, 2026** — 🎉 **New Publication!**  
+Another one! Mukadam, N., Mahmood, A., Cronin-Golomb, A., DeGutis, J. (2026). Subjective Cognitive Concerns and Global Metacognitive Bias in Prodromal Parkinson's and Parkinson's Disease without Cognitive Impairment. *Neuropsychology*. Epub ahead of print. [[Link](https://doi.org/10.1037/neu0001083)] [[Press Release](https://www.eurekalert.org/news-releases/1125174)]
 
 ---
 
