@@ -22,6 +22,11 @@ Another one! Mukadam, N., Mahmood, A., Cronin-Golomb, A., DeGutis, J. (2026). Su
 
 ---
 
+**April 29, 2026** — 📄 **New eLife Publication!**  
+Baas-Thomas, N., Mahmood, A., Wang, Y., Maigler, K.C., Mukherjee, N., & Katz, D.B. (2026). The ingestive response reflects neural dynamics in gustatory cortex. *eLife*. [[Link](https://elifesciences.org/reviewed-preprints/110977)]
+
+---
+
 **February 11, 2026** — 🚀 **Two More Publications!**  
 2026 is off to a blazing start — two more papers out:
 - Mahmood, Abuzar, et al. "Sensory and Palatability Coding of Taste Stimuli in Cortex Involves Dynamic and Asymmetric Cortico-Amygdalar Interactions." *Journal of Neurophysiology*, Jan. 2026, p. jn.00503.2025. [[Link](https://doi.org/10.1152/jn.00503.2025)]
