@@ -272,6 +272,8 @@ Paul E. Basye Scholarship, Department of Physics, University of Missouri <span s
 
 ## Teaching
 
+**Help Sessions Tutor**, University of Missouri, Department of Physics <span style="float:right;">2015–2016</span>
+
 **Workshop Instructor**, Introduction to Git and GitHub, Brandeis University <span style="float:right;">2024, 2025</span>
 
 **Workshop Instructor**, Probabilistic Programming and Bayesian Modeling, Brandeis University <span style="float:right;">2021, 2025</span>
