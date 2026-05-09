@@ -291,6 +291,8 @@ Paul E. Basye Scholarship, Department of Physics, University of Missouri <span s
 
 **Teaching Assistant**, Data Analysis and Statistics Workshop (with Prof. Paul Miller), Brandeis University <span style="float:right;">2018</span>
 
+**Help Sessions Tutor**, University of Missouri, Department of Physics <span style="float:right;">2015–2016</span>
+
 ---
 
 ## Mentorship
