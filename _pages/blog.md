@@ -13,15 +13,9 @@ Welcome to my digital laboratory notebook where science meets storytelling. Join
 
 ## Featured Insights
 
-### The Taste Circuit: A Neural Symphony
+### The Cognitive Lens: How the Brain Processes Information
 
-How does your brain know the difference between sweet and sour? Dive into my latest research on how multiple brain regions coordinate to create your taste experience.
-
-**[Coming Soon](#)**
-
-### Data Science in Neuroscience
-
-From spike sorting to neural decoding: How modern data analysis techniques are revolutionizing our understanding of brain function.
+Explore how our brains filter, interpret, and make sense of the overwhelming influx of sensory information we encounter every moment.
 
 **[Coming Soon](#)**
 
@@ -78,6 +72,8 @@ Textbooks often assume too much about how intuitive each step in a derivation is
 
 Stay tuned for these topics:
 
+- **The Taste Circuit: A Neural Symphony**: How does your brain know the difference between sweet and sour? Dive into my latest research on how multiple brain regions coordinate to create your taste experience.
+- **Data Science in Neuroscience**: From spike sorting to neural decoding: How modern data analysis techniques are revolutionizing our understanding of brain function.
 - **Neural Dynamics Visualized**: Interactive visualizations of taste-responsive neural populations
 - **Machine Learning in Neuroscience**: A practical guide to implementing deep learning models for neural data analysis
 - **The Attractor Network Hypothesis**: Evidence for and against attractor dynamics in sensory processing
