@@ -52,15 +52,27 @@ I'm currently investigating how feedback projections from the gustatory cortex i
 **Research Question:**  
 How do cortical feedback projections modulate the temporal dynamics of taste processing in the amygdala and thalamus?
 
+## Tutorial Series: Probabilistic Modelling
+
+An open-access series of lecture slides and Jupyter notebooks for learning probabilistic modelling techniques. Designed for graduate students and researchers in quantitative fields.
+
+**Topics covered:**
+
+- **Probabilistic Programming in PyMC3** — Fitting distributions, Bayesian linear regression, and changepoint modelling (Poisson, Bernoulli, Gaussian), including an advanced multi-changepoint model with mixture emissions for repeated timeseries
+- **Gaussian Mixture Models and Hidden Markov Models** — Unsupervised clustering exercises and HMM fundamentals
+- **Bayesian Changepoint Modelling** — Extended treatment from a PyMCon talk
+
+[View Tutorial Series on GitHub](https://github.com/abuzarmahmood/teachables) · [PyMCon Changepoint Talk](https://github.com/abuzarmahmood/pymcon_bayesian_changepoint)
+
+---
+
 ## Upcoming Content
 
-Stay tuned for these exciting topics:
+Stay tuned for these topics:
 
 - **Neural Dynamics Visualized**: Interactive visualizations of taste-responsive neural populations
 - **Machine Learning in Neuroscience**: A practical guide to implementing deep learning models for neural data analysis
 - **The Attractor Network Hypothesis**: Evidence for and against attractor dynamics in sensory processing
-- **Tutorial Series**: Step-by-step guides to Bayesian and time-series modelling techniques
-  - [View Tutorial Series on GitHub](https://github.com/abuzarmahmood/teachables)
 
 ## Join the Conversation
 
