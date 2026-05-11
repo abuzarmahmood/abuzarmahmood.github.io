@@ -64,6 +64,14 @@ An open-access series of lecture slides and Jupyter notebooks for learning proba
 
 [View Tutorial Series on GitHub](https://github.com/abuzarmahmood/teachables) · [PyMCon Changepoint Talk](https://github.com/abuzarmahmood/pymcon_bayesian_changepoint)
 
+### Handwritten Analytical Derivations
+
+Textbooks often assume too much about how intuitive each step in a derivation is for the reader. These handwritten derivations provide an exhaustive, step-by-step breakdown that is (hopefully) easy to follow, with no steps omitted.
+
+- [Gaussian MLE (1D)](/files/derivations/Gaussian_MLE-1D.pdf) — Maximum likelihood estimates for the mean and variance of a 1D Gaussian, with every calculus step shown.
+- [Linear Regression MLE](/files/derivations/linear_regression_mle.pdf) — Ordinary least squares via MLE, including the matrix calculus leading to the normal equations.
+- [GMM Expectation-Maximization](/files/derivations/GMM-EM.pdf) — Full EM algorithm for Gaussian Mixture Models: E-step responsibilities and M-step parameter updates with all intermediate algebra.
+
 ---
 
 ## Upcoming Content
