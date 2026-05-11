@@ -11,20 +11,6 @@ author_profile: true
 
 Welcome to my digital laboratory notebook where science meets storytelling. Join me as I explore the fascinating intersections of neuroscience, data analysis, and technology. Whether you're a fellow researcher, a curious student, or simply intrigued by how our brains process the world around us, you'll find something to spark your interest here.
 
-## Featured Insights
-
-### The Taste Circuit: A Neural Symphony
-
-How does your brain know the difference between sweet and sour? Dive into my latest research on how multiple brain regions coordinate to create your taste experience.
-
-**[Coming Soon](#)**
-
-### Data Science in Neuroscience
-
-From spike sorting to neural decoding: How modern data analysis techniques are revolutionizing our understanding of brain function.
-
-**[Coming Soon](#)**
-
 ## My Writing Spaces
 
 ### Personal Reflections
@@ -78,6 +64,7 @@ Textbooks often assume too much about how intuitive each step in a derivation is
 
 Stay tuned for these topics:
 
+- **The Taste Circuit: A Neural Symphony**: How does your brain know the difference between sweet and sour? Dive into my latest research on how multiple brain regions coordinate to create your taste experience.
 - **Neural Dynamics Visualized**: Interactive visualizations of taste-responsive neural populations
 - **Machine Learning in Neuroscience**: A practical guide to implementing deep learning models for neural data analysis
 - **The Attractor Network Hypothesis**: Evidence for and against attractor dynamics in sensory processing
