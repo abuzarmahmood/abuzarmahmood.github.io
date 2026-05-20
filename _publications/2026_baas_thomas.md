@@ -5,9 +5,9 @@ permalink: /publication/2026_baas_thomas
 excerpt: '![](../images/2026_baas_thomas_thumb.jpg){: width="250" } <br />
 Neural and behavioral correlates of ingestive responses in gustatory cortex'
 date: 2026-01-01
-venue: 'eLife'
-paperurl: 'https://elifesciences.org/reviewed-preprints/110977'
-citation: 'Baas-Thomas N, Mahmood A, Mukherjee N, Maigler KC, Wang Y, Katz DB (2026) The Ingestive Response Reflects Neural Dynamics in Gustatory Cortex. eLife.'
+venue: 'eLife 15:RP110977'
+paperurl: 'https://doi.org/10.7554/eLife.110977.1'
+citation: 'Baas-Thomas N, Mahmood A, Mukherjee N, Maigler KC, Wang Y, Katz DB (2026) The Ingestive Response Reflects Neural Dynamics in Gustatory Cortex. eLife 15:RP110977.'
 ---
 
 ![](../images/2026_baas_thomas_thumb.jpg) <br />
@@ -16,4 +16,4 @@ citation: 'Baas-Thomas N, Mahmood A, Mukherjee N, Maigler KC, Wang Y, Katz DB (2
 
 Authors: Natasha Baas-Thomas, Abuzar Mahmood, Narendra Mukherjee, Kathleen C. Maigler, Yixi Wang, Donald B. Katz
 
-[Download paper here](https://elifesciences.org/reviewed-preprints/110977)
+[Download paper here](https://doi.org/10.7554/eLife.110977.1)
