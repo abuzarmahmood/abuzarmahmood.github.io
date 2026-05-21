@@ -11,20 +11,6 @@ author_profile: true
 
 Welcome to my digital laboratory notebook where science meets storytelling. Join me as I explore the fascinating intersections of neuroscience, data analysis, and technology. Whether you're a fellow researcher, a curious student, or simply intrigued by how our brains process the world around us, you'll find something to spark your interest here.
 
-## Featured Insights
-
-### The Taste Circuit: A Neural Symphony
-
-How does your brain know the difference between sweet and sour? Dive into my latest research on how multiple brain regions coordinate to create your taste experience.
-
-**[Coming Soon](#)**
-
-### Data Science in Neuroscience
-
-From spike sorting to neural decoding: How modern data analysis techniques are revolutionizing our understanding of brain function.
-
-**[Coming Soon](#)**
-
 ## My Writing Spaces
 
 ### Personal Reflections
@@ -52,14 +38,36 @@ I'm currently investigating how feedback projections from the gustatory cortex i
 **Research Question:**  
 How do cortical feedback projections modulate the temporal dynamics of taste processing in the amygdala and thalamus?
 
+## Tutorial Series: Probabilistic Modelling
+
+An open-access series of lecture slides and Jupyter notebooks for learning probabilistic modelling techniques. Designed for graduate students and researchers in quantitative fields.
+
+**Topics covered:**
+
+- **Probabilistic Programming in PyMC3** — Fitting distributions, Bayesian linear regression, and changepoint modelling (Poisson, Bernoulli, Gaussian), including an advanced multi-changepoint model with mixture emissions for repeated timeseries
+- **Gaussian Mixture Models and Hidden Markov Models** — Unsupervised clustering exercises and HMM fundamentals
+- **Bayesian Changepoint Modelling** — Extended treatment from a PyMCon talk
+
+[View Tutorial Series on GitHub](https://github.com/abuzarmahmood/teachables) · [PyMCon Changepoint Talk](https://github.com/abuzarmahmood/pymcon_bayesian_changepoint)
+
+### Handwritten Analytical Derivations
+
+Textbooks often assume too much about how intuitive each step in a derivation is for the reader. These handwritten derivations provide an exhaustive, step-by-step breakdown that is (hopefully) easy to follow, with no steps omitted.
+
+- [Gaussian MLE (1D)](/files/derivations/Gaussian_MLE-1D.pdf) — Maximum likelihood estimates for the mean and variance of a 1D Gaussian, with every calculus step shown.
+- [Linear Regression MLE](/files/derivations/linear_regression_mle.pdf) — Ordinary least squares via MLE, including the matrix calculus leading to the normal equations.
+- [GMM Expectation-Maximization](/files/derivations/GMM-EM.pdf) — Full EM algorithm for Gaussian Mixture Models: E-step responsibilities and M-step parameter updates with all intermediate algebra.
+
+---
+
 ## Upcoming Content
 
-Stay tuned for these exciting topics:
+Stay tuned for these topics:
 
+- **The Taste Circuit: A Neural Symphony**: How does your brain know the difference between sweet and sour? Dive into my latest research on how multiple brain regions coordinate to create your taste experience.
 - **Neural Dynamics Visualized**: Interactive visualizations of taste-responsive neural populations
 - **Machine Learning in Neuroscience**: A practical guide to implementing deep learning models for neural data analysis
 - **The Attractor Network Hypothesis**: Evidence for and against attractor dynamics in sensory processing
-- **Tutorial Series**: Step-by-step guides to advanced spike sorting techniques
 
 ## Join the Conversation
 
