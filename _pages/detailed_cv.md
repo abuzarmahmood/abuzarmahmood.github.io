@@ -348,6 +348,17 @@ Paul E. Basye Scholarship, Department of Physics, University of Missouri <span s
 
 ---
 
+## Professional Memberships
+
+- Member, Association for Chemoreception Sciences, <span style="float:right;">2020–2025</span>
+- Member, Society for Neuroscience, <span style="float:right;">2022–2025</span>
+- Student member, Sigma Pi Sigma, University of Missouri, Columbia, MO <span style="float:right;">2015–2017</span>
+- Student member, American Society for Biochemistry and Molecular Biology, <span style="float:right;">2014–2015</span>
+- Student member, Society for Physics Students, University of Missouri, Columbia, MO <span style="float:right;">2013–2017</span>
+- Student member, American Physical Society, <span style="float:right;">2014–2016</span>
+
+---
+
 ## Open-Source Contributions
 
 Full list at [github.com/abuzarmahmood](https://github.com/abuzarmahmood)
