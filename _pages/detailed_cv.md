@@ -350,23 +350,12 @@ Paul E. Basye Scholarship, Department of Physics, University of Missouri <span s
 
 ## Professional Memberships
 
-**Association for Chemoreception Sciences**, Glenview, IL <span style="float:right;">2020–2025</span>
-- Member. Have presented a poster at 2 annual meetings (2023, 2024) and given a talk at 1 meeting (2024)
-
-**Society for Neuroscience**, Washington, DC <span style="float:right;">2022–2025</span>
-- Member. Have presented a poster at 2 annual meetings (2023, 2024)
-
-**Sigma Pi Sigma, University of Missouri**, Columbia, MO <span style="float:right;">2015–2017</span>
-- Student member
-
-**American Society for Biochemistry and Molecular Biology**, Rockville, MD <span style="float:right;">2014–2015</span>
-- Student member. Attended the 2017 ASBMB Annual Meeting
-
-**Society for Physics Students, University of Missouri**, Columbia, MO <span style="float:right;">2013–2017</span>
-- Student member. Served as Treasury, Secretary, and President
-
-**American Physical Society**, College Park, MD <span style="float:right;">2014–2016</span>
-- Student member
+- Member, Association for Chemoreception Sciences, <span style="float:right;">2020–2025</span>
+- Member, Society for Neuroscience, <span style="float:right;">2022–2025</span>
+- Student member, Sigma Pi Sigma, University of Missouri, Columbia, MO <span style="float:right;">2015–2017</span>
+- Student member, American Society for Biochemistry and Molecular Biology**, Rockville, MD <span style="float:right;">2014–2015</span>
+- Student member, Society for Physics Students, University of Missouri**, Columbia, MO <span style="float:right;">2013–2017</span>
+- Student member, American Physical Society**, College Park, MD <span style="float:right;">2014–2016</span>
 
 ---
 
