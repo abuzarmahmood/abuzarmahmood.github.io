@@ -58,14 +58,14 @@ author_profile: true
 ## Publications
 
 ### Neuroscience
-
-1. Baas-Thomas, N.\*, Mahmood, A.\*, Mukherjee, N., Maigler, K.C., Wang, Y., Katz, D.B. (2026). The Ingestive Response Reflects Neural Dynamics in Gustatory Cortex. *eLife* 15:RP110977. <https://doi.org/10.7554/eLife.110977.1> \*Co-first authors
-2. Mukadam, N., Mahmood, A., Cronin-Golomb, A., DeGutis, J. (2026). Subjective Cognitive Concerns and Global Metacognitive Bias in Prodromal Parkinson's and Parkinson's Disease without Cognitive Impairment. *Neuropsychology*. Epub ahead of print. <https://doi.org/10.1037/neu0001083> PMID: 41989436. [[Press Release](https://www.eurekalert.org/news-releases/1125174)]
-3. Mahmood, A., Steindler, J., Katz, D.B. (2026). Sensory and Palatability Coding of Taste Stimuli in Cortex Involves Dynamic and Asymmetric Cortico-Amygdalar Interactions. *Journal of Neurophysiology*. <https://doi.org/10.1152/jn.00503.2025>
-4. Mahmood, A. (2025). pytau: A Python Package for Streamlined Changepoint Model Analysis in Neuroscience. *Journal of Open Source Software*, 11(117), 8509. <https://doi.org/10.21105/joss.08509>
-5. Mahmood, A., Steindler, J., Germaine, H., Katz, D.B. (2023). Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity. *Journal of Neuroscience*, 43(3), 386–404. <https://doi.org/10.1523/JNEUROSCI.1412-22.2022>
-6. Stone, B.T., Lin, J.-Y., Mahmood, A., Sanford, A.J., and Katz, D.B. (2022). LiCl-Induced Sickness Modulates Rat Gustatory Cortical Responses. *PLOS Biology* 20, e3001537. <https://doi.org/10.1371/journal.pbio.3001537>
-7. Lin, J.-Y., Stone, B.T., Herzog, L.E., Nanu, R., Mahmood, A., and Katz, D.B. (2021). The Function of Groups of Neurons Changes from Moment to Moment. *Current Opinion in Physiology* 20, 1–7. <https://doi.org/10.1016/j.cophys.2020.12.002>
+1. Mazzio, C.T., Flashman, S., Mahmood, A., Baas-Thomas, N., Lin, J.Y., Komar, K. (2026). Stimulus-Specific and Generalized Taste Aversion Behaviors and Their Relationship to Cortical Dynamics. *bioRxiv* 2026.06.02.729621. <https://doi.org/10.64898/2026.06.02.729621>
+2. Baas-Thomas, N.\*, Mahmood, A.\*, Mukherjee, N., Maigler, K.C., Wang, Y., Katz, D.B. (2026). The Ingestive Response Reflects Neural Dynamics in Gustatory Cortex. *eLife* 15:RP110977. <https://doi.org/10.7554/eLife.110977.1> \*Co-first authors
+3. Mukadam, N., Mahmood, A., Cronin-Golomb, A., DeGutis, J. (2026). Subjective Cognitive Concerns and Global Metacognitive Bias in Prodromal Parkinson's and Parkinson's Disease without Cognitive Impairment. *Neuropsychology*. Epub ahead of print. <https://doi.org/10.1037/neu0001083> PMID: 41989436. [[Press Release](https://www.eurekalert.org/news-releases/1125174)]
+4. Mahmood, A., Steindler, J., Katz, D.B. (2026). Sensory and Palatability Coding of Taste Stimuli in Cortex Involves Dynamic and Asymmetric Cortico-Amygdalar Interactions. *Journal of Neurophysiology*. <https://doi.org/10.1152/jn.00503.2025>
+5. Mahmood, A. (2025). pytau: A Python Package for Streamlined Changepoint Model Analysis in Neuroscience. *Journal of Open Source Software*, 11(117), 8509. <https://doi.org/10.21105/joss.08509>
+6. Mahmood, A., Steindler, J., Germaine, H., Katz, D.B. (2023). Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity. *Journal of Neuroscience*, 43(3), 386–404. <https://doi.org/10.1523/JNEUROSCI.1412-22.2022>
+7. Stone, B.T., Lin, J.-Y., Mahmood, A., Sanford, A.J., and Katz, D.B. (2022). LiCl-Induced Sickness Modulates Rat Gustatory Cortical Responses. *PLOS Biology* 20, e3001537. <https://doi.org/10.1371/journal.pbio.3001537>
+8. Lin, J.-Y., Stone, B.T., Herzog, L.E., Nanu, R., Mahmood, A., and Katz, D.B. (2021). The Function of Groups of Neurons Changes from Moment to Moment. *Current Opinion in Physiology* 20, 1–7. <https://doi.org/10.1016/j.cophys.2020.12.002>
 
 ### Cardiovascular Disease and Diabetes
 
@@ -83,9 +83,8 @@ author_profile: true
 
 ### Neuroscience
 
-1. Mazzio, C., Flashman, S., Mahmood, A., Baas-Thomas, N., Lin, J.Y., Katz, D.B. Cortical Dynamics Underlying Learned and Non-Learned Aversive Behavior.
-2. Rohrer, D.M., Nobili, C.C.C.M, Jiang, W., Mahmood, A., Knight, R.A., Gutsell, J., Katz, D.B. Am I Disgust? Exploring Disgust Responses Across Stimuli.
-3. Mahmood, A.\*, Calia-Bogan, V.\*, Steindler, J., Katz, D.B., Miller, P. Characterizing Intra-State Dynamics of Gustatory Cortical Taste-Evoked Activity. \*Equal contributors
+1. Rohrer, D.M., Nobili, C.C.C.M, Jiang, W., Mahmood, A., Knight, R.A., Gutsell, J., Katz, D.B. Am I Disgust? Exploring Disgust Responses Across Stimuli.
+2. Mahmood, A.\*, Calia-Bogan, V.\*, Steindler, J., Katz, D.B., Miller, P. Characterizing Intra-State Dynamics of Gustatory Cortical Taste-Evoked Activity. \*Equal contributors
 
 ### Cardiovascular Disease and Diabetes
 
