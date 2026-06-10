@@ -17,6 +17,15 @@ Exciting things are happening! Follow along for the latest on publications, awar
 
 ---
 
+**June 10, 2026** — 🧠 **Moving to the Hamilos Lab**  
+Excited to share that I will be joining the [Hamilos Lab](https://hamilos.wi.mit.edu/) at the Whitehead Institute and MIT as a Postdoctoral Associate starting in July 2026.
+
+<div style="display: flex; gap: 15px; margin: 25px 0; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
+  <img src="/images/news/hamilos_lab_2026/hamilos_lab.png" alt="Hamilos Lab" style="height: 200px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
+
+---
+
 **April 29, 2026** — 📄 **New eLife Publication!**  
 Baas-Thomas, N., Mahmood, A., Wang, Y., Maigler, K.C., Mukherjee, N., & Katz, D.B. (2026). The ingestive response reflects neural dynamics in gustatory cortex. *eLife*. [[Link](https://elifesciences.org/reviewed-preprints/110977)]
 
