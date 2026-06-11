@@ -20,4 +20,7 @@ Authors: A. Mahmood, J.R. Steindler, D.B. Katz
 
 doi: https://doi.org/10.1152/jn.00503.2025
 
+<b>ABSTRACT:</b>
+This article challenges the view of taste circuitry as a purely feedforward pathway. It shows that amygdala and cortex influence each other bidirectionally, with direction-specific and asymmetric interactions that support different phases of taste responses, decision-making, behavioral output, and cortical taste encoding.
+
 [Download paper here](https://doi.org/10.1152/jn.00503.2025)
