@@ -29,7 +29,7 @@ author_profile: true
 
 ## Employment History
 
-**Postdoctoral Associate**, Hamilos Lab, Whitehead Institute, MIT, Cambridge, MA <span style="float:right;">July 2026 – Present</span>
+**Postdoctoral Associate**, Whitehead Institute, MIT, Cambridge, MA <span style="float:right;">July 2026 – Present</span>
 
 **Postdoctoral Research Fellow**, Tufts Medical Center, MA <span style="float:right;">July 2023 – Present</span>
 - Project: Bioinformatics analysis of the effect of AT2R activation on cardiomyopathy in obesity and diabetes
