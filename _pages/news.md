@@ -17,6 +17,15 @@ Exciting things are happening! Follow along for the latest on publications, awar
 
 ---
 
+**June 5, 2026** — 📄 **New bioRxiv Preprint!**  
+Mazzio, C.T., Flashman, S., Mahmood, A., Baas-Thomas, N., Lin, J.Y., & Komar, K. (2026). Stimulus-Specific and Generalized Taste Aversion Behaviors and Their Relationship to Cortical Dynamics. *bioRxiv* 2026.06.02.729621. [[Link](https://doi.org/10.64898/2026.06.02.729621)]
+
+<div style="display: flex; gap: 15px; margin: 25px 0; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
+  <img src="/images/2026_mazzio_taste_aversion_thumb.png" alt="bioRxiv preprint - Mazzio et al." style="height: 350px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
+
+---
+
 **April 29, 2026** — 📄 **New eLife Publication!**  
 Baas-Thomas, N., Mahmood, A., Wang, Y., Maigler, K.C., Mukherjee, N., & Katz, D.B. (2026). The ingestive response reflects neural dynamics in gustatory cortex. *eLife*. [[Link](https://elifesciences.org/reviewed-preprints/110977)]
 
