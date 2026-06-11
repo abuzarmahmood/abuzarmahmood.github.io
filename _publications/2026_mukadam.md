@@ -20,6 +20,9 @@ Authors: N. Mukadam, A. Mahmood, A. Cronin-Golomb, J. DeGutis
 
 doi: https://doi.org/10.1037/neu0001083
 
+<b>ABSTRACT:</b>
+This study evaluates metacognitive awareness in people with Parkinson's disease and prodromal Parkinson's disease using Parkinson's Progressive Markers Initiative data. It distinguishes metacognitive sensitivity from global metacognitive bias and finds that more negative bias is associated with age, education, depression, and trait anxiety, suggesting that subjective cognitive concerns may partly reflect broad underconfidence rather than task-specific awareness.
+
 [Download paper here](https://doi.org/10.1037/neu0001083)
 
 [Press Release — EurekAlert!](https://www.eurekalert.org/news-releases/1125174)

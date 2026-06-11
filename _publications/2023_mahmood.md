@@ -17,4 +17,4 @@ Gustatory cortical (GC) single-neuron taste responses reflect taste quality and 
 
 <b>SIGNIFICANCE STATEMENT:</b> There has been little investigation into real-time communication between brain regions during taste processing, a fact reflecting the dominant belief that taste circuitry is largely feedforward. Here, we perform an in-depth analysis of real-time interactions between GC and BLA in response to passive taste deliveries, using both conventional coherence metrics and a novel methodology that explicitly considers trial-to-trial variability and fast single-trial dynamics in evoked responses. Our results demonstrate that BLA–GC coherence changes as the taste response unfolds, and that BLA and GC specifically couple for the sudden transition into (and out of) the behaviorally relevant neural response epoch, suggesting (although not proving) that: (1) recurrent interactions subserve the function of the dyad as (2) a putative attractor network.
 
-[Download paper here](https://www.jneurosci.org/content/43/3/386)
+[View article](https://www.jneurosci.org/content/43/3/386) | [Download PDF](https://www.jneurosci.org/content/jneuro/43/3/386.full.pdf)

@@ -18,4 +18,7 @@ Authors: A. Mahmood
 
 doi: https://doi.org/10.21105/joss.08509
 
-[Download paper here](https://doi.org/10.21105/joss.08509)
+<b>ABSTRACT:</b>
+pytau is a Python package for streamlined changepoint model analysis in neuroscience. It provides tools for organizing model workflows around neural time-series data, supporting reproducible changepoint analyses for researchers working with dynamic neural responses.
+
+[View article](https://doi.org/10.21105/joss.08509) | [Download PDF](https://joss.theoj.org/papers/10.21105/joss.08509.pdf)
