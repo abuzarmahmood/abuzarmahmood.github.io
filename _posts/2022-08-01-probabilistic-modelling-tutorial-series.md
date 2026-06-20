@@ -46,6 +46,7 @@ A recurring frustration with textbooks is that they assume too much about how in
 - [**Gaussian MLE (1D)**](/files/derivations/Gaussian_MLE-1D.pdf) — Full derivation of the maximum likelihood estimates for the mean and variance of a 1D Gaussian, starting from the log-likelihood and working through each calculus step explicitly.
 - [**Linear Regression MLE**](/files/derivations/linear_regression_mle.pdf) — Step-by-step derivation of the ordinary least squares solution via maximum likelihood estimation, including the matrix calculus needed to arrive at the normal equations.
 - [**GMM Expectation-Maximization**](/files/derivations/GMM-EM.pdf) — Detailed derivation of the EM algorithm for Gaussian Mixture Models, covering the E-step (responsibility computation) and M-step (parameter updates) with all intermediate algebra shown.
+- [**Bayesian Linear Regression - Variational Inference**](/files/derivations/Bayesian_linear_regression_VI.pdf) — Derivation of variational inference for Bayesian linear regression, including the evidence lower bound (ELBO), posterior updates for weights and noise precision, and the predictive distribution.
 
 ## Who It's For
 
