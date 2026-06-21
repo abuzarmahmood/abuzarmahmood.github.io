@@ -19,6 +19,18 @@ Want to discuss research, collaboration opportunities, or have questions? Book a
 
 📅 [Schedule an Appointment](https://calendar.app.google/CDLQzyhk5AAdeGaZ7)
 
+## Consultancy Services
+
+I offer consultation in the following areas:
+
+- **Neuroscience:** Expert consultation on neural dynamics, neural signal analysis, and neuroscience research methodologies
+- **Data Analysis:** Comprehensive data analysis for scientific research and industrial applications
+- **Machine Learning:** ML model development, optimization, and implementation for various domains
+- **Bioinformatics:** Data analysis and computational approaches for biological data
+- **Statistics:** Statistical modeling, experimental design, and data interpretation
+
+For consultancy inquiries, please reach out via email or schedule a consultation call.
+
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/abuzarmahmood)
