@@ -21,10 +21,10 @@ Want to discuss research, collaboration opportunities, or have questions? Book a
 
 ## Consultancy Services
 
-I offer consultancy services in the following areas:
+I offer consultation in the following areas:
 
-- **Neuroscience:** Expert consultation on neural dynamics, brain imaging analysis, and neuroscience research methodologies
-- **Data Analysis:** Comprehensive data analysis services for scientific research and industrial applications
+- **Neuroscience:** Expert consultation on neural dynamics, neural signal analysis, and neuroscience research methodologies
+- **Data Analysis:** Comprehensive data analysis for scientific research and industrial applications
 - **Machine Learning:** ML model development, optimization, and implementation for various domains
 - **Bioinformatics:** Data analysis and computational approaches for biological data
 - **Statistics:** Statistical modeling, experimental design, and data interpretation
