@@ -10,7 +10,7 @@ I'm always eager to connect with fellow researchers, collaborators, or anyone in
 ## Contact Information
 
 **Location:** Boston, USA  
-**Affiliation:** Brandeis University  
+**Affiliation:** Whitehead Institute, MIT, Cambridge, MA
 **Email:** [abuzarmahmood@gmail.com](mailto:abuzarmahmood@gmail.com)
 
 ## Schedule a Meeting
@@ -30,6 +30,14 @@ I offer consultation in the following areas:
 - **Statistics:** Statistical modeling, experimental design, and data interpretation
 
 For consultancy inquiries, please reach out via email or schedule a consultation call.
+
+## Mentorship
+
+I have found mentoring junior researchers deeply fulfilling, and I take pride in the [success of my mentees](https://abuzarmahmood.github.io/teaching/students_and_techs). If you are a junior biologist, neuroscientist, data analyst, machine learning enthusiast, or aspiring researchers and are interested in discussing a mentor-mentee relationship, please don't hesitate to reach out! I am happy to meet online if you are from South Asia or other developing countries. 
+
+Whether you are looking for guidance on career paths, research opportunities, or need advice on getting started in neuroscience, data analysis, or machine learning — I would be glad to help. Schedule a meeting to discuss how we can work together.
+
+📅 [Schedule a Mentorship Chat](https://calendar.app.google/CDLQzyhk5AAdeGaZ7)
 
 ## Connect With Me
 
