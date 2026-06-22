@@ -31,6 +31,14 @@ I offer consultation in the following areas:
 
 For consultancy inquiries, please reach out via email or schedule a consultation call.
 
+## Mentorship
+
+I am happy to mentor junior biologists, neuroscientists, data analysts, machine learning enthusiasts, and aspiring researchers. If you are from South Asia or other developing countries and interested in discussing a mentor-mentee relationship, please don't hesitate to reach out!
+
+Whether you are looking for guidance on career paths, research opportunities, or need advice on getting started in neuroscience, data analysis, or machine learning — I would be glad to help. Schedule a meeting to discuss how we can work together.
+
+📅 [Schedule a Mentorship Chat](https://calendar.app.google/CDLQzyhk5AAdeGaZ7)
+
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/abuzarmahmood)
