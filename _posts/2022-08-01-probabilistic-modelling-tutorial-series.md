@@ -47,6 +47,7 @@ A recurring frustration with textbooks is that they assume too much about how in
 - [**Linear Regression MLE**](/files/derivations/linear_regression_mle.pdf) — Step-by-step derivation of the ordinary least squares solution via maximum likelihood estimation, including the matrix calculus needed to arrive at the normal equations.
 - [**GMM Expectation-Maximization**](/files/derivations/GMM-EM.pdf) — Detailed derivation of the EM algorithm for Gaussian Mixture Models, covering the E-step (responsibility computation) and M-step (parameter updates) with all intermediate algebra shown.
 - [**Bayesian Linear Regression - Variational Inference**](/files/derivations/Bayesian_linear_regression_VI.pdf) — Derivation of variational inference for Bayesian linear regression, including the evidence lower bound (ELBO), posterior updates for weights and noise precision, and the predictive distribution.
+- [**Multi Poisson Changepoint MLE**](/files/derivations/multi_poisson_changepoint_MLE.pdf) — Handwritten derivation extending Poisson changepoint maximum likelihood estimation from one transition to multiple changepoints. Includes accompanying [Jupyter notebook](/files/derivations/multi_poisson_changepoint_MLE.ipynb) with implementation code.
 
 ## Who It's For
 
