@@ -61,6 +61,16 @@ Textbooks often assume too much about how intuitive each step in a derivation is
 - [**Single Poisson Changepoint MLE**](/files/derivations/single_poisson_changepoint_MLE.pdf) — Handwritten derivation of maximum likelihood estimation for a single changepoint Poisson model, including the analytical gradients and gradient descent update rules. Includes accompanying [Jupyter notebook](/files/derivations/single_poisson_changepoint_MLE_Laplace.ipynb) with implementation, Laplace approximation of the posterior, and visualization of samples from the Laplace posterior.
 - [**Laplace Approximation**](/files/derivations/Laplace_approximation_proof.pdf) — Derivation of the Laplace approximation, showing how the negative Hessian of the log-posterior evaluated at the MAP estimate yields the covariance matrix of a Gaussian approximation to the parameter posterior.
 
+### Analytical Derivation Roadmap
+
+Future derivations will expand the changepoint modelling notes across three directions:
+
+- **Logical extensions** — Multi-trial emissions, multivariate Poisson emissions, combined multi-trial/multivariate changepoints, Dirichlet-distributed changepoints, and Dirichlet process changepoints.
+- **Pragmatic extensions** — Negative Binomial emissions for overdispersed counts, autoregressive rate histories, covariate-modulated transitions, and state-specific transition smoothness.
+- **Advanced frameworks and approximations** — Discrete HMMs, EM/Baum-Welch updates, mean-field variational inference, and Polya-Gamma data augmentation.
+
+[View the full Analytical Derivation Roadmap](/analytical-derivation-roadmap/)
+
 ---
 
 ## Upcoming Content
