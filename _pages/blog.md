@@ -62,6 +62,16 @@ Textbooks often assume too much about how intuitive each step in a derivation is
 - [**Multi Poisson Changepoint MLE**](/files/derivations/multi_poisson_changepoint_MLE.pdf) — Handwritten derivation extending the Poisson changepoint maximum likelihood framework to multiple changepoints. Includes accompanying [Jupyter notebook](/files/derivations/multi_poisson_changepoint_MLE.ipynb) with implementation code for the multi-changepoint model.
 - [**Laplace Approximation**](/files/derivations/Laplace_approximation_proof.pdf) — Derivation of the Laplace approximation, showing how the negative Hessian of the log-posterior evaluated at the MAP estimate yields the covariance matrix of a Gaussian approximation to the parameter posterior.
 
+### Analytical Derivation Roadmap
+
+Future derivations will expand the changepoint modelling notes across three directions:
+
+- **Logical extensions** — Multi-trial emissions, multivariate Poisson emissions, combined multi-trial/multivariate changepoints, Dirichlet-distributed changepoints, and Dirichlet process changepoints.
+- **Pragmatic extensions** — Negative Binomial emissions for overdispersed counts, autoregressive rate histories, covariate-modulated transitions, and state-specific transition smoothness.
+- **Advanced frameworks and approximations** — Discrete HMMs, EM/Baum-Welch updates, mean-field variational inference, and Polya-Gamma data augmentation.
+
+[View the full Analytical Derivation Roadmap](/analytical-derivation-roadmap/)
+
 ---
 
 ## Upcoming Content
