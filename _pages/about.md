@@ -3,6 +3,9 @@ title: "Exploring the Neural Symphony of Taste"
 permalink: /
 excerpt: "About - Abuzar Mahmood"
 author_profile: true
+header:
+  image: neural-taste-banner.png
+  caption: "Image credit: Gemini"
 redirect_from: 
   - /about/
   - /about.html
