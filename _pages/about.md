@@ -1,4 +1,5 @@
 ---
+title: "Exploring the Neural Symphony of Taste"
 permalink: /
 excerpt: "About - Abuzar Mahmood"
 author_profile: true
@@ -6,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Exploring the Neural Symphony of Taste
-======
 
 Hi! I'm Abuzar. My journey in neuroscience began with a fascination for how the brain processes sensory information. I studied Physics at the University of Missouri and received my PhD in Neuroscience from Brandeis University. In my dissertation, I investigated how brain regions coordinate to process taste and demonstrated that these regions likely behave as a joint attractor network—a discovery that opened new avenues for understanding neural dynamics.
 
