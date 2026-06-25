@@ -166,6 +166,11 @@
   -ms-interpolation-mode: bicubic;
 }
 
+.page__hero-image--home {
+  height: 350px;
+  object-fit: contain;
+}
+
 .page__hero-caption {
   position: absolute;
   bottom: 0;
