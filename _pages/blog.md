@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-# Decoding the Brain: Insights from the Neural Frontier
-
 Welcome to my digital laboratory notebook where science meets storytelling. Join me as I explore the fascinating intersections of neuroscience, data analysis, and technology. Whether you're a fellow researcher, a curious student, or simply intrigued by how our brains process the world around us, you'll find something to spark your interest here.
 
 ## My Writing Spaces
