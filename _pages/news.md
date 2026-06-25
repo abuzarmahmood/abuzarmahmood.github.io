@@ -22,6 +22,7 @@ Excited to share that I will be joining the [Hamilos Lab](https://hamilos.wi.mit
 
 <div style="display: flex; gap: 15px; margin: 25px 0; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
   <img src="/images/news/hamilos_lab_2026/hamilos_lab.png" alt="Hamilos Lab" style="height: 200px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
 
 ---
   
