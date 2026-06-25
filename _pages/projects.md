@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-# Innovations at the Intersection of Neuroscience and Technology
-
 Welcome to my projects portfolio. Here you'll discover how I'm leveraging technology to advance neuroscience research and solve complex problems.
 
 ---
