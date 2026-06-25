@@ -167,8 +167,8 @@
 }
 
 .page__hero-image--home {
-  max-height: 260px;
-  object-fit: cover;
+  height: 350px;
+  object-fit: contain;
 }
 
 .page__hero-caption {
