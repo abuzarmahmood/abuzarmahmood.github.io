@@ -1,8 +1,21 @@
 {
-    "name": "My Project",
+    "name": "Abuzar Mahmood Jekyll",
     "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
     "features": {
-        "ghcr.io/devcontainers/features/github-cli:1": {}
+        "ghcr.io/devcontainers/features/github-cli:1": {},
+        "ghcr.io/devcontainers/features/ruby:1": {
+            "version": "3.2"
+        },
+        "ghcr.io/devcontainers/features/node:1": {
+            "version": "20"
+        }
     },
-    "postCreateCommand": "bash .devcontainer/setup.sh"
+    "postCreateCommand": "bash .devcontainer/setup.sh",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "rebornix.Ruby"
+            ]
+        }
+    }
 }
