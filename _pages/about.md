@@ -26,4 +26,6 @@ You can also view my [CV](/detailed_cv/) or download a (fairly recent) [PDF vers
 
 Research Interests
 ======
-Broadly, I'm interested in the mechanisms underlying the dynamics of processing and neural activity in the brain. This falls under the domain of studying the brain as a dynamical system, and studying the dynamics of interactions in the brain. 
+Broadly, I'm interested in the mechanisms underlying the dynamics of processing and neural activity in the brain. This falls under the domain of studying the brain as a dynamical system, and studying the dynamics of interactions in the brain.
+
+You can also view my [reading list](/reading/) for scientific articles I've been exploring. 
