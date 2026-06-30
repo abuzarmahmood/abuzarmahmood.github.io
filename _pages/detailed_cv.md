@@ -182,6 +182,7 @@ author_profile: true
 
 | Title | Venue | Year |
 |-------|-------|------|
+| | Department of Psychological Sciences, University of Connecticut | 2026 |
 | | NIMH Computational Neuroscience Journal Club | 2026 |
 | | Hamilos Lab Meeting, Whitehead Institute, MIT | 2026 |
 | The Cortico-Amygdalar Interaction Dynamics Underlying Taste Perception & Action | MaTRIX Laboratory Meeting, Georgia Tech | Nov 2025 |
